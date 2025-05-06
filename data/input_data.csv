@@ -1,0 +1,3078 @@
+Race,Lap,Position,Overtaker,Overtaken,Turn,Year,Session
+China,14,13,Hulkenberg,Leclerc,14,2018,R
+China,14,14,Hulkenberg,Gasly,6,2018,R
+China,14,17,Ocon,Ericsson,14,2018,R
+China,15,15,Sainz,Gasly,14,2018,R
+China,16,15,Sainz,Leclerc,14,2018,R
+China,19,6,Ricciardo,Magnussen,5,2018,R
+China,21,10,Hulkenberg,Vandoorne,14,2018,R
+China,22,9,Hulkenberg,Stroll,14,2018,R
+China,24,16,Vandoorne,Stroll,2,2018,R
+China,25,12,Grosjean,Sirotkin,14,2018,R
+China,27,1,Bottas,Raikkonen,2,2018,R
+China,36,12,Ocon,Vandoorne,7,2018,R
+China,36,14,Perez,Stroll,2,2018,R
+China,36,15,Gasly,Stroll,7,2018,R
+China,37,5,Ricciardo,Raikkonen,14,2018,R
+China,40,3,Ricciardo,Hamilton,14,2018,R
+China,42,2,Ricciardo,Vettel,14,2018,R
+China,42,4,Verstappen,Hamilton,6,2018,R
+China,44,6,Hulkenberg,Vettel,1,2018,R
+China,45,1,Ricciardo,Bottas,6,2018,R
+China,48,4,Verstappen,Hamilton,6,2018,R
+China,55,7,Alonso,Vettel,3,2018,R
+Azerbaijan,6,4,Verstappen,Ricciardo,2,2018,R
+Azerbaijan,6,5,Sainz,Ricciardo,2,2018,R
+Azerbaijan,6,7,Gasly,Hulkenberg,1,2018,R
+Azerbaijan,6,8,Gasly,Stroll,1,2018,R
+Azerbaijan,6,8,Stroll,Hulkenberg,1,2018,R
+Azerbaijan,6,8,Hulkenberg,Stroll,4,2018,R
+Azerbaijan,6,15,Magnussen,Perez,1,2018,R
+Azerbaijan,8,12,Vandoorne,Grosjean,1,2018,R
+Azerbaijan,8,12,Grosjean,Vandoorne,3,2018,R
+Azerbaijan,9,4,Sainz,Verstappen,1,2018,R
+Azerbaijan,9,6,Hulkenberg,Ricciardo,2,2018,R
+Azerbaijan,9,10,Raikkonen,Gasly,3,2018,R
+Azerbaijan,10,13,Perez,Vandoorne,1,2018,R
+Azerbaijan,11,16,Ericsson,Magnussen,1,2018,R
+Azerbaijan,15,4,Verstappen,Sainz,20,2018,R
+Azerbaijan,15,8,Raikkonen,Stroll,1,2018,R
+Azerbaijan,17,6,Raikkonen,Leclerc,1,2018,R
+Azerbaijan,18,16,Gasly,Ericsson,20,2018,R
+Azerbaijan,21,8,Perez,Stroll,1,2018,R
+Azerbaijan,23,11,Sainz,Alonso,1,2018,R
+Azerbaijan,26,10,Leclerc,Alonso,1,2018,R
+Azerbaijan,27,4,Ricciardo,Verstappen,1,2018,R
+Azerbaijan,27,4,Verstappen,Ricciardo,2,2018,R
+Azerbaijan,35,4,Ricciardo,Verstappen,1,2018,R
+Azerbaijan,48,3,Raikkonen,Vettel,2,2018,R
+Azerbaijan,48,6,Leclerc,Sainz,1,2018,R
+Azerbaijan,48,8,Alonso,Stroll,1,2018,R
+Azerbaijan,48,10,Gasly,Magnussen,1,2018,R
+Azerbaijan,48,11,Vandoorne,Hartley,1,2018,R
+Azerbaijan,48,12,Vandoorne,Ericsson,1,2018,R
+Azerbaijan,49,4,Perez,Vettel,1,2018,R
+Azerbaijan,49,5,Sainz,Leclerc,1,2018,R
+Azerbaijan,51,7,Alonso,Stroll,3,2018,R
+Spain,7,10,Alonso,Ocon,3,2018,R
+Spain,7,16,Sirotkin,Hartley,1,2018,R
+Spain,20,5,Vettel,Magnussen,1,2018,R
+Spain,21,6,Bottas,Magnussen,1,2018,R
+Spain,25,13,Leclerc,Hartley,1,2018,R
+Spain,26,13,Alonso,Hartley,1,2018,R
+Spain,35,11,Perez,Stroll,1,2018,R
+Spain,35,15,Ocon,Sirotkin,1,2018,R
+Spain,42,8,Alonso,Leclerc,1,2018,R
+Spain,42,11,Perez,Ericsson,1,2018,R
+Spain,43,10,Perez,Stroll,1,2018,R
+Spain,58,9,Perez,Leclerc,1,2018,R
+Monaco,5,17,Verstappen,Ericsson,5,2018,R
+Monaco,7,16,Verstappen,Stroll,10,2018,R
+Monaco,15,13,Verstappen,Leclerc,10,2018,R
+Monaco,57,9,Verstappen,Sainz,10,2018,R
+Canada,5,11,Alonso,Magnussen,2,2018,R
+Canada,5,13,Alonso,Sirotkin,1,2018,R
+Canada,5,14,Gasly,Sirotkin,2,2018,R
+Canada,24,7,Hulkenberg,Grosjean,11,2018,R
+Canada,25,8,Sainz,Grosjean,11,2018,R
+Canada,48,9,Ocon,Grosjean,11,2018,R
+France,6,6,Raikkonen,Leclerc,8,2018,R
+France,6,16,Vettel,Alonso,3,2018,R
+France,7,13,Vettel,Hartley,11,2018,R
+France,7,14,Vettel,Stroll,1,2018,R
+France,8,5,Raikkonen,Magnussen,8,2018,R
+France,8,11,Vandoorne,Ericsson,1,2018,R
+France,8,12,Vettel,Ericsson,8,2018,R
+France,8,14,Bottas,Hartley,12,2018,R
+France,8,15,Bottas,Stroll,8,2018,R
+France,9,3,Ricciardo,Sainz,8,2018,R
+France,9,11,Vettel,Vandoorne,1,2018,R
+France,10,4,Raikkonen,Sainz,8,2018,R
+France,11,10,Vettel,Hulkenberg,11,2018,R
+France,11,12,Bottas,Vandoorne,8,2018,R
+France,13,9,Vettel,Perez,8,2018,R
+France,14,8,Vettel,Grosjean,8,2018,R
+France,14,10,Hulkenberg,Perez,8,2018,R
+France,15,11,Bottas,Perez,2,2018,R
+France,16,9,Hulkenberg,Grosjean,8,2018,R
+France,17,7,Vettel,Leclerc,8,2018,R
+France,18,6,Vettel,Magnussen,8,2018,R
+France,19,10,Bottas,Grosjean,12,2018,R
+France,20,5,Vettel,Sainz,8,2018,R
+France,24,8,Hulkenberg,Leclerc,8,2018,R
+France,27,14,Sainz,Ericsson,8,2018,R
+France,28,8,Bottas,Leclerc,8,2018,R
+France,30,12,Magnussen,Hartley,8,2018,R
+France,32,15,Leclerc,Stroll,8,2018,R
+France,34,4,Ricciardo,Vettel,12,2018,R
+France,35,8,Sainz,Vandoorne,8,2018,R
+France,35,13,Leclerc,Alonso,8,2018,R
+France,37,9,Magnussen,Vandoorne,8,2018,R
+France,38,11,Leclerc,Hartley,8,2018,R
+France,39,4,Raikkonen,Vettel,8,2018,R
+France,41,13,Vandoorne,Stroll,8,2018,R
+France,45,12,Vandoorne,Alonso,1,2018,R
+France,47,3,Raikkonen,Ricciardo,8,2018,R
+France,48,13,Ericsson,Stroll,8,2018,R
+France,48,15,Hartley,Sirotkin,8,2018,R
+Austria,2,7,Vettel,Magnussen,1,2018,R
+Austria,2,11,Sainz,Stroll,3,2018,R
+Austria,2,15,Sirotkin,Ericsson,7,2018,R
+Austria,3,6,Vettel,Grosjean,4,2018,R
+Austria,16,5,Vettel,Magnussen,4,2018,R
+Austria,20,3,Ricciardo,Raikkonen,4,2018,R
+Austria,28,14,Leclerc,Stroll,3,2018,R
+Austria,32,8,Magnussen,Sainz,3,2018,R
+Austria,34,9,Perez,Sainz,3,2018,R
+Austria,36,14,Alonso,Stroll,4,2018,R
+Austria,38,2,Raikkonen,Ricciardo,4,2018,R
+Austria,39,3,Vettel,Hamilton,3,2018,R
+Austria,61,10,Alonso,Leclerc,4,2018,R
+Austria,64,8,Alonso,Gasly,4,2018,R
+Austria,65,9,Leclerc,Gasly,4,2018,R
+Austria,65,10,Ericsson,Gasly,5,2018,R
+Britain,2,16,Hamilton,Sirotkin,9,2018,R
+Britain,3,14,Hamilton,Ericsson,6,2018,R
+Britain,5,11,Hamilton,Alonso,15,2018,R
+Britain,6,10,Hamilton,Magnussen,6,2018,R
+Britain,8,8,Hamilton,Ocon,15,2018,R
+Britain,9,7,Hamilton,Leclerc,15,2018,R
+Britain,10,6,Hamilton,Hulkenberg,15,2018,R
+Britain,14,10,Raikkonen,Magnussen,6,2018,R
+Britain,15,9,Raikkonen,Sainz,6,2018,R
+Britain,16,8,Raikkonen,Ocon,6,2018,R
+Britain,17,6,Raikkonen,Hulkenberg,15,2018,R
+Britain,17,7,Raikkonen,Leclerc,6,2018,R
+Britain,38,4,Raikkonen,Verstappen,6,2018,R
+Britain,38,4,Verstappen,Raikkonen,7,2018,R
+Britain,41,9,Alonso,Magnussen,16,2018,R
+Britain,41,11,Perez,Gasly,16,2018,R
+Britain,43,4,Raikkonen,Verstappen,15,2018,R
+Britain,47,1,Vettel,Bottas,6,2018,R
+Britain,48,2,Hamilton,Bottas,6,2018,R
+Britain,49,3,Raikkonen,Bottas,6,2018,R
+Germany,2,12,Hamilton,Ocon,1,2018,R
+Germany,3,11,Hamilton,Alonso,8,2018,R
+Germany,3,14,Ericsson,Sirotkin,8,2018,R
+Germany,3,18,Ricciardo,Gasly,2,2018,R
+Germany,4,10,Hamilton,Leclerc,6,2018,R
+Germany,6,9,Hamilton,Sainz,6,2018,R
+Germany,6,15,Ricciardo,Sirotkin,6,2018,R
+Germany,7,7,Perez,Grosjean,6,2018,R
+Germany,8,8,Hamilton,Grosjean,6,2018,R
+Germany,9,7,Hamilton,Perez,6,2018,R
+Germany,9,14,Ricciardo,Ericsson,6,2018,R
+Germany,10,13,Ricciardo,Ocon,6,2018,R
+Germany,11,6,Hamilton,Hulkenberg,6,2018,R
+Germany,14,5,Hamilton,Magnussen,6,2018,R
+Germany,17,12,Ricciardo,Alonso,6,2018,R
+Germany,17,19,Gasly,Vandoorne,6,2018,R
+Germany,19,10,Ricciardo,Leclerc,8,2018,R
+Germany,19,15,Hulkenberg,Sirotkin,6,2018,R
+Germany,21,10,Magnussen,Ocon,6,2018,R
+Germany,21,19,Leclerc,Vandoorne,6,2018,R
+Germany,22,10,Hulkenberg,Ericsson,8,2018,R
+Germany,22,11,Hulkenberg,Ocon,8,2018,R
+Germany,22,11,Ericsson,Ocon,8,2018,R
+Germany,22,15,Grosjean,Hartley,6,2018,R
+Germany,22,16,Sainz,Hartley,7,2018,R
+Germany,22,17,Sainz,Gasly,6,2018,R
+Germany,23,13,Grosjean,Stroll,6,2018,R
+Germany,23,14,Perez,Stroll,6,2018,R
+Germany,23,18,Leclerc,Gasly,6,2018,R
+Germany,24,12,Grosjean,Sirotkin,6,2018,R
+Germany,24,13,Perez,Sirotkin,8,2018,R
+Germany,24,15,Sainz,Stroll,6,2018,R
+Germany,24,17,Leclerc,Hartley,6,2018,R
+Germany,26,14,Leclerc,Sirotkin,6,2018,R
+Germany,30,6,Magnussen,Alonso,6,2018,R
+Germany,30,10,Perez,Ericsson,6,2018,R
+Germany,42,14,Ericsson,Gasly,6,2018,R
+Germany,46,18,Vandoorne,Gasly,6,2018,R
+Germany,49,6,Hulkenberg,Magnussen,8,2018,R
+Germany,50,7,Grosjean,Magnussen,6,2018,R
+Germany,50,7,Perez,Grosjean,6,2018,R
+Germany,50,8,Perez,Magnussen,6,2018,R
+Germany,51,2,Bottas,Raikkonen,11,2018,R
+Germany,63,10,Sainz,Hartley,6,2018,R
+Germany,64,8,Grosjean,Ericsson,6,2018,R
+Hungary,6,13,Ricciardo,Vandoorne,1,2018,R
+Hungary,7,10,Grosjean,Alonso,3,2018,R
+Hungary,9,11,Ricciardo,Alonso,1,2018,R
+Hungary,11,10,Ricciardo,Grosjean,1,2018,R
+Hungary,13,9,Ricciardo,Hulkenberg,1,2018,R
+Hungary,14,8,Ricciardo,Hartley,1,2018,R
+Hungary,16,7,Ricciardo,Sainz,1,2018,R
+Hungary,17,5,Raikkonen,Magnussen,1,2018,R
+Hungary,18,3,Bottas,Gasly,1,2018,R
+Hungary,21,6,Ricciardo,Magnussen,3,2018,R
+Hungary,22,4,Raikkonen,Gasly,1,2018,R
+Hungary,25,17,Perez,Ericsson,1,2018,R
+Hungary,27,5,Ricciardo,Gasly,1,2018,R
+Hungary,30,16,Perez,Stroll,1,2018,R
+Hungary,54,13,Hulkenberg,Perez,1,2018,R
+Hungary,65,2,Vettel,Bottas,2,2018,R
+Hungary,70,4,Ricciardo,Bottas,1,2018,R
+Belgium,5,9,Sirotkin,Ericsson,5,2018,R
+Belgium,5,15,Bottas,Vandoorne,1,2018,R
+Belgium,7,4,Verstappen,Ocon,5,2018,R
+Belgium,7,13,Bottas,Hartley,2,2018,R
+Belgium,9,12,Bottas,Sainz,5,2018,R
+Belgium,10,3,Verstappen,Perez,5,2018,R
+Belgium,11,11,Bottas,Stroll,5,2018,R
+Belgium,12,10,Bottas,Sirotkin,5,2018,R
+Belgium,17,9,Bottas,Ericsson,5,2018,R
+Belgium,18,8,Bottas,Gasly,5,2018,R
+Belgium,22,7,Bottas,Magnussen,5,2018,R
+Belgium,23,2,Hamilton,Verstappen,5,2018,R
+Belgium,25,7,Ocon,Gasly,18,2018,R
+Belgium,27,10,Hartley,Ericsson,5,2018,R
+Belgium,28,10,Ericsson,Hartley,1,2018,R
+Belgium,28,10,Hartley,Ericsson,5,2018,R
+Belgium,29,10,Ericsson,Hartley,5,2018,R
+Belgium,32,5,Bottas,Ocon,5,2018,R
+Belgium,40,4,Bottas,Perez,5,2018,R
+Italy,4,1,Hamilton,Raikkonen,1,2018,R
+Italy,4,1,Raikkonen,Hamilton,4,2018,R
+Italy,4,12,Perez,Magnussen,11,2018,R
+Italy,5,14,Hulkenberg,Vandoorne,1,2018,R
+Italy,5,15,Ricciardo,Vandoorne,4,2018,R
+Italy,5,16,Vettel,Vandoorne,6,2018,R
+Italy,6,15,Vettel,Hulkenberg,11,2018,R
+Italy,8,10,Perez,Alonso,1,2018,R
+Italy,8,12,Leclerc,Gasly,1,2018,R
+Italy,9,12,Gasly,Leclerc,4,2018,R
+Italy,9,13,Vettel,Leclerc,6,2018,R
+Italy,9,14,Vettel,Ricciardo,1,2018,R
+Italy,11,14,Hulkenberg,Leclerc,1,2018,R
+Italy,12,12,Ricciardo,Gasly,1,2018,R
+Italy,14,6,Ocon,Sainz,1,2018,R
+Italy,14,10,Vettel,Sirotkin,8,2018,R
+Italy,16,9,Vettel,Stroll,1,2018,R
+Italy,18,8,Vettel,Perez,1,2018,R
+Italy,20,7,Vettel,Sainz,1,2018,R
+Italy,24,5,Vettel,Ocon,1,2018,R
+Italy,24,9,Ricciardo,Stroll,1,2018,R
+Italy,29,5,Verstappen,Ocon,1,2018,R
+Italy,32,8,Vettel,Stroll,1,2018,R
+Italy,35,14,Vandoorne,Leclerc,1,2018,R
+Italy,38,5,Vettel,Perez,8,2018,R
+Italy,45,1,Hamilton,Raikkonen,1,2018,R
+Singapore,17,5,Vettel,Perez,1,2018,R
+Singapore,26,9,Leclerc,Gasly,14,2018,R
+Singapore,34,13,Hulkenberg,Sirotkin,5,2018,R
+Singapore,37,14,Grosjean,Sirotkin,9,2018,R
+Singapore,37,15,Gasly,Sirotkin,14,2018,R
+Singapore,39,16,Perez,Sirotkin,16,2018,R
+Singapore,42,17,Magnussen,Hartley,2,2018,R
+Singapore,43,8,Sainz,Ericsson,16,2018,R
+Singapore,45,18,Perez,Sirotkin,7,2018,R
+Russia,2,5,Leclerc,Magnussen,4,2018,R
+Russia,2,11,Verstappen,Sainz,13,2018,R
+Russia,2,12,Verstappen,Hulkenberg,2,2018,R
+Russia,3,9,Verstappen,Grosjean,13,2018,R
+Russia,3,10,Verstappen,Ericsson,5,2018,R
+Russia,3,14,Ricciardo,Stroll,13,2018,R
+Russia,3,15,Ricciardo,Sirotkin,2,2018,R
+Russia,5,7,Verstappen,Ocon,13,2018,R
+Russia,6,6,Verstappen,Magnussen,13,2018,R
+Russia,8,5,Verstappen,Leclerc,2,2018,R
+Russia,8,11,Ricciardo,Grosjean,6,2018,R
+Russia,8,12,Hulkenberg,Grosjean,13,2018,R
+Russia,9,10,Ricciardo,Ericsson,2,2018,R
+Russia,16,4,Hamilton,Vettel,5,2018,R
+Russia,18,9,Magnussen,Sainz,2,2018,R
+Russia,51,16,Vandoorne,Sainz,2,2018,R
+Japan,2,11,Ricciardo,Sainz,15,2018,R
+Japan,2,13,Ricciardo,Leclerc,1,2018,R
+Japan,3,10,Ricciardo,Hartley,13,2018,R
+Japan,9,8,Ricciardo,Ocon,1,2018,R
+Japan,11,7,Ricciardo,Perez,15,2018,R
+Japan,12,17,Vettel,Ericsson,1,2018,R
+Japan,13,5,Ricciardo,Grosjean,15,2018,R
+Japan,13,6,Ricciardo,Gasly,1,2018,R
+Japan,13,15,Vettel,Stroll,15,2018,R
+Japan,14,17,Ericsson,Sirotkin,1,2018,R
+Japan,15,14,Vettel,Leclerc,13,2018,R
+Japan,16,13,Vettel,Hulkenberg,15,2018,R
+Japan,19,12,Vettel,Alonso,1,2018,R
+Japan,20,8,Raikkonen,Ocon,1,2018,R
+Japan,21,7,Raikkonen,Perez,1,2018,R
+Japan,21,11,Vettel,Hartley,1,2018,R
+Japan,22,4,Verstappen,Grosjean,15,2018,R
+Japan,22,6,Raikkonen,Gasly,1,2018,R
+Japan,23,5,Raikkonen,Grosjean,13,2018,R
+Japan,27,13,Perez,Sirotkin,1,2018,R
+Japan,28,10,Leclerc,Hulkenberg,15,2018,R
+Japan,28,11,Perez,Hulkenberg,15,2018,R
+Japan,28,12,Perez,Ericsson,1,2018,R
+Japan,28,14,Ocon,Sirotkin,1,2018,R
+Japan,28,15,Vettel,Sirotkin,13,2018,R
+Japan,29,11,Ocon,Hulkenberg,13,2018,R
+Japan,29,12,Ocon,Ericsson,1,2018,R
+Japan,29,12,Vettel,Hulkenberg,15,2018,R
+Japan,29,13,Vettel,Ericsson,11,2018,R
+Japan,30,8,Perez,Leclerc,1,2018,R
+Japan,30,10,Vettel,Ocon,15,2018,R
+Japan,31,9,Vettel,Leclerc,1,2018,R
+Japan,31,10,Ocon,Leclerc,13,2018,R
+Japan,32,8,Vettel,Perez,13,2018,R
+Japan,33,11,Gasly,Ericsson,1,2018,R
+Japan,33,13,Sainz,Sirotkin,13,2018,R
+Japan,34,6,Vettel,Grosjean,13,2018,R
+Japan,34,10,Gasly,Leclerc,15,2018,R
+Japan,35,12,Sainz,Ericsson,1,2018,R
+Japan,37,15,Alonso,Stroll,1,2018,R
+Japan,38,14,Alonso,Sirotkin,1,2018,R
+Japan,41,7,Perez,Grosjean,15,2018,R
+Japan,50,10,Sainz,Gasly,1,2018,R
+Austin,2,13,Vettel,Vandoorne,12,2018,R
+Austin,2,14,Vettel,Gasly,1,2018,R
+Austin,3,8,Verstappen,Perez,13,2018,R
+Austin,3,11,Vettel,Sirotkin,15,2018,R
+Austin,3,12,Vettel,Hartley,12,2018,R
+Austin,6,9,Vettel,Perez,1,2018,R
+Austin,7,8,Vettel,Ocon,12,2018,R
+Austin,8,5,Verstappen,Hulkenberg,12,2018,R
+Austin,12,5,Vettel,Hulkenberg,12,2018,R
+Austin,23,14,Ocon,Gasly,15,2018,R
+Austin,26,3,Verstappen,Vettel,16,2018,R
+Austin,29,12,Perez,Vandoorne,16,2018,R
+Austin,55,4,Vettel,Bottas,12,2018,R
+Mexico,2,6,Raikkonen,Sainz,1,2018,R
+Mexico,4,14,Vandoorne,Sirotkin,4,2018,R
+Mexico,12,7,Bottas,Leclerc,17,2018,R
+Mexico,14,7,Perez,Ericsson,1,2018,R
+Mexico,14,9,Sainz,Magnussen,4,2018,R
+Mexico,15,2,Verstappen,Raikkonen,1,2018,R
+Mexico,15,10,Hulkenberg,Magnussen,4,2018,R
+Mexico,17,3,Hamilton,Raikkonen,3,2018,R
+Mexico,17,4,Ricciardo,Raikkonen,4,2018,R
+Mexico,18,11,Leclerc,Grosjean,1,2018,R
+Mexico,25,10,Leclerc,Magnussen,1,2018,R
+Mexico,34,3,Vettel,Ricciardo,1,2018,R
+Mexico,34,8,Perez,Leclerc,1,2018,R
+Mexico,39,2,Vettel,Hamilton,1,2018,R
+Mexico,53,12,Gasly,Ocon,1,2018,R
+Brazil,2,9,Ricciardo,Ericsson,1,2018,R
+Brazil,2,13,Hulkenberg,Sainz,8,2018,R
+Brazil,2,13,Sainz,Hulkenberg,12,2018,R
+Brazil,3,4,Verstappen,Raikkonen,1,2018,R
+Brazil,3,8,Ricciardo,Gasly,1,2018,R
+Brazil,4,3,Verstappen,Vettel,1,2018,R
+Brazil,4,4,Raikkonen,Vettel,4,2018,R
+Brazil,5,6,Ricciardo,Leclerc,1,2018,R
+Brazil,9,10,Magnussen,Ericsson,2,2018,R
+Brazil,9,11,Perez,Ericsson,3,2018,R
+Brazil,9,12,Sainz,Ericsson,3,2018,R
+Brazil,9,13,Hulkenberg,Ericsson,3,2018,R
+Brazil,10,2,Verstappen,Bottas,1,2018,R
+Brazil,14,15,Ocon,Alonso,2,2018,R
+Brazil,23,8,Bottas,Magnussen,4,2018,R
+Brazil,24,5,Hamilton,Leclerc,1,2018,R
+Brazil,29,6,Bottas,Grosjean,1,2018,R
+Brazil,29,8,Vettel,Magnussen,10,2018,R
+Brazil,30,18,Vandoorne,Alonso,1,2018,R
+Brazil,30,18,Alonso,Vandoorne,4,2018,R
+Brazil,31,7,Vettel,Grosjean,1,2018,R
+Brazil,31,18,Vandoorne,Alonso,1,2018,R
+Brazil,44,3,Raikkonen,Bottas,1,2018,R
+Brazil,46,5,Ricciardo,Vettel,4,2018,R
+Brazil,50,13,Sainz,Ocon,1,2018,R
+Brazil,55,16,Vandoorne,Stroll,1,2018,R
+Brazil,58,6,Vettel,Leclerc,1,2018,R
+Brazil,59,4,Ricciardo,Bottas,1,2018,R
+Brazil,60,14,Vandoorne,Sirotkin,4,2018,R
+Brazil,64,17,Alonso,Stroll,1,2018,R
+Brazil,68,16,Alonso,Sirotkin,1,2018,R
+Brazil,68,16,Sirotkin,Alonso,4,2018,R
+Brazil,68,16,Alonso,Sirotkin,6,2018,R
+Abu Dhabi,5,8,Verstappen,Ocon,7,2018,R
+Abu Dhabi,5,8,Ocon,Verstappen,8,2018,R
+Abu Dhabi,5,9,Perez,Verstappen,8,2018,R
+Abu Dhabi,5,9,Verstappen,Perez,11,2018,R
+Abu Dhabi,5,15,Magnussen,Stroll,1,2018,R
+Abu Dhabi,6,8,Verstappen,Ocon,7,2018,R
+Abu Dhabi,6,8,Ocon,Verstappen,8,2018,R
+Abu Dhabi,6,8,Verstappen,Ocon,11,2018,R
+Abu Dhabi,9,4,Hamilton,Verstappen,8,2018,R
+Abu Dhabi,9,4,Verstappen,Hamilton,11,2018,R
+Abu Dhabi,10,12,Leclerc,Magnussen,8,2018,R
+Abu Dhabi,11,16,Grosjean,Sirotkin,8,2018,R
+Abu Dhabi,14,8,Sainz,Ericsson,11,2018,R
+Abu Dhabi,16,5,Vettel,Ocon,8,2018,R
+Abu Dhabi,23,16,Ocon,Sirotkin,11,2018,R
+Abu Dhabi,25,16,Hartley,Sirotkin,1,2018,R
+Abu Dhabi,26,9,Leclerc,Alonso,8,2018,R
+Abu Dhabi,30,11,Grosjean,Vandoorne,8,2018,R
+Abu Dhabi,30,11,Vandoorne,Grosjean,11,2018,R
+Abu Dhabi,30,12,Ocon,Grosjean,11,2018,R
+Abu Dhabi,32,12,Grosjean,Vandoorne,8,2018,R
+Abu Dhabi,32,16,Alonso,Sirotkin,8,2018,R
+Abu Dhabi,34,13,Gasly,Vandoorne,8,2018,R
+Abu Dhabi,34,13,Vandoorne,Gasly,11,2018,R
+Abu Dhabi,34,15,Alonso,Hartley,11,2018,R
+Abu Dhabi,35,2,Vettel,Bottas,11,2018,R
+Abu Dhabi,38,3,Verstappen,Bottas,12,2018,R
+Abu Dhabi,39,4,Ricciardo,Bottas,8,2018,R
+Australia,2,16,Gasly,Giovinazzi,3,2019,R
+Australia,18,9,Magnussen,Giovinazzi,14,2019,R
+Australia,19,10,Hulkenberg,Giovinazzi,1,2019,R
+Australia,19,11,Raikkonen,Giovinazzi,3,2019,R
+Australia,26,12,Norris,Giovinazzi,3,2019,R
+Australia,26,13,Grosjean,Giovinazzi,13,2019,R
+Australia,26,15,Perez,Albon,11,2019,R
+Australia,27,14,Perez,Giovinazzi,1,2019,R
+Australia,31,3,Verstappen,Vettel,3,2019,R
+Australia,38,10,Kvyat,Gasly,3,2019,R
+Bahrain,2,2,Leclerc,Bottas,1,2019,R
+Bahrain,2,3,Hamilton,Bottas,6,2019,R
+Bahrain,2,13,Norris,Albon,1,2019,R
+Bahrain,2,15,Kvyat,Giovinazzi,4,2019,R
+Bahrain,3,17,Russell,Kubica,1,2019,R
+Bahrain,3,17,Kubica,Russell,4,2019,R
+Bahrain,4,9,Hulkenberg,Perez,7,2019,R
+Bahrain,4,16,Russell,Kubica,1,2019,R
+Bahrain,6,1,Leclerc,Vettel,1,2019,R
+Bahrain,6,7,Raikkonen,Magnussen,10,2019,R
+Bahrain,6,7,Magnussen,Raikkonen,10,2019,R
+Bahrain,6,7,Raikkonen,Magnussen,11,2019,R
+Bahrain,6,8,Hulkenberg,Magnussen,11,2019,R
+Bahrain,6,16,Kubica,Russell,11,2019,R
+Bahrain,7,9,Perez,Magnussen,1,2019,R
+Bahrain,7,11,Norris,Gasly,4,2019,R
+Bahrain,9,9,Norris,Magnussen,1,2019,R
+Bahrain,11,10,Raikkonen,Kubica,9,2019,R
+Bahrain,11,11,Raikkonen,Russell,4,2019,R
+Bahrain,11,12,Perez,Russell,11,2019,R
+Bahrain,11,16,Gasly,Albon,1,2019,R
+Bahrain,11,16,Albon,Gasly,4,2019,R
+Bahrain,12,11,Perez,Kvyat,14,2019,R
+Bahrain,12,12,Norris,Russell,8,2019,R
+Bahrain,12,14,Gasly,Albon,1,2019,R
+Bahrain,14,5,Bottas,Verstappen,4,2019,R
+Bahrain,15,1,Leclerc,Ricciardo,4,2019,R
+Bahrain,15,15,Kvyat,Kubica,11,2019,R
+Bahrain,16,2,Hamilton,Ricciardo,1,2019,R
+Bahrain,16,3,Vettel,Ricciardo,11,2019,R
+Bahrain,17,11,Gasly,Magnussen,1,2019,R
+Bahrain,18,4,Bottas,Ricciardo,4,2019,R
+Bahrain,18,12,Albon,Magnussen,1,2019,R
+Bahrain,21,7,Hulkenberg,Raikkonen,1,2019,R
+Bahrain,23,2,Vettel,Hamilton,4,2019,R
+Bahrain,26,7,Norris,Raikkonen,1,2019,R
+Bahrain,30,11,Ricciardo,Magnussen,1,2019,R
+Bahrain,31,18,Sainz,Kubica,1,2019,R
+Bahrain,33,6,Verstappen,Raikkonen,8,2019,R
+Bahrain,33,9,Ricciardo,Perez,1,2019,R
+Bahrain,34,12,Raikkonen,Kvyat,10,2019,R
+Bahrain,34,13,Albon,Kvyat,11,2019,R
+Bahrain,34,13,Albon,Raikkonen,2,2019,R
+Bahrain,34,13,Raikkonen,Albon,9,2019,R
+Bahrain,37,2,Vettel,Bottas,14,2019,R
+Bahrain,37,16,Stroll,Russell,8,2019,R
+Bahrain,38,2,Hamilton,Vettel,4,2019,R
+Bahrain,38,13,Kvyat,Magnussen,1,2019,R
+Bahrain,39,6,Hulkenberg,Ricciardo,1,2019,R
+Bahrain,41,6,Vettel,Ricciardo,11,2019,R
+Bahrain,41,7,Vettel,Norris,1,2019,R
+Bahrain,42,14,Kvyat,Magnussen,4,2019,R
+Bahrain,43,5,Vettel,Hulkenberg,1,2019,R
+Bahrain,43,18,Sainz,Kubica,11,2019,R
+Bahrain,44,7,Norris,Ricciardo,1,2019,R
+Bahrain,44,10,Gasly,Albon,1,2019,R
+Bahrain,45,8,Raikkonen,Ricciardo,1,2019,R
+Bahrain,49,17,Sainz,Russell,1,2019,R
+Bahrain,52,9,Gasly,Ricciardo,1,2019,R
+China,2,16,Kvyat,Kubica,14,2019,R
+China,3,11,Raikkonen,Magnussen,14,2019,R
+China,3,15,Kvyat,Russell,14,2019,R
+China,5,15,Albon,Giovinazzi,14,2019,R
+China,10,9,Raikkonen,Hulkenberg,14,2019,R
+China,19,5,Verstappen,Vettel,14,2019,R
+China,19,5,Vettel,Verstappen,15,2019,R
+China,23,6,Gasly,Raikkonen,7,2019,R
+China,26,10,Raikkonen,Magnussen,7,2019,R
+China,26,12,Albon,Giovinazzi,14,2019,R
+China,27,13,Stroll,Giovinazzi,14,2019,R
+China,28,9,Raikkonen,Grosjean,14,2019,R
+China,30,11,Albon,Magnussen,6,2019,R
+China,39,2,Bottas,Leclerc,14,2019,R
+China,42,3,Vettel,Leclerc,14,2019,R
+China,43,17,Norris,Kubica,14,2019,R
+China,50,17,Russell,Kubica,14,2019,R
+Azerbaijan,4,8,Leclerc,Kvyat,2,2019,R
+Azerbaijan,5,6,Leclerc,Norris,1,2019,R
+Azerbaijan,5,7,Leclerc,Sainz,1,2019,R
+Azerbaijan,5,10,Ricciardo,Kvyat,1,2019,R
+Azerbaijan,5,11,Albon,Kvyat,2,2019,R
+Azerbaijan,6,4,Verstappen,Perez,1,2019,R
+Azerbaijan,10,6,Gasly,Stroll,13,2019,R
+Azerbaijan,10,7,Gasly,Ricciardo,3,2019,R
+Azerbaijan,10,8,Gasly,Albon,1,2019,R
+Azerbaijan,11,19,Hulkenberg,Giovinazzi,2,2019,R
+Azerbaijan,15,8,Norris,Grosjean,1,2019,R
+Azerbaijan,16,9,Sainz,Grosjean,1,2019,R
+Azerbaijan,18,10,Kvyat,Grosjean,1,2019,R
+Azerbaijan,19,13,Ricciardo,Raikkonen,1,2019,R
+Azerbaijan,20,14,Stroll,Raikkonen,1,2019,R
+Azerbaijan,21,12,Ricciardo,Magnussen,1,2019,R
+Azerbaijan,27,13,Raikkonen,Magnussen,1,2019,R
+Azerbaijan,27,16,Albon,Hulkenberg,3,2019,R
+Azerbaijan,32,1,Bottas,Leclerc,1,2019,R
+Azerbaijan,33,2,Hamilton,Leclerc,1,2019,R
+Azerbaijan,36,5,Leclerc,Gasly,3,2019,R
+Spain,24,9,Ricciardo,Sainz,1,2019,R
+Spain,24,15,Kvyat,Raikkonen,5,2019,R
+Spain,27,7,Grosjean,Hulkenberg,10,2019,R
+Spain,36,8,Kvyat,Magnussen,1,2019,R
+Spain,41,5,Vettel,Gasly,10,2019,R
+Spain,53,7,Magnussen,Grosjean,1,2019,R
+Spain,53,9,Sainz,Kvyat,1,2019,R
+Spain,59,8,Sainz,Grosjean,1,2019,R
+Spain,61,9,Kvyat,Grosjean,1,2019,R
+Monaco,2,13,Leclerc,Norris,6,2019,R
+Monaco,7,12,Leclerc,Grosjean,16,2019,R
+Canada,6,8,Verstappen,Norris,13,2019,R
+Canada,11,10,Gasly,Giovinazzi,13,2019,R
+Canada,12,7,Ricciardo,Stroll,13,2019,R
+Canada,14,13,Kvyat,Magnussen,1,2019,R
+Canada,14,14,Perez,Magnussen,8,2019,R
+Canada,27,12,Kvyat,Grosjean,13,2019,R
+Canada,32,13,Perez,Grosjean,1,2019,R
+Canada,35,3,Leclerc,Verstappen,13,2019,R
+Canada,38,5,Bottas,Ricciardo,13,2019,R
+Canada,50,6,Verstappen,Hulkenberg,13,2019,R
+Canada,51,5,Verstappen,Ricciardo,13,2019,R
+Canada,66,9,Stroll,Sainz,13,2019,R
+Canada,67,10,Kvyat,Sainz,1,2019,R
+France,3,17,Grosjean,Kubica,8,2019,R
+France,5,6,Vettel,Norris,8,2019,R
+France,6,9,Ricciardo,Giovinazzi,8,2019,R
+France,6,10,Raikkonen,Giovinazzi,10,2019,R
+France,7,5,Vettel,Sainz,8,2019,R
+France,7,11,Hulkenberg,Giovinazzi,8,2019,R
+France,8,16,Kvyat,Grosjean,8,2019,R
+France,12,13,Stroll,Magnussen,8,2019,R
+France,14,14,Albon,Magnussen,9,2019,R
+France,15,15,Kvyat,Magnussen,10,2019,R
+France,18,14,Ricciardo,Gasly,8,2019,R
+France,20,11,Norris,Kvyat,8,2019,R
+France,24,18,Magnussen,Russell,8,2019,R
+France,26,16,Giovinazzi,Albon,8,2019,R
+France,27,12,Ricciardo,Grosjean,8,2019,R
+France,28,13,Gasly,Grosjean,8,2019,R
+France,29,16,Albon,Giovinazzi,10,2019,R
+France,32,10,Ricciardo,Kvyat,8,2019,R
+France,47,14,Kvyat,Albon,8,2019,R
+France,52,7,Raikkonen,Ricciardo,9,2019,R
+France,52,9,Hulkenberg,Norris,9,2019,R
+Austria,2,16,Sainz,Kubica,4,2019,R
+Austria,4,5,Vettel,Norris,3,2019,R
+Austria,6,4,Vettel,Raikkonen,3,2019,R
+Austria,7,6,Verstappen,Norris,3,2019,R
+Austria,9,6,Verstappen,Raikkonen,3,2019,R
+Austria,10,16,Albon,Grosjean,1,2019,R
+Austria,11,15,Albon,Magnussen,3,2019,R
+Austria,11,15,Magnussen,Albon,4,2019,R
+Austria,23,6,Vettel,Gasly,3,2019,R
+Austria,26,14,Giovinazzi,Grosjean,3,2019,R
+Austria,32,9,Gasly,Raikkonen,4,2019,R
+Austria,41,7,Norris,Ricciardo,4,2019,R
+Austria,44,7,Gasly,Ricciardo,2,2019,R
+Austria,50,3,Verstappen,Vettel,4,2019,R
+Austria,56,2,Verstappen,Bottas,3,2019,R
+Austria,68,1,Verstappen,Leclerc,3,2019,R
+Austria,68,1,Leclerc,Verstappen,4,2019,R
+Austria,69,1,Verstappen,Leclerc,3,2019,R
+Austria,70,4,Vettel,Hamilton,4,2019,R
+Great Britain,4,1,Hamilton,Bottas,7,2019,R
+Great Britain,4,1,Bottas,Hamilton,9,2019,R
+Great Britain,12,5,Gasly,Vettel,3,2019,R
+Great Britain,14,4,Leclerc,Verstappen,5,2019,R
+Great Britain,24,5,Leclerc,Verstappen,16,2019,R
+Great Britain,24,5,Verstappen,Leclerc,17,2019,R
+Great Britain,24,10,Ricciardo,Hulkenberg,6,2019,R
+Great Britain,25,9,Ricciardo,Albon,7,2019,R
+Great Britain,36,5,Leclerc,Gasly,4,2019,R
+Great Britain,37,3,Verstappen,Vettel,15,2019,R
+Great Britain,43,8,Raikkonen,Albon,15,2019,R
+Germany,2,3,Verstappen,Raikkonen,6,2019,R
+Germany,2,10,Perez,Magnussen,1,2019,R
+Germany,2,10,Magnussen,Perez,2,2019,R
+Germany,2,10,Perez,Magnussen,4,2019,R
+Germany,2,10,Magnussen,Perez,6,2019,R
+Germany,2,12,Ricciardo,Giovinazzi,4,2019,R
+Germany,2,12,Giovinazzi,Ricciardo,6,2019,R
+Germany,2,13,Vettel,Ricciardo,6,2019,R
+Germany,2,18,Norris,Russell,10,2019,R
+Germany,5,2,Bottas,Magnussen,2,2019,R
+Germany,5,3,Verstappen,Magnussen,6,2019,R
+Germany,5,5,Leclerc,Stroll,2,2019,R
+Germany,5,6,Hulkenberg,Stroll,7,2019,R
+Germany,5,8,Raikkonen,Norris,17,2019,R
+Germany,5,9,Raikkonen,Russell,6,2019,R
+Germany,5,10,Vettel,Russell,6,2019,R
+Germany,5,10,Sainz,Russell,12,2019,R
+Germany,5,10,Raikkonen,Kubica,2,2019,R
+Germany,5,11,Vettel,Kubica,4,2019,R
+Germany,5,12,Sainz,Kubica,4,2019,R
+Germany,5,13,Albon,Kubica,6,2019,R
+Germany,6,4,Leclerc,Magnussen,2,2019,R
+Germany,6,5,Hulkenberg,Magnussen,4,2019,R
+Germany,6,7,Raikkonen,Stroll,7,2019,R
+Germany,6,8,Vettel,Stroll,12,2019,R
+Germany,6,9,Vettel,Norris,2,2019,R
+Germany,6,10,Sainz,Norris,6,2019,R
+Germany,6,11,Albon,Norris,17,2019,R
+Germany,6,12,Albon,Russell,2,2019,R
+Germany,6,13,Giovinazzi,Russell,12,2019,R
+Germany,6,14,Giovinazzi,Kubica,3,2019,R
+Germany,6,15,Giovinazzi,Grosjean,2,2019,R
+Germany,6,15,Grosjean,Kubica,6,2019,R
+Germany,6,16,Ricciardo,Kubica,6,2019,R
+Germany,6,18,Gasly,Ricciardo,5,2019,R
+Germany,7,6,Raikkonen,Magnussen,4,2019,R
+Germany,7,9,Sainz,Stroll,5,2019,R
+Germany,7,10,Albon,Stroll,16,2019,R
+Germany,7,13,Grosjean,Russell,2,2019,R
+Germany,8,6,Raikkonen,Magnussen,2,2019,R
+Germany,8,7,Vettel,Magnussen,5,2019,R
+Germany,8,8,Sainz,Magnussen,7,2019,R
+Germany,14,12,Gasly,Kvyat,6,2019,R
+Germany,18,5,Hulkenberg,Raikkonen,6,2019,R
+Germany,20,15,Stroll,Magnussen,6,2019,R
+Germany,34,8,Gasly,Vettel,1,2019,R
+Germany,34,8,Vettel,Gasly,6,2019,R
+Germany,34,12,Grosjean,Magnussen,1,2019,R
+Germany,36,4,Hamilton,Albon,7,2019,R
+Germany,37,2,Bottas,Hulkenberg,6,2019,R
+Germany,38,3,Hamilton,Hulkenberg,6,2019,R
+Germany,46,3,Albon,Hamilton,4,2019,R
+Germany,46,3,Hamilton,Albon,6,2019,R
+Germany,46,4,Sainz,Albon,6,2019,R
+Germany,46,5,Vettel,Giovinazzi,4,2019,R
+Germany,46,5,Gasly,Albon,9,2019,R
+Germany,46,6,Raikkonen,Albon,10,2019,R
+Germany,46,7,Vettel,Albon,12,2019,R
+Germany,48,1,Verstappen,Stroll,5,2019,R
+Germany,48,7,Albon,Gasly,6,2019,R
+Germany,48,10,Grosjean,Raikkonen,6,2019,R
+Germany,50,6,Albon,Magnussen,5,2019,R
+Germany,51,2,Kvyat,Stroll,5,2019,R
+Germany,54,9,Grosjean,Magnussen,1,2019,R
+Germany,54,10,Raikkonen,Magnussen,6,2019,R
+Germany,60,4,Vettel,Sainz,6,2019,R
+Germany,62,3,Vettel,Stroll,6,2019,R
+Germany,62,8,Giovinazzi,Grosjean,6,2019,R
+Germany,63,2,Vettel,Kvyat,2,2019,R
+Hungary,2,4,Vettel,Bottas,1,2019,R
+Hungary,8,13,Kvyat,Russell,1,2019,R
+Hungary,8,17,Ricciardo,Giovinazzi,1,2019,R
+Hungary,10,16,Ricciardo,Stroll,2,2019,R
+Hungary,11,19,Bottas,Kubica,1,2019,R
+Hungary,12,14,Magnussen,Russell,2,2019,R
+Hungary,13,18,Bottas,Giovinazzi,1,2019,R
+Hungary,14,15,Ricciardo,Russell,3,2019,R
+Hungary,14,17,Bottas,Stroll,2,2019,R
+Hungary,15,16,Bottas,Russell,1,2019,R
+Hungary,18,12,Kvyat,Albon,4,2019,R
+Hungary,24,15,Kvyat,Grosjean,1,2019,R
+Hungary,31,10,Norris,Ricciardo,1,2019,R
+Hungary,32,6,Gasly,Hulkenberg,1,2019,R
+Hungary,32,11,Bottas,Ricciardo,1,2019,R
+Hungary,33,7,Raikkonen,Hulkenberg,1,2019,R
+Hungary,33,9,Norris,Magnussen,1,2019,R
+Hungary,34,10,Bottas,Magnussen,1,2019,R
+Hungary,49,11,Bottas,Albon,1,2019,R
+Hungary,50,10,Bottas,Kvyat,2,2019,R
+Hungary,51,9,Bottas,Perez,1,2019,R
+Hungary,52,18,Stroll,Kubica,1,2019,R
+Hungary,60,17,Stroll,Giovinazzi,1,2019,R
+Hungary,61,11,Albon,Kvyat,1,2019,R
+Hungary,63,8,Bottas,Norris,1,2019,R
+Hungary,64,10,Albon,Perez,1,2019,R
+Hungary,65,12,Hulkenberg,Kvyat,2,2019,R
+Hungary,67,1,Hamilton,Verstappen,1,2019,R
+Hungary,67,13,Magnussen,Kvyat,1,2019,R
+Hungary,67,14,Ricciardo,Kvyat,1,2019,R
+Hungary,68,3,Vettel,Leclerc,1,2019,R
+Belgium,5,16,Ricciardo,Kubica,5,2019,R
+Belgium,6,15,Ricciardo,Russell,5,2019,R
+Belgium,6,17,Raikkonen,Kubica,5,2019,R
+Belgium,7,16,Raikkonen,Russell,5,2019,R
+Belgium,10,7,Perez,Magnussen,5,2019,R
+Belgium,11,8,Gasly,Magnussen,5,2019,R
+Belgium,12,9,Stroll,Magnussen,5,2019,R
+Belgium,13,10,Kvyat,Magnussen,5,2019,R
+Belgium,14,9,Giovinazzi,Magnussen,5,2019,R
+Belgium,14,11,Albon,Magnussen,18,2019,R
+Belgium,14,16,Gasly,Kubica,5,2019,R
+Belgium,16,10,Ricciardo,Magnussen,5,2019,R
+Belgium,17,4,Vettel,Norris,5,2019,R
+Belgium,17,12,Perez,Raikkonen,5,2019,R
+Belgium,17,13,Gasly,Raikkonen,5,2019,R
+Belgium,17,15,Hulkenberg,Russell,5,2019,R
+Belgium,17,16,Stroll,Russell,5,2019,R
+Belgium,18,11,Perez,Magnussen,5,2019,R
+Belgium,18,12,Gasly,Magnussen,18,2019,R
+Belgium,18,14,Hulkenberg,Raikkonen,1,2019,R
+Belgium,19,15,Stroll,Raikkonen,5,2019,R
+Belgium,20,6,Norris,Giovinazzi,5,2019,R
+Belgium,20,13,Hulkenberg,Magnussen,5,2019,R
+Belgium,21,5,Norris,Kvyat,5,2019,R
+Belgium,21,14,Stroll,Magnussen,5,2019,R
+Belgium,24,9,Perez,Grosjean,5,2019,R
+Belgium,26,7,Perez,Ricciardo,5,2019,R
+Belgium,27,12,Kvyat,Stroll,5,2019,R
+Belgium,28,17,Magnussen,Kubica,5,2019,R
+Belgium,32,2,Hamilton,Vettel,5,2019,R
+Belgium,32,10,Albon,Gasly,5,2019,R
+Belgium,34,7,Kvyat,Ricciardo,5,2019,R
+Belgium,34,10,Gasly,Grosjean,5,2019,R
+Belgium,35,11,Giovinazzi,Grosjean,5,2019,R
+Belgium,37,7,Albon,Kvyat,5,2019,R
+Belgium,37,10,Giovinazzi,Gasly,5,2019,R
+Belgium,37,17,Raikkonen,Kubica,5,2019,R
+Belgium,39,10,Gasly,Ricciardo,5,2019,R
+Belgium,40,11,Hulkenberg,Ricciardo,17,2019,R
+Belgium,40,12,Stroll,Ricciardo,18,2019,R
+Belgium,40,12,Hulkenberg,Grosjean,5,2019,R
+Belgium,40,13,Stroll,Grosjean,5,2019,R
+Belgium,41,14,Magnussen,Grosjean,10,2019,R
+Belgium,44,5,Albon,Perez,5,2019,R
+Italy,2,4,Vettel,Hulkenberg,1,2019,R
+Italy,3,8,Albon,Sainz,4,2019,R
+Italy,3,8,Sainz,Albon,6,2019,R
+Italy,5,5,Ricciardo,Hulkenberg,1,2019,R
+Italy,15,7,Albon,Giovinazzi,1,2019,R
+Italy,15,15,Verstappen,Raikkonen,1,2019,R
+Italy,18,13,Verstappen,Gasly,1,2019,R
+Italy,22,3,Leclerc,Hulkenberg,11,2019,R
+Italy,23,4,Hamilton,Hulkenberg,1,2019,R
+Italy,26,2,Leclerc,Ricciardo,1,2019,R
+Italy,26,3,Hamilton,Ricciardo,4,2019,R
+Italy,32,11,Verstappen,Gasly,1,2019,R
+Italy,33,14,Vettel,Russell,1,2019,R
+Singapore,7,13,Ricciardo,Stroll,7,2019,R
+Singapore,10,12,Ricciardo,Kvyat,14,2019,R
+Singapore,10,13,Stroll,Kvyat,15,2019,R
+Singapore,11,14,Perez,Kvyat,16,2019,R
+Singapore,17,15,Raikkonen,Kubica,5,2019,R
+Singapore,17,16,Perez,Kubica,18,2019,R
+Singapore,17,17,Kvyat,Kubica,20,2019,R
+Singapore,23,10,Albon,Hulkenberg,7,2019,R
+Singapore,23,14,Raikkonen,Grosjean,7,2019,R
+Singapore,27,4,Vettel,Stroll,7,2019,R
+Singapore,29,3,Vettel,Ricciardo,7,2019,R
+Singapore,29,5,Leclerc,Stroll,7,2019,R
+Singapore,30,2,Vettel,Gasly,7,2019,R
+Singapore,30,6,Verstappen,Stroll,7,2019,R
+Singapore,31,1,Vettel,Giovinazzi,7,2019,R
+Singapore,31,4,Leclerc,Ricciardo,7,2019,R
+Singapore,31,5,Verstappen,Ricciardo,14,2019,R
+Singapore,32,3,Leclerc,Gasly,7,2019,R
+Singapore,32,4,Verstappen,Gasly,14,2019,R
+Singapore,33,2,Leclerc,Giovinazzi,1,2019,R
+Singapore,33,3,Verstappen,Giovinazzi,7,2019,R
+Singapore,33,4,Hamilton,Giovinazzi,14,2019,R
+Singapore,33,5,Hamilton,Ricciardo,7,2019,R
+Singapore,33,6,Bottas,Ricciardo,14,2019,R
+Singapore,33,7,Albon,Ricciardo,16,2019,R
+Singapore,34,5,Bottas,Giovinazzi,1,2019,R
+Singapore,34,6,Albon,Giovinazzi,6,2019,R
+Singapore,34,7,Ricciardo,Giovinazzi,7,2019,R
+Singapore,34,7,Hulkenberg,Giovinazzi,10,2019,R
+Singapore,34,8,Norris,Giovinazzi,10,2019,R
+Singapore,41,11,Gasly,Stroll,7,2019,R
+Singapore,41,12,Hulkenberg,Stroll,16,2019,R
+Singapore,48,8,Gasly,Magnussen,14,2019,R
+Singapore,48,9,Gasly,Raikkonen,5,2019,R
+Singapore,48,9,Hulkenberg,Magnussen,15,2019,R
+Singapore,48,10,Hulkenberg,Raikkonen,7,2019,R
+Singapore,48,12,Giovinazzi,Kvyat,10,2019,R
+Singapore,48,14,Grosjean,Ricciardo,13,2019,R
+Singapore,48,15,Sainz,Ricciardo,16,2019,R
+Singapore,48,17,Stroll,Kubica,7,2019,R
+Singapore,49,11,Giovinazzi,Raikkonen,1,2019,R
+Singapore,50,14,Ricciardo,Kvyat,7,2019,R
+Singapore,52,10,Giovinazzi,Magnussen,8,2019,R
+Singapore,52,11,Grosjean,Magnussen,9,2019,R
+Singapore,52,12,Sainz,Magnussen,16,2019,R
+Singapore,52,13,Ricciardo,Magnussen,18,2019,R
+Singapore,54,14,Stroll,Magnussen,16,2019,R
+Singapore,54,15,Stroll,Kvyat,9,2019,R
+Singapore,55,15,Kvyat,Magnussen,7,2019,R
+Russia,4,9,Magnussen,Hulkenberg,2,2019,R
+Russia,7,4,Bottas,Sainz,2,2019,R
+Russia,8,7,Verstappen,Perez,5,2019,R
+Russia,12,6,Verstappen,Norris,2,2019,R
+Russia,14,8,Hulkenberg,Perez,13,2019,R
+Russia,17,5,Verstappen,Sainz,2,2019,R
+Russia,17,12,Albon,Kvyat,13,2019,R
+Russia,20,16,Hulkenberg,Giovinazzi,2,2019,R
+Russia,24,8,Albon,Gasly,5,2019,R
+Russia,24,9,Kvyat,Gasly,13,2019,R
+Russia,25,10,Sainz,Gasly,2,2019,R
+Russia,37,10,Hulkenberg,Stroll,2,2019,R
+Russia,42,6,Albon,Magnussen,13,2019,R
+Russia,48,5,Albon,Sainz,5,2019,R
+Japan,7,10,Ricciardo,Giovinazzi,1,2019,R
+Japan,9,16,Leclerc,Verstappen,1,2019,R
+Japan,11,15,Leclerc,Kvyat,13,2019,R
+Japan,13,14,Leclerc,Raikkonen,15,2019,R
+Japan,18,3,Vettel,Sainz,13,2019,R
+Japan,18,11,Leclerc,Giovinazzi,1,2019,R
+Japan,19,7,Albon,Perez,15,2019,R
+Japan,21,5,Albon,Ricciardo,1,2019,R
+Japan,24,9,Gasly,Norris,1,2019,R
+Japan,25,8,Gasly,Kvyat,1,2019,R
+Japan,25,10,Stroll,Norris,1,2019,R
+Japan,25,11,Hulkenberg,Norris,13,2019,R
+Japan,27,9,Hulkenberg,Kvyat,1,2019,R
+Japan,27,10,Perez,Kvyat,1,2019,R
+Japan,27,11,Leclerc,Kvyat,13,2019,R
+Japan,30,9,Leclerc,Perez,13,2019,R
+Japan,31,8,Leclerc,Hulkenberg,13,2019,R
+Japan,33,7,Leclerc,Stroll,1,2019,R
+Japan,34,6,Leclerc,Gasly,13,2019,R
+Japan,38,13,Norris,Giovinazzi,1,2019,R
+Japan,40,12,Norris,Grosjean,1,2019,R
+Japan,41,10,Ricciardo,Perez,1,2019,R
+Japan,44,9,Ricciardo,Hulkenberg,1,2019,R
+Japan,48,7,Ricciardo,Gasly,1,2019,R
+Mexico,4,4,Hamilton,Sainz,1,2019,R
+Mexico,4,7,Verstappen,Bottas,13,2019,R
+Mexico,5,9,Perez,Gasly,1,2019,R
+Mexico,6,6,Bottas,Norris,1,2019,R
+Mexico,8,5,Bottas,Sainz,1,2019,R
+Mexico,10,8,Perez,Kvyat,1,2019,R
+Mexico,15,5,Sainz,Albon,1,2019,R
+Mexico,16,12,Kvyat,Sainz,1,2019,R
+Mexico,16,12,Kvyat,Kubica,1,2019,R
+Mexico,16,13,Kubica,Sainz,1,2019,R
+Mexico,16,13,Sainz,Kubica,12,2019,R
+Mexico,19,16,Raikkonen,Kubica,12,2019,R
+Mexico,19,17,Raikkonen,Russell,1,2019,R
+Mexico,21,11,Sainz,Magnussen,1,2019,R
+Mexico,22,13,Verstappen,Magnussen,6,2019,R
+Mexico,23,6,Kubica,Russell,6,2019,R
+Mexico,23,14,Raikkonen,Magnussen,1,2019,R
+Mexico,25,12,Verstappen,Gasly,1,2019,R
+Mexico,28,11,Verstappen,Hulkenberg,1,2019,R
+Mexico,30,10,Verstappen,Sainz,1,2019,R
+Mexico,30,10,Sainz,Verstappen,3,2019,R
+Mexico,30,10,Verstappen,Sainz,4,2019,R
+Mexico,31,11,Hulkenberg,Sainz,1,2019,R
+Mexico,35,12,Gasly,Sainz,4,2019,R
+Mexico,42,7,Verstappen,Perez,1,2019,R
+Austin,2,6,Ricciardo,Vettel,1,2019,R
+Austin,4,13,Kvyat,Grosjean,12,2019,R
+Austin,6,18,Russell,Kubica,12,2019,R
+Austin,8,5,Ricciardo,Norris,12,2019,R
+Austin,10,11,Kvyat,Magnussen,1,2019,R
+Austin,11,14,Perez,Giovinazzi,11,2019,R
+Austin,12,15,Albon,Giovinazzi,12,2019,R
+Austin,16,2,Bottas,Leclerc,1,2019,R
+Austin,16,3,Verstappen,Leclerc,12,2019,R
+Austin,20,13,Raikkonen,Grosjean,11,2019,R
+Austin,22,4,Leclerc,Hulkenberg,12,2019,R
+Austin,23,6,Ricciardo,Perez,1,2019,R
+Austin,23,7,Norris,Perez,12,2019,R
+Austin,24,1,Bottas,Hamilton,12,2019,R
+Austin,24,5,Ricciardo,Hulkenberg,12,2019,R
+Austin,24,15,Magnussen,Grosjean,12,2019,R
+Austin,25,6,Norris,Hulkenberg,1,2019,R
+Austin,25,10,Albon,Raikkonen,12,2019,R
+Austin,26,7,Sainz,Hulkenberg,12,2019,R
+Austin,27,8,Gasly,Hulkenberg,12,2019,R
+Austin,27,9,Albon,Hulkenberg,15,2019,R
+Austin,29,12,Perez,Kvyat,15,2019,R
+Austin,31,7,Albon,Sainz,12,2019,R
+Austin,35,6,Albon,Norris,1,2019,R
+Austin,37,5,Albon,Ricciardo,12,2019,R
+Austin,41,10,Perez,Albon,1,2019,R
+Austin,45,6,Albon,Sainz,12,2019,R
+Austin,48,5,Albon,Ricciardo,1,2019,R
+Austin,49,8,Norris,Gasly,12,2019,R
+Austin,52,1,Bottas,Hamilton,12,2019,R
+Brazil,2,12,Ricciardo,Norris,1,2019,R
+Brazil,2,12,Norris,Ricciardo,4,2019,R
+Brazil,4,7,Raikkonen,Grosjean,1,2019,R
+Brazil,4,15,Sainz,Perez,1,2019,R
+Brazil,5,8,Leclerc,Grosjean,1,2019,R
+Brazil,7,7,Leclerc,Raikkonen,1,2019,R
+Brazil,10,6,Leclerc,Gasly,1,2019,R
+Brazil,16,19,Ricciardo,Russell,10,2019,R
+Brazil,21,11,Sainz,Stroll,4,2019,R
+Brazil,22,4,Hamilton,Leclerc,11,2019,R
+Brazil,22,5,Verstappen,Leclerc,12,2019,R
+Brazil,23,4,Verstappen,Hamilton,1,2019,R
+Brazil,24,4,Hamilton,Albon,1,2019,R
+Brazil,26,19,Russell,Kubica,1,2019,R
+Brazil,27,9,Gasly,Stroll,1,2019,R
+Brazil,29,3,Vettel,Leclerc,1,2019,R
+Brazil,60,1,Verstappen,Hamilton,1,2019,R
+Brazil,60,3,Albon,Vettel,1,2019,R
+Brazil,60,7,Sainz,Grosjean,1,2019,R
+Brazil,60,8,Raikkonen,Grosjean,4,2019,R
+Brazil,60,9,Giovinazzi,Grosjean,5,2019,R
+Brazil,60,10,Ricciardo,Grosjean,9,2019,R
+Brazil,60,11,Kvyat,Ricciardo,3,2019,R
+Brazil,60,11,Ricciardo,Perez,4,2019,R
+Brazil,60,11,Ricciardo,Kvyat,8,2019,R
+Brazil,60,12,Kvyat,Perez,4,2019,R
+Brazil,60,12,Perez,Kvyat,10,2019,R
+Brazil,60,13,Norris,Kvyat,12,2019,R
+Brazil,60,13,Kvyat,Norris,14,2019,R
+Brazil,60,15,Magnussen,Stroll,11,2019,R
+Brazil,60,15,Stroll,Magnussen,13,2019,R
+Brazil,60,16,Hulkenberg,Magnussen,13,2019,R
+Brazil,61,13,Norris,Kvyat,1,2019,R
+Brazil,61,14,Hulkenberg,Stroll,1,2019,R
+Brazil,61,15,Stroll,Kvyat,4,2019,R
+Brazil,61,15,Hulkenberg,Kvyat,2,2019,R
+Brazil,62,12,Norris,Perez,2,2019,R
+Brazil,62,16,Magnussen,Kvyat,2,2019,R
+Brazil,63,12,Perez,Grosjean,4,2019,R
+Brazil,64,13,Hulkenberg,Grosjean,1,2019,R
+Brazil,64,14,Stroll,Grosjean,13,2019,R
+Brazil,64,15,Magnussen,Grosjean,14,2019,R
+Brazil,65,16,Kvyat,Grosjean,4,2019,R
+Brazil,66,4,Leclerc,Vettel,1,2019,R
+Brazil,70,3,Hamilton,Gasly,1,2019,R
+Brazil,70,10,Magnussen,Hulkenberg,2,2019,R
+Brazil,70,11,Kvyat,Hulkenberg,4,2019,R
+Brazil,71,10,Kvyat,Magnussen,1,2019,R
+Abu Dhabi,2,9,Hulkenberg,Magnussen,8,2019,R
+Abu Dhabi,2,12,Giovinazzi,Stroll,8,2019,R
+Abu Dhabi,2,14,Bottas,Raikkonen,12,2019,R
+Abu Dhabi,5,13,Bottas,Stroll,5,2019,R
+Abu Dhabi,6,10,Perez,Magnussen,12,2019,R
+Abu Dhabi,6,12,Bottas,Giovinazzi,8,2019,R
+Abu Dhabi,7,11,Bottas,Magnussen,12,2019,R
+Abu Dhabi,9,17,Norris,Russell,8,2019,R
+Abu Dhabi,10,15,Norris,Kubica,8,2019,R
+Abu Dhabi,12,8,Bottas,Perez,8,2019,R
+Abu Dhabi,13,7,Vettel,Perez,8,2019,R
+Abu Dhabi,15,14,Sainz,Ricciardo,8,2019,R
+Abu Dhabi,18,4,Bottas,Hulkenberg,8,2019,R
+Abu Dhabi,18,12,Norris,Grosjean,8,2019,R
+Abu Dhabi,18,13,Sainz,Grosjean,12,2019,R
+Abu Dhabi,19,12,Hulkenberg,Sainz,8,2019,R
+Abu Dhabi,19,16,Giovinazzi,Russell,8,2019,R
+Abu Dhabi,21,8,Kvyat,Raikkonen,12,2019,R
+Abu Dhabi,24,15,Giovinazzi,Kubica,12,2019,R
+Abu Dhabi,25,18,Stroll,Kubica,8,2019,R
+Abu Dhabi,26,16,Grosjean,Russell,12,2019,R
+Abu Dhabi,32,2,Verstappen,Leclerc,8,2019,R
+Abu Dhabi,35,18,Russell,Kubica,8,2019,R
+Abu Dhabi,38,13,Raikkonen,Magnussen,8,2019,R
+Abu Dhabi,39,4,Bottas,Albon,8,2019,R
+Abu Dhabi,40,11,Perez,Ricciardo,8,2019,R
+Abu Dhabi,43,12,Sainz,Magnussen,8,2019,R
+Abu Dhabi,45,8,Perez,Hulkenberg,8,2019,R
+Abu Dhabi,46,9,Kvyat,Hulkenberg,12,2019,R
+Abu Dhabi,46,11,Sainz,Raikkonen,12,2019,R
+Abu Dhabi,46,13,Ricciardo,Magnussen,8,2019,R
+Abu Dhabi,46,18,Gasly,Kubica,12,2019,R
+Abu Dhabi,49,12,Ricciardo,Raikkonen,8,2019,R
+Abu Dhabi,53,5,Vettel,Albon,12,2019,R
+Abu Dhabi,54,7,Perez,Norris,13,2019,R
+Abu Dhabi,54,10,Sainz,Hulkenberg,12,2019,R
+Abu Dhabi,54,11,Ricciardo,Hulkenberg,15,2019,R
+Austria,3,3,Albon,Norris,4,2020,R
+Austria,4,4,Hamilton,Norris,3,2020,R
+Austria,6,14,Kvyat,Giovinazzi,4,2020,R
+Austria,7,13,Kvyat,Magnussen,3,2020,R
+Austria,9,3,Hamilton,Albon,4,2020,R
+Austria,15,14,Ocon,Giovinazzi,4,2020,R
+Austria,18,14,Raikkonen,Giovinazzi,4,2020,R
+Austria,25,11,Ocon,Magnussen,3,2020,R
+Austria,33,4,Perez,Norris,4,2020,R
+Austria,36,14,Vettel,Grosjean,3,2020,R
+Austria,44,12,Raikkonen,Russell,4,2020,R
+Austria,55,3,Albon,Perez,3,2020,R
+Austria,55,10,Kvyat,Giovinazzi,3,2020,R
+Austria,61,2,Albon,Hamilton,4,2020,R
+Austria,61,7,Sainz,Ocon,6,2020,R
+Austria,61,11,Giovinazzi,Latifi,3,2020,R
+Austria,62,6,Sainz,Gasly,3,2020,R
+Austria,63,10,Giovinazzi,Vettel,4,2020,R
+Austria,64,4,Leclerc,Norris,4,2020,R
+Austria,64,9,Giovinazzi,Kvyat,3,2020,R
+Austria,64,9,Kvyat,Giovinazzi,4,2020,R
+Austria,64,12,Albon,Latifi,3,2020,R
+Austria,66,3,Leclerc,Perez,3,2020,R
+Austria,67,9,Giovinazzi,Kvyat,4,2020,R
+Austria,67,11,Albon,Vettel,4,2020,R
+Austria,68,11,Vettel,Albon,3,2020,R
+Austria,69,4,Norris,Perez,3,2020,R
+Austria,69,10,Vettel,Kvyat,3,2020,R
+Austria,71,5,Sainz,Perez,4,2020,R
+Styria,4,11,Magnussen,Russell,4,2020,R
+Styria,4,13,Perez,Giovinazzi,4,2020,R
+Styria,5,9,Stroll,Norris,4,2020,R
+Styria,6,3,Bottas,Sainz,4,2020,R
+Styria,7,12,Kvyat,Magnussen,3,2020,R
+Styria,8,4,Albon,Sainz,4,2020,R
+Styria,13,15,Raikkonen,Magnussen,4,2020,R
+Styria,14,10,Perez,Norris,3,2020,R
+Styria,17,8,Stroll,Gasly,4,2020,R
+Styria,18,9,Perez,Gasly,4,2020,R
+Styria,19,6,Ricciardo,Ocon,4,2020,R
+Styria,21,10,Norris,Gasly,4,2020,R
+Styria,36,9,Stroll,Raikkonen,4,2020,R
+Styria,37,8,Stroll,Giovinazzi,3,2020,R
+Styria,37,10,Sainz,Raikkonen,4,2020,R
+Styria,38,9,Sainz,Giovinazzi,4,2020,R
+Styria,39,8,Sainz,Perez,4,2020,R
+Styria,39,8,Perez,Sainz,6,2020,R
+Styria,41,13,Giovinazzi,Magnussen,4,2020,R
+Styria,45,6,Perez,Stroll,6,2020,R
+Styria,47,13,Raikkonen,Magnussen,7,2020,R
+Styria,48,5,Perez,Ricciardo,4,2020,R
+Styria,54,16,Gasly,Latifi,4,2020,R
+Styria,55,15,Gasly,Russell,4,2020,R
+Styria,66,2,Bottas,Verstappen,4,2020,R
+Styria,66,2,Verstappen,Bottas,6,2020,R
+Styria,67,2,Bottas,Verstappen,4,2020,R
+Styria,68,12,Magnussen,Giovinazzi,4,2020,R
+Styria,70,6,Stroll,Ricciardo,3,2020,R
+Styria,70,7,Norris,Ricciardo,4,2020,R
+Styria,71,6,Norris,Stroll,4,2020,R
+Hungary,2,14,Ocon,Raikkonen,12,2020,R
+Hungary,2,15,Ocon,Russell,1,2020,R
+Hungary,3,10,Albon,Latifi,6,2020,R
+Hungary,3,11,Ocon,Norris,1,2020,R
+Hungary,4,4,Ocon,Hamilton,2,2020,R
+Hungary,4,4,Hamilton,Ocon,13,2020,R
+Hungary,4,6,Magnussen,Russell,13,2020,R
+Hungary,4,7,Magnussen,Giovinazzi,1,2020,R
+Hungary,4,8,Grosjean,Giovinazzi,12,2020,R
+Hungary,4,9,Grosjean,Stroll,3,2020,R
+Hungary,4,9,Stroll,Giovinazzi,12,2020,R
+Hungary,4,10,Leclerc,Giovinazzi,12,2020,R
+Hungary,4,11,Bottas,Giovinazzi,13,2020,R
+Hungary,4,17,Kvyat,Gasly,1,2020,R
+Hungary,5,9,Albon,Ricciardo,2,2020,R
+Hungary,7,4,Stroll,Grosjean,1,2020,R
+Hungary,8,6,Bottas,Leclerc,1,2020,R
+Hungary,8,6,Leclerc,Bottas,2,2020,R
+Hungary,10,6,Bottas,Leclerc,1,2020,R
+Hungary,12,5,Bottas,Grosjean,1,2020,R
+Hungary,14,14,Raikkonen,Gasly,1,2020,R
+Hungary,15,15,Ocon,Gasly,1,2020,R
+Hungary,16,3,Stroll,Magnussen,1,2020,R
+Hungary,17,4,Bottas,Magnussen,1,2020,R
+Hungary,18,7,Albon,Leclerc,1,2020,R
+Hungary,19,8,Vettel,Leclerc,1,2020,R
+Hungary,29,6,Albon,Grosjean,1,2020,R
+Hungary,31,7,Perez,Grosjean,1,2020,R
+Hungary,32,13,Leclerc,Norris,3,2020,R
+Hungary,32,16,Russell,Ocon,2,2020,R
+Hungary,33,8,Ricciardo,Grosjean,4,2020,R
+Hungary,34,9,Sainz,Grosjean,2,2020,R
+Hungary,37,8,Albon,Magnussen,1,2020,R
+Hungary,39,9,Perez,Magnussen,2,2020,R
+Hungary,46,8,Ricciardo,Magnussen,2,2020,R
+Hungary,46,13,Ocon,Grosjean,1,2020,R
+Hungary,47,14,Norris,Grosjean,2,2020,R
+Hungary,51,17,Giovinazzi,Russell,2,2020,R
+Hungary,60,10,Sainz,Leclerc,1,2020,R
+Hungary,66,5,Albon,Vettel,2,2020,R
+Hungary,69,13,Norris,Ocon,2,2020,R
+Great Britain,11,12,Kvyat,Giovinazzi,6,2020,R
+Great Britain,12,7,Stroll,Norris,15,2020,R
+Great Britain,19,7,Norris,Ricciardo,7,2020,R
+Great Britain,19,10,Ocon,Vettel,Loop,2020,R
+Great Britain,22,5,Sainz,Grosjean,15,2020,R
+Great Britain,24,6,Norris,Grosjean,15,2020,R
+Great Britain,30,12,Gasly,Giovinazzi,15,2020,R
+Great Britain,32,15,Latifi,Raikkonen,15,2020,R
+Great Britain,36,7,Ricciardo,Grosjean,6,2020,R
+Great Britain,36,8,Stroll,Grosjean,15,2020,R
+Great Britain,37,10,Gasly,Vettel,16,2020,R
+Great Britain,39,15,Albon,Raikkonen,15,2020,R
+Great Britain,45,12,Albon,Giovinazzi,15,2020,R
+Great Britain,45,13,Albon,Russell,6,2020,R
+Great Britain,46,8,Ocon,Stroll,6,2020,R
+Great Britain,49,9,Gasly,Stroll,1,2020,R
+Great Britain,49,11,Albon,Vettel,15,2020,R
+Great Britain,51,9,Albon,Stroll,9,2020,R
+Great Britain,10,14,Gasly,Raikkonen,15,2020,R
+Great Britain,13,15,Albon,Raikkonen,9,2020,R
+Great Britain,15,5,Hamilton,Leclerc,15,2020,R
+Great Britain,17,11,Vettel,Grosjean,6,2020,R
+Great Britain,17,12,Norris,Grosjean,15,2020,R
+Great Britain,20,10,Leclerc,Norris,4,2020,R
+Great Britain,21,12,Albon,Gasly,7,2020,R
+Great Britain,27,1,Verstappen,Bottas,7,2020,R
+Great Britain,29,7,Albon,Norris,7,2020,R
+Great Britain,31,7,Kvyat,Ocon,3,2020,R
+Great Britain,31,9,Sainz,Ricciardo,3,2020,R
+Great Britain,35,8,Albon,Ocon,15,2020,R
+Great Britain,35,10,Norris,Ricciardo,15,2020,R
+Great Britain,45,3,Hamilton,Leclerc,15,2020,R
+Great Britain,50,2,Hamilton,Bottas,6,2020,R
+Great Britain,50,5,Albon,Stroll,9,2020,R
+Spain,2,12,Kvyat,Ricciardo,4,2020,R
+Spain,5,3,Bottas,Stroll,1,2020,R
+Spain,20,14,Ocon,Raikkonen,1,2020,R
+Spain,20,15,Albon,Raikkonen,4,2020,R
+Spain,23,16,Kvyat,Latifi,1,2020,R
+Spain,28,9,Ocon,Magnussen,1,2020,R
+Spain,28,10,Albon,Magnussen,3,2020,R
+Spain,28,11,Sainz,Magnussen,4,2020,R
+Spain,29,10,Sainz,Albon,1,2020,R
+Spain,30,6,Sainz,Ocon,1,2020,R
+Spain,31,6,Perez,Sainz,1,2020,R
+Spain,33,8,Albon,Ocon,1,2020,R
+Spain,35,4,Stroll,Ricciardo,1,2020,R
+Spain,55,16,Raikkonen,Grosjean,1,2020,R
+Spain,56,5,Stroll,Vettel,1,2020,R
+Spain,59,6,Sainz,Vettel,1,2020,R
+Spain,59,17,Giovinazzi,Grosjean,1,2020,R
+Belgium,2,9,Gasly,Perez,2,2020,R
+Belgium,3,8,Gasly,Leclerc,5,2020,R
+Belgium,4,9,Perez,Leclerc,5,2020,R
+Belgium,6,10,Norris,Leclerc,5,2020,R
+Belgium,7,11,Kvyat,Leclerc,5,2020,R
+Belgium,8,18,Latifi,Magnussen,5,2020,R
+Belgium,16,12,Raikkonen,Vettel,5,2020,R
+Belgium,17,5,Ricciardo,Perez,5,2020,R
+Belgium,17,6,Albon,Perez,18,2020,R
+Belgium,21,4,Ricciardo,Gasly,5,2020,R
+Belgium,24,5,Albon,Gasly,5,2020,R
+Belgium,26,6,Ocon,Gasly,5,2020,R
+Belgium,29,11,Perez,Vettel,5,2020,R
+Belgium,30,13,Gasly,Grosjean,5,2020,R
+Belgium,32,12,Gasly,Vettel,5,2020,R
+Belgium,33,10,Perez,Raikkonen,5,2020,R
+Belgium,34,11,Gasly,Raikkonen,5,2020,R
+Belgium,35,15,Leclerc,Magnussen,5,2020,R
+Belgium,36,9,Perez,Kvyat,5,2020,R
+Belgium,37,7,Norris,Stroll,5,2020,R
+Belgium,40,9,Gasly,Perez,5,2020,R
+Belgium,44,5,Ocon,Albon,5,2020,R
+Italy,2,7,Stroll,Verstappen,1,2020,R
+Italy,2,17,Vettel,Russell,1,2020,R
+Italy,3,7,Verstappen,Stroll,1,2020,R
+Italy,4,14,Albon,Giovinazzi,4,2020,R
+Italy,17,13,Albon,Leclerc,4,2020,R
+Italy,24,4,Leclerc,Giovinazzi,1,2020,R
+Italy,24,5,Leclerc,Raikkonen,1,2020,R
+Italy,24,5,Raikkonen,Giovinazzi,3,2020,R
+Italy,24,7,Sainz,Latifi,1,2020,R
+Italy,24,8,Norris,Latifi,4,2020,R
+Italy,24,9,Bottas,Latifi,4,2020,R
+Italy,24,12,Verstappen,Perez,1,2020,R
+Italy,24,15,Russell,Perez,3,2020,R
+Italy,24,15,Perez,Russell,4,2020,R
+Italy,24,17,Albon,Grosjean,4,2020,R
+Italy,29,4,Sainz,Stroll,1,2020,R
+Italy,29,11,Perez,Latifi,4,2020,R
+Italy,29,13,Grosjean,Verstappen,4,2020,R
+Italy,34,2,Sainz,Raikkonen,1,2020,R
+Italy,35,3,Stroll,Raikkonen,4,2020,R
+Italy,36,4,Norris,Raikkonen,1,2020,R
+Italy,37,5,Bottas,Raikkonen,1,2020,R
+Italy,38,6,Ricciardo,Raikkonen,1,2020,R
+Italy,40,14,Hamilton,Albon,4,2020,R
+Italy,41,13,Hamilton,Russell,1,2020,R
+Italy,42,12,Hamilton,Grosjean,1,2020,R
+Italy,43,7,Ocon,Raikkonen,4,2020,R
+Italy,44,8,Kvyat,Raikkonen,1,2020,R
+Italy,45,11,Hamilton,Latifi,4,2020,R
+Italy,46,9,Perez,Raikkonen,4,2020,R
+Italy,46,10,Hamilton,Raikkonen,8,2020,R
+Italy,49,9,Hamilton,Perez,1,2020,R
+Italy,51,8,Hamilton,Kvyat,4,2020,R
+Italy,52,11,Latifi,Raikkonen,1,2020,R
+Italy,53,7,Hamilton,Ocon,1,2020,R
+Italy,53,12,Grosjean,Raikkonen,4,2020,R
+Tuscany,11,12,Vettel,Grosjean,1,2020,R
+Tuscany,15,5,Ricciardo,Perez,1,2020,R
+Tuscany,16,11,Vettel,Raikkonen,1,2020,R
+Tuscany,18,3,Stroll,Leclerc,1,2020,R
+Tuscany,18,6,Albon,Perez,1,2020,R
+Tuscany,19,4,Ricciardo,Leclerc,1,2020,R
+Tuscany,20,5,Albon,Leclerc,1,2020,R
+Tuscany,21,6,Perez,Leclerc,1,2020,R
+Tuscany,26,12,Leclerc,Grosjean,1,2020,R
+Tuscany,28,5,Norris,Perez,1,2020,R
+Tuscany,30,6,Perez,Leclerc,1,2020,R
+Tuscany,33,7,Norris,Leclerc,1,2020,R
+Tuscany,34,12,Raikkonen,Grosjean,1,2020,R
+Tuscany,48,2,Bottas,Ricciardo,1,2020,R
+Tuscany,51,3,Albon,Ricciardo,1,2020,R
+Tuscany,51,10,Vettel,Grosjean,1,2020,R
+Russia,6,15,Russell,Raikkonen,2,2020,R
+Russia,6,15,Raikkonen,Russell,4,2020,R
+Russia,6,17,Norris,Albon,13,2020,R
+Russia,8,10,Kvyat,Grosjean,13,2020,R
+Russia,9,14,Raikkonen,Latifi,7,2020,R
+Russia,10,16,Norris,Russell,18,2020,R
+Russia,11,16,Russell,Norris,2,2020,R
+Russia,11,17,Albon,Norris,2,2020,R
+Russia,12,16,Albon,Russell,14,2020,R
+Russia,13,17,Norris,Russell,2,2020,R
+Russia,15,5,Perez,Ricciardo,3,2020,R
+Russia,16,15,Albon,Latifi,4,2020,R
+Russia,16,16,Norris,Latifi,13,2020,R
+Russia,19,7,Hamilton,Vettel,2,2020,R
+Russia,20,9,Ricciardo,Raikkonen,2,2020,R
+Russia,27,3,Verstappen,Kvyat,2,2020,R
+Russia,27,7,Ricciardo,Vettel,11,2020,R
+Russia,28,8,Ocon,Vettel,2,2020,R
+Russia,34,9,Gasly,Raikkonen,2,2020,R
+Russia,36,16,Raikkonen,Latifi,2,2020,R
+Russia,37,13,Albon,Giovinazzi,13,2020,R
+Russia,39,12,Albon,Grosjean,2,2020,R
+Russia,40,13,Giovinazzi,Grosjean,2,2020,R
+Russia,41,14,Vettel,Grosjean,2,2020,R
+Russia,42,11,Albon,Magnussen,2,2020,R
+Russia,45,10,Gasly,Albon,13,2020,R
+Russia,47,9,Gasly,Norris,2,2020,R
+Russia,48,11,Giovinazzi,Magnussen,3,2020,R
+Eifel,2,13,Magnussen,Gasly,4,2020,R
+Eifel,9,4,Ricciardo,Leclerc,2,2020,R
+Eifel,11,10,Gasly,Magnussen,1,2020,R
+Eifel,13,1,Hamilton,Bottas,2,2020,R
+Eifel,13,11,Kvyat,Magnussen,2,2020,R
+Eifel,13,18,Vettel,Russell,1,2020,R
+Eifel,15,3,Bottas,Ricciardo,13,2020,R
+Eifel,16,10,Albon,Kvyat,15,2020,R
+Eifel,18,7,Ricciardo,Gasly,13,2020,R
+Eifel,20,10,Leclerc,Hulkenberg,1,2020,R
+Eifel,28,7,Leclerc,Gasly,1,2020,R
+Eifel,29,6,Gasly,Perez,2,2020,R
+Eifel,29,6,Perez,Gasly,13,2020,R
+Eifel,30,5,Perez,Norris,13,2020,R
+Eifel,32,13,Hulkenberg,Latifi,1,2020,R
+Eifel,33,4,Perez,Leclerc,15,2020,R
+Eifel,34,4,Leclerc,Perez,1,2020,R
+Eifel,34,4,Perez,Leclerc,13,2020,R
+Eifel,38,8,Leclerc,Raikkonen,1,2020,R
+Eifel,38,9,Gasly,Raikkonen,13,2020,R
+Eifel,39,7,Leclerc,Vettel,1,2020,R
+Eifel,39,10,Hulkenberg,Raikkonen,2,2020,R
+Eifel,40,8,Gasly,Vettel,3,2020,R
+Eifel,41,9,Hulkenberg,Vettel,1,2020,R
+Eifel,50,7,Gasly,Grosjean,1,2020,R
+Eifel,51,6,Gasly,Leclerc,1,2020,R
+Eifel,53,12,Vettel,Latifi,1,2020,R
+Eifel,53,13,Raikkonen,Latifi,7,2020,R
+Eifel,55,11,Vettel,Magnussen,2,2020,R
+Eifel,55,12,Raikkonen,Magnussen,7,2020,R
+Portugal,2,1,Sainz,Bottas,6,2020,R
+Portugal,2,6,Raikkonen,Leclerc,1,2020,R
+Portugal,2,7,Ricciardo,Leclerc,3,2020,R
+Portugal,2,9,Gasly,Albon,3,2020,R
+Portugal,2,10,Stroll,Albon,5,2020,R
+Portugal,2,11,Ocon,Albon,6,2020,R
+Portugal,2,15,Grosjean,Vettel,1,2020,R
+Portugal,2,17,Latifi,Magnussen,5,2020,R
+Portugal,3,11,Albon,Ocon,1,2020,R
+Portugal,3,16,Latifi,Vettel,1,2020,R
+Portugal,3,16,Vettel,Latifi,6,2020,R
+Portugal,5,4,Verstappen,Norris,1,2020,R
+Portugal,5,18,Kvyat,Magnussen,1,2020,R
+Portugal,6,1,Bottas,Sainz,1,2020,R
+Portugal,7,2,Hamilton,Sainz,1,2020,R
+Portugal,8,3,Verstappen,Sainz,1,2020,R
+Portugal,8,6,Leclerc,Raikkonen,1,2020,R
+Portugal,9,5,Leclerc,Norris,1,2020,R
+Portugal,9,7,Ricciardo,Raikkonen,1,2020,R
+Portugal,10,8,Gasly,Raikkonen,1,2020,R
+Portugal,11,7,Gasly,Ricciardo,1,2020,R
+Portugal,11,9,Stroll,Raikkonen,1,2020,R
+Portugal,12,4,Leclerc,Sainz,1,2020,R
+Portugal,12,10,Ocon,Albon,1,2020,R
+Portugal,12,13,Vettel,Giovinazzi,1,2020,R
+Portugal,13,6,Gasly,Norris,1,2020,R
+Portugal,13,8,Stroll,Ricciardo,1,2020,R
+Portugal,14,12,Vettel,Russell,1,2020,R
+Portugal,20,1,Hamilton,Bottas,1,2020,R
+Portugal,20,5,Gasly,Sainz,1,2020,R
+Portugal,21,11,Perez,Kvyat,1,2020,R
+Portugal,23,10,Perez,Giovinazzi,1,2020,R
+Portugal,25,9,Perez,Russell,1,2020,R
+Portugal,28,9,Ricciardo,Magnussen,1,2020,R
+Portugal,28,11,Raikkonen,Magnussen,5,2020,R
+Portugal,30,8,Ricciardo,Gasly,1,2020,R
+Portugal,30,11,Sainz,Magnussen,1,2020,R
+Portugal,31,12,Albon,Magnussen,1,2020,R
+Portugal,32,10,Sainz,Raikkonen,1,2020,R
+Portugal,32,10,Raikkonen,Sainz,3,2020,R
+Portugal,32,10,Sainz,Raikkonen,5,2020,R
+Portugal,32,10,Raikkonen,Sainz,7,2020,R
+Portugal,33,10,Sainz,Raikkonen,1,2020,R
+Portugal,33,18,Latifi,Magnussen,1,2020,R
+Portugal,34,5,Perez,Ocon,8,2020,R
+Portugal,37,14,Giovinazzi,Russell,7,2020,R
+Portugal,37,18,Magnussen,Latifi,1,2020,R
+Portugal,37,18,Latifi,Magnussen,3,2020,R
+Portugal,38,18,Magnussen,Latifi,1,2020,R
+Portugal,41,16,Kvyat,Grosjean,1,2020,R
+Portugal,45,7,Gasly,Ricciardo,1,2020,R
+Portugal,47,8,Sainz,Ricciardo,1,2020,R
+Portugal,51,13,Russell,Giovinazzi,1,2020,R
+Portugal,54,10,Vettel,Raikkonen,1,2020,R
+Portugal,54,15,Norris,Kvyat,1,2020,R
+Portugal,55,14,Norris,Giovinazzi,1,2020,R
+Portugal,58,13,Norris,Russell,7,2020,R
+Portugal,64,5,Gasly,Perez,1,2020,R
+Portugal,65,6,Sainz,Perez,1,2020,R
+Emilia-Romagna,6,9,Sainz,Norris,2,2020,R
+Emilia-Romagna,27,8,Ricciardo,Magnussen,2,2020,R
+Emilia-Romagna,27,9,Leclerc,Magnussen,9,2020,R
+Emilia-Romagna,36,17,Stroll,Magnussen,2,2020,R
+Emilia-Romagna,43,2,Verstappen,Bottas,2,2020,R
+Emilia-Romagna,44,13,Vettel,Giovinazzi,2,2020,R
+Emilia-Romagna,58,4,Kvyat,Leclerc,9,2020,R
+Emilia-Romagna,58,5,Kvyat,Albon,2,2020,R
+Emilia-Romagna,58,6,Perez,Albon,5,2020,R
+Emilia-Romagna,58,6,Kvyat,Perez,2,2020,R
+Turkey,2,17,Bottas,Russell,1,2020,R
+Turkey,3,16,Bottas,Grosjean,7,2020,R
+Turkey,3,19,Ocon,Latifi,7,2020,R
+Turkey,8,12,Gasly,Kvyat,12,2020,R
+Turkey,8,17,Leclerc,Ocon,12,2020,R
+Turkey,9,13,Leclerc,Russell,10,2020,R
+Turkey,10,14,Bottas,Ocon,12,2020,R
+Turkey,11,10,Leclerc,Raikkonen,7,2020,R
+Turkey,12,11,Russell,Raikkonen,11,2020,R
+Turkey,12,12,Bottas,Raikkonen,11,2020,R
+Turkey,13,9,Leclerc,Magnussen,1,2020,R
+Turkey,14,17,Ocon,Grosjean,12,2020,R
+Turkey,15,5,Albon,Hamilton,13,2020,R
+Turkey,15,11,Bottas,Russell,12,2020,R
+Turkey,15,11,Russell,Bottas,13,2020,R
+Turkey,16,4,Albon,Vettel,7,2020,R
+Turkey,16,12,Norris,Raikkonen,12,2020,R
+Turkey,24,11,Norris,Russell,14,2020,R
+Turkey,27,10,Norris,Magnussen,12,2020,R
+Turkey,29,13,Gasly,Raikkonen,11,2020,R
+Turkey,32,6,Sainz,Ricciardo,11,2020,R
+Turkey,34,15,Russell,Gasly,2,2020,R
+Turkey,36,14,Gasly,Russell,12,2020,R
+Turkey,37,1,Hamilton,Perez,12,2020,R
+Turkey,39,4,Vettel,Stroll,11,2020,R
+Turkey,39,4,Stroll,Vettel,12,2020,R
+Turkey,39,4,Vettel,Stroll,13,2020,R
+Turkey,39,5,Leclerc,Stroll,13,2020,R
+Turkey,39,6,Leclerc,Albon,12,2020,R
+Turkey,39,15,Raikkonen,Russell,12,2020,R
+Turkey,40,4,Leclerc,Vettel,12,2020,R
+Turkey,40,6,Albon,Stroll,12,2020,R
+Turkey,41,7,Sainz,Stroll,13,2020,R
+Turkey,43,3,Leclerc,Verstappen,12,2020,R
+Turkey,44,5,Sainz,Albon,12,2020,R
+Turkey,46,13,Gasly,Bottas,7,2020,R
+Turkey,49,14,Bottas,Raikkonen,6,2020,R
+Turkey,52,6,Verstappen,Albon,12,2020,R
+Turkey,56,8,Norris,Stroll,3,2020,R
+Turkey,58,2,Leclerc,Perez,10,2020,R
+Turkey,58,2,Perez,Leclerc,12,2020,R
+Turkey,58,3,Vettel,Leclerc,13,2020,R
+Bahrain,9,8,Sainz,Ricciardo,11,2020,R
+Bahrain,9,9,Sainz,Gasly,4,2020,R
+Bahrain,10,12,Russell,Raikkonen,1,2020,R
+Bahrain,12,7,Sainz,Leclerc,1,2020,R
+Bahrain,12,8,Ricciardo,Leclerc,8,2020,R
+Bahrain,12,15,Bottas,Vettel,1,2020,R
+Bahrain,13,9,Gasly,Leclerc,4,2020,R
+Bahrain,14,14,Bottas,Latifi,4,2020,R
+Bahrain,18,14,Ocon,Vettel,11,2020,R
+Bahrain,18,15,Ricciardo,Vettel,14,2020,R
+Bahrain,19,10,Norris,Latifi,4,2020,R
+Bahrain,19,13,Ocon,Magnussen,10,2020,R
+Bahrain,20,11,Ocon,Latifi,4,2020,R
+Bahrain,20,12,Ocon,Giovinazzi,1,2020,R
+Bahrain,20,12,Ricciardo,Latifi,11,2020,R
+Bahrain,20,13,Ricciardo,Giovinazzi,8,2020,R
+Bahrain,22,5,Albon,Leclerc,1,2020,R
+Bahrain,22,17,Vettel,Latifi,4,2020,R
+Bahrain,23,3,Perez,Gasly,1,2020,R
+Bahrain,24,4,Albon,Gasly,1,2020,R
+Bahrain,25,6,Norris,Bottas,1,2020,R
+Bahrain,25,11,Leclerc,Magnussen,10,2020,R
+Bahrain,26,7,Sainz,Ricciardo,4,2020,R
+Bahrain,26,13,Bottas,Kvyat,11,2020,R
+Bahrain,27,6,Sainz,Ocon,1,2020,R
+Bahrain,27,10,Bottas,Magnussen,8,2020,R
+Bahrain,27,11,Bottas,Russell,1,2020,R
+Bahrain,28,14,Giovinazzi,Raikkonen,4,2020,R
+Bahrain,32,10,Bottas,Leclerc,1,2020,R
+Bahrain,37,10,Ocon,Ricciardo,2,2020,R
+Bahrain,38,4,Perez,Sainz,1,2020,R
+Bahrain,38,10,Ricciardo,Ocon,4,2020,R
+Bahrain,39,4,Albon,Sainz,1,2020,R
+Bahrain,40,6,Sainz,Leclerc,11,2020,R
+Bahrain,42,11,Leclerc,Giovinazzi,11,2020,R
+Bahrain,43,9,Bottas,Ocon,1,2020,R
+Bahrain,43,15,Vettel,Magnussen,1,2020,R
+Bahrain,44,5,Norris,Gasly,4,2020,R
+Bahrain,44,16,Latifi,Magnussen,1,2020,R
+Bahrain,45,17,Raikkonen,Magnussen,1,2020,R
+Bahrain,47,12,Kvyat,Giovinazzi,1,2020,R
+Bahrain,51,6,Sainz,Gasly,4,2020,R
+Bahrain,53,13,Russell,Giovinazzi,1,2020,R
+Sakhir,7,2,Sainz,Bottas,1,2020,R
+Sakhir,7,2,Bottas,Sainz,3,2020,R
+Sakhir,8,9,Norris,Vettel,1,2020,R
+Sakhir,9,10,Vettel,Albon,1,2020,R
+Sakhir,9,13,Perez,Latifi,1,2020,R
+Sakhir,10,12,Perez,Magnussen,1,2020,R
+Sakhir,10,16,Raikkonen,Aitken,6,2020,R
+Sakhir,11,10,Albon,Vettel,4,2020,R
+Sakhir,11,11,Perez,Vettel,8,2020,R
+Sakhir,11,16,Aitken,Raikkonen,5,2020,R
+Sakhir,16,13,Latifi,Magnussen,4,2020,R
+Sakhir,16,14,Giovinazzi,Magnussen,7,2020,R
+Sakhir,20,9,Albon,Norris,5,2020,R
+Sakhir,20,10,Perez,Norris,6,2020,R
+Sakhir,21,9,Perez,Albon,5,2020,R
+Sakhir,31,12,Norris,Aitken,1,2020,R
+Sakhir,32,12,Vettel,Latifi,4,2020,R
+Sakhir,43,9,Ocon,Stroll,5,2020,R
+Sakhir,52,9,Albon,Norris,1,2020,R
+Sakhir,54,11,Gasly,Vettel,1,2020,R
+Sakhir,56,4,Perez,Stroll,4,2020,R
+Sakhir,57,3,Perez,Ocon,4,2020,R
+Sakhir,70,4,Russell,Bottas,7,2020,R
+Sakhir,70,14,Raikkonen,Magnussen,3,2020,R
+Sakhir,70,14,Magnussen,Raikkonen,5,2020,R
+Sakhir,70,14,Raikkonen,Magnussen,11,2020,R
+Sakhir,71,14,Magnussen,Raikkonen,2,2020,R
+Sakhir,71,14,Raikkonen,Magnussen,4,2020,R
+Sakhir,72,3,Russell,Stroll,1,2020,R
+Sakhir,72,8,Albon,Kvyat,1,2020,R
+Sakhir,73,2,Russell,Ocon,4,2020,R
+Sakhir,77,5,Sainz,Bottas,7,2020,R
+Sakhir,77,6,Ricciardo,Bottas,10,2020,R
+Sakhir,78,7,Albon,Bottas,1,2020,R
+Sakhir,78,8,Kvyat,Bottas,4,2020,R
+Sakhir,80,14,Russell,Magnussen,10,2020,R
+Sakhir,81,13,Russell,Raikkonen,10,2020,R
+Sakhir,83,12,Russell,Giovinazzi,1,2020,R
+Sakhir,84,11,Russell,Vettel,1,2020,R
+Sakhir,85,9,Norris,Gasly,1,2020,R
+Sakhir,86,10,Russell,Gasly,4,2020,R
+Sakhir,87,9,Russell,Norris,1,2020,R
+Abu Dhabi,2,9,Gasly,Ocon,8,2020,R
+Abu Dhabi,2,19,Perez,Latifi,8,2020,R
+Abu Dhabi,3,18,Perez,Fittipaldi,8,2020,R
+Abu Dhabi,4,17,Perez,Magnussen,11,2020,R
+Abu Dhabi,5,16,Perez,Russell,8,2020,R
+Abu Dhabi,6,4,Albon,Norris,8,2020,R
+Abu Dhabi,6,15,Perez,Giovinazzi,8,2020,R
+Abu Dhabi,8,7,Stroll,Kvyat,8,2020,R
+Abu Dhabi,8,14,Perez,Raikkonen,8,2020,R
+Abu Dhabi,9,8,Gasly,Kvyat,11,2020,R
+Abu Dhabi,14,8,Sainz,Leclerc,8,2020,R
+Abu Dhabi,14,15,Raikkonen,Magnussen,4,2020,R
+Abu Dhabi,15,12,Ocon,Giovinazzi,8,2020,R
+Abu Dhabi,16,9,Stroll,Leclerc,8,2020,R
+Abu Dhabi,16,9,Leclerc,Stroll,11,2020,R
+Abu Dhabi,16,13,Kvyat,Giovinazzi,8,2020,R
+Abu Dhabi,17,7,Sainz,Vettel,11,2020,R
+Abu Dhabi,17,14,Raikkonen,Giovinazzi,8,2020,R
+Abu Dhabi,19,9,Stroll,Leclerc,8,2020,R
+Abu Dhabi,20,10,Gasly,Leclerc,8,2020,R
+Abu Dhabi,22,11,Ocon,Leclerc,8,2020,R
+Abu Dhabi,22,15,Russell,Giovinazzi,11,2020,R
+Abu Dhabi,26,18,Leclerc,Fittipaldi,8,2020,R
+Abu Dhabi,27,16,Leclerc,Magnussen,11,2020,R
+Abu Dhabi,27,17,Leclerc,Latifi,8,2020,R
+Abu Dhabi,28,16,Latifi,Magnussen,8,2020,R
+Abu Dhabi,29,9,Gasly,Stroll,11,2020,R
+Abu Dhabi,31,8,Gasly,Vettel,8,2020,R
+Abu Dhabi,34,14,Leclerc,Russell,8,2020,R
+Abu Dhabi,41,14,Vettel,Russell,8,2020,R
+Abu Dhabi,55,9,Ocon,Stroll,11,2020,R
+Bahrain,4,5,Norris,Gasly,4,2021,R
+Bahrain,4,6,Ricciardo,Gasly,6,2021,R
+Bahrain,4,15,Perez,Tsunoda,10,2021,R
+Bahrain,4,16,Perez,Latifi,6,2021,R
+Bahrain,4,17,Perez,Schumacher,1,2021,R
+Bahrain,6,3,Bottas,Leclerc,1,2021,R
+Bahrain,6,14,Perez,Russell,8,2021,R
+Bahrain,7,13,Perez,Vettel,1,2021,R
+Bahrain,7,13,Vettel,Perez,4,2021,R
+Bahrain,8,13,Perez,Vettel,1,2021,R
+Bahrain,9,4,Norris,Leclerc,1,2021,R
+Bahrain,9,7,Stroll,Alonso,1,2021,R
+Bahrain,9,14,Tsunoda,Vettel,1,2021,R
+Bahrain,10,12,Perez,Ocon,4,2021,R
+Bahrain,14,8,Norris,Latifi,1,2021,R
+Bahrain,14,9,Leclerc,Latifi,4,2021,R
+Bahrain,15,3,Hamilton,Sainz,4,2021,R
+Bahrain,16,5,Norris,Vettel,11,2021,R
+Bahrain,17,9,Stroll,Alonso,1,2021,R
+Bahrain,18,3,Bottas,Perez,11,2021,R
+Bahrain,19,7,Ricciardo,Vettel,1,2021,R
+Bahrain,20,7,Stroll,Vettel,1,2021,R
+Bahrain,20,8,Alonso,Vettel,1,2021,R
+Bahrain,20,8,Vettel,Alonso,4,2021,R
+Bahrain,20,13,Tsunoda,Ocon,1,2021,R
+Bahrain,20,13,Ocon,Tsunoda,7,2021,R
+Bahrain,21,8,Sainz,Vettel,1,2021,R
+Bahrain,21,8,Alonso,Vettel,1,2021,R
+Bahrain,21,9,Vettel,Alonso,4,2021,R
+Bahrain,21,9,Perez,Vettel,14,2021,R
+Bahrain,21,9,Sainz,Alonso,4,2021,R
+Bahrain,21,13,Tsunoda,Ocon,1,2021,R
+Bahrain,23,10,Raikkonen,Alonso,1,2021,R
+Bahrain,24,12,Tsunoda,Vettel,1,2021,R
+Bahrain,25,8,Perez,Sainz,4,2021,R
+Bahrain,26,11,Tsunoda,Alonso,1,2021,R
+Bahrain,27,7,Perez,Stroll,1,2021,R
+Bahrain,29,16,Vettel,Latifi,4,2021,R
+Bahrain,32,6,Perez,Ricciardo,1,2021,R
+Bahrain,36,10,Raikkonen,Russell,4,2021,R
+Bahrain,36,11,Tsunoda,Russell,10,2021,R
+Bahrain,36,12,Raikkonen,Russell,11,2021,R
+Bahrain,36,12,Tsunoda,Vettel,1,2021,R
+Bahrain,38,10,Tsunoda,Raikkonen,4,2021,R
+Bahrain,39,7,Stroll,Perez,4,2021,R
+Bahrain,40,7,Perez,Stroll,1,2021,R
+Bahrain,44,6,Perez,Ricciardo,1,2021,R
+Bahrain,44,12,Ocon,Vettel,1,2021,R
+Bahrain,46,8,Sainz,Stroll,1,2021,R
+Bahrain,47,13,Ocon,Vettel,1,2021,R
+Bahrain,52,5,Perez,Leclerc,1,2021,R
+Bahrain,52,5,Leclerc,Perez,4,2021,R
+Bahrain,52,5,Perez,Leclerc,6,2021,R
+Bahrain,53,9,Tsunoda,Stroll,1,2021,R
+Bahrain,53,9,Stroll,Tsunoda,4,2021,R
+Bahrain,56,9,Tsunoda,Stroll,1,2021,R
+Emilia-Romagna,7,6,Sainz,Gasly,9,2021,R
+Emilia-Romagna,7,6,Gasly,Sainz,12,2021,R
+Emilia-Romagna,8,7,Norris,Sainz,2,2021,R
+Emilia-Romagna,9,6,Norris,Gasly,2,2021,R
+Emilia-Romagna,9,7,Sainz,Gasly,9,2021,R
+Emilia-Romagna,10,8,Stroll,Gasly,2,2021,R
+Emilia-Romagna,10,8,Gasly,Stroll,2,2021,R
+Emilia-Romagna,11,8,Stroll,Gasly,2,2021,R
+Emilia-Romagna,12,9,Bottas,Gasly,2,2021,R
+Emilia-Romagna,13,10,Russell,Gasly,2,2021,R
+Emilia-Romagna,13,11,Raikkonen,Gasly,2,2021,R
+Emilia-Romagna,13,12,Giovinazzi,Gasly,7,2021,R
+Emilia-Romagna,13,13,Tsunoda,Gasly,9,2021,R
+Emilia-Romagna,13,15,Vettel,Ocon,14,2021,R
+Emilia-Romagna,14,14,Vettel,Gasly,2,2021,R
+Emilia-Romagna,20,14,Ocon,Vettel,17,2021,R
+Emilia-Romagna,21,16,Gasly,Vettel,7,2021,R
+Emilia-Romagna,26,6,Sainz,Ricciardo,2,2021,R
+Emilia-Romagna,30,8,Stroll,Bottas,2,2021,R
+Emilia-Romagna,35,2,Norris,Leclerc,2,2021,R
+Emilia-Romagna,35,8,Tsunoda,Hamilton,2,2021,R
+Emilia-Romagna,35,12,Gasly,Ocon,2,2021,R
+Emilia-Romagna,39,6,Hamilton,Stroll,2,2021,R
+Emilia-Romagna,42,5,Hamilton,Ricciardo,2,2021,R
+Emilia-Romagna,47,12,Perez,Vettel,2,2021,R
+Emilia-Romagna,47,12,Vettel,Perez,2,2021,R
+Emilia-Romagna,48,12,Perez,Vettel,2,2021,R
+Emilia-Romagna,50,4,Hamilton,Sainz,2,2021,R
+Emilia-Romagna,52,13,Tsunoda,Vettel,2,2021,R
+Emilia-Romagna,55,3,Hamilton,Leclerc,2,2021,R
+Emilia-Romagna,60,2,Hamilton,Norris,2,2021,R
+Portugal,7,2,Verstappen,Hamilton,1,2021,R
+Portugal,7,4,Perez,Sainz,1,2021,R
+Portugal,7,5,Norris,Sainz,3,2021,R
+Portugal,7,7,Leclerc,Ocon,9,2021,R
+Portugal,7,12,Ricciardo,Giovinazzi,5,2021,R
+Portugal,7,13,Alonso,Russell,14,2021,R
+Portugal,7,14,Tsunoda,Alonso,3,2021,R
+Portugal,7,14,Alonso,Tsunoda,5,2021,R
+Portugal,7,18,Mazepin,Schumacher,1,2021,R
+Portugal,8,14,Stroll,Russell,3,2021,R
+Portugal,8,18,Schumacher,Mazepin,1,2021,R
+Portugal,11,2,Hamilton,Verstappen,1,2021,R
+Portugal,14,15,Tsunoda,Russell,5,2021,R
+Portugal,15,4,Perez,Norris,1,2021,R
+Portugal,18,10,Ricciardo,Vettel,1,2021,R
+Portugal,20,1,Hamilton,Bottas,1,2021,R
+Portugal,23,11,Sainz,Russell,1,2021,R
+Portugal,25,15,Vettel,Schumacher,1,2021,R
+Portugal,26,11,Gasly,Russell,1,2021,R
+Portugal,26,12,Ocon,Russell,5,2021,R
+Portugal,27,13,Vettel,Russell,5,2021,R
+Portugal,30,18,Latifi,Russell,1,2021,R
+Portugal,33,16,Latifi,Schumacher,3,2021,R
+Portugal,33,17,Russell,Schumacher,4,2021,R
+Portugal,34,11,Ocon,Gasly,1,2021,R
+Portugal,36,16,Russell,Latifi,1,2021,R
+Portugal,37,3,Verstappen,Bottas,5,2021,R
+Portugal,44,7,Ocon,Sainz,1,2021,R
+Portugal,48,9,Ricciardo,Gasly,5,2021,R
+Portugal,49,10,Alonso,Gasly,1,2021,R
+Portugal,51,1,Hamilton,Perez,1,2021,R
+Portugal,51,9,Alonso,Ricciardo,1,2021,R
+Portugal,56,12,Giovinazzi,Vettel,1,2021,R
+Portugal,58,8,Alonso,Sainz,1,2021,R
+Portugal,59,12,Stroll,Vettel,1,2021,R
+Portugal,61,17,Schumacher,Latifi,3,2021,R
+Portugal,64,9,Ricciardo,Sainz,1,2021,R
+Portugal,65,10,Gasly,Sainz,1,2021,R
+Spain,8,16,Russell,Schumacher,1,2021,R
+Spain,11,10,Stroll,Alonso,5,2021,R
+Spain,11,16,Russell,Mazepin,1,2021,R
+Spain,15,16,Latifi,Schumacher,1,2021,R
+Spain,22,16,Alonso,Mazepin,7,2021,R
+Spain,23,17,Vettel,Gasly,1,2021,R
+Spain,29,5,Ricciardo,Raikkonen,1,2021,R
+Spain,30,12,Alonso,Giovinazzi,1,2021,R
+Spain,30,13,Vettel,Giovinazzi,5,2021,R
+Spain,31,7,Sainz,Raikkonen,1,2021,R
+Spain,31,14,Gasly,Giovinazzi,1,2021,R
+Spain,37,9,Norris,Raikkonen,1,2021,R
+Spain,37,16,Latifi,Giovinazzi,1,2021,R
+Spain,46,5,Perez,Ricciardo,1,2021,R
+Spain,50,8,Sainz,Norris,1,2021,R
+Spain,52,2,Hamilton,Bottas,10,2021,R
+Spain,52,6,Ricciardo,Ocon,1,2021,R
+Spain,53,7,Sainz,Ocon,1,2021,R
+Spain,53,14,Gasly,Vettel,1,2021,R
+Spain,55,10,Norris,Russell,1,2021,R
+Spain,57,3,Bottas,Leclerc,1,2021,R
+Spain,60,1,Hamilton,Verstappen,1,2021,R
+Spain,60,12,Gasly,Raikkonen,13,2021,R
+Spain,60,14,Vettel,Russell,1,2021,R
+Spain,61,8,Norris,Ocon,1,2021,R
+Spain,61,10,Stroll,Alonso,1,2021,R
+Spain,61,11,Gasly,Alonso,3,2021,R
+Spain,61,12,Raikkonen,Alonso,4,2021,R
+Spain,62,10,Gasly,Stroll,1,2021,R
+Azerbaijan,2,12,Ricciardo,Norris,2,2021,R
+Azerbaijan,2,12,Norris,Ricciardo,3,2021,R
+Azerbaijan,4,13,Stroll,Raikkonen,1,2021,R
+Azerbaijan,7,7,Tsunoda,Alonso,1,2021,R
+Azerbaijan,9,15,Norris,Mazepin,3,2021,R
+Azerbaijan,10,13,Norris,Alonso,1,2021,R
+Azerbaijan,16,11,Ricciardo,Alonso,1,2021,R
+Azerbaijan,23,13,Sainz,Giovinazzi,3,2021,R
+Azerbaijan,36,5,Vettel,Leclerc,1,2021,R
+Azerbaijan,36,9,Sainz,Bottas,2,2021,R
+Azerbaijan,36,10,Ricciardo,Bottas,4,2021,R
+Azerbaijan,36,10,Sainz,Ricciardo,6,2021,R
+Azerbaijan,36,11,Alonso,Bottas,6,2021,R
+Azerbaijan,36,12,Alonso,Raikkonen,2,2021,R
+Azerbaijan,36,12,Raikkonen,Bottas,7,2021,R
+Azerbaijan,36,13,Alonso,Latifi,1,2021,R
+Azerbaijan,36,14,Giovinazzi,Latifi,2,2021,R
+Azerbaijan,51,3,Gasly,Leclerc,1,2021,R
+France,2,11,Vettel,Ocon,8,2021,R
+France,2,15,Stroll,Latifi,12,2021,R
+France,2,17,Tsunoda,Russell,3,2021,R
+France,4,16,Tsunoda,Latifi,8,2021,R
+France,4,19,Mazepin,Schumacher,3,2021,R
+France,9,14,Stroll,Raikkonen,8,2021,R
+France,11,8,Ricciardo,Alonso,8,2021,R
+France,11,9,Norris,Alonso,11,2021,R
+France,13,10,Vettel,Alonso,8,2021,R
+France,13,17,Russell,Latifi,8,2021,R
+France,14,7,Ricciardo,Leclerc,8,2021,R
+France,14,12,Stroll,Giovinazzi,1,2021,R
+France,15,18,Leclerc,Mazepin,8,2021,R
+France,18,12,Leclerc,Latifi,8,2021,R
+France,20,2,Verstappen,Hamilton,1,2021,R
+France,22,10,Leclerc,Raikkonen,8,2021,R
+France,23,11,Ricciardo,Raikkonen,1,2021,R
+France,24,9,Leclerc,Giovinazzi,8,2021,R
+France,25,9,Ricciardo,Giovinazzi,8,2021,R
+France,26,7,Leclerc,Ocon,8,2021,R
+France,26,10,Sainz,Giovinazzi,8,2021,R
+France,26,11,Gasly,Giovinazzi,10,2021,R
+France,26,13,Norris,Raikkonen,8,2021,R
+France,27,8,Ricciardo,Ocon,1,2021,R
+France,28,7,Ricciardo,Leclerc,8,2021,R
+France,29,8,Sainz,Leclerc,1,2021,R
+France,29,9,Norris,Leclerc,14,2021,R
+France,29,10,Norris,Gasly,8,2021,R
+France,30,10,Gasly,Leclerc,1,2021,R
+France,31,8,Norris,Sainz,8,2021,R
+France,31,11,Alonso,Leclerc,8,2021,R
+France,31,16,Ocon,Latifi,8,2021,R
+France,32,17,Giovinazzi,Latifi,1,2021,R
+France,33,7,Norris,Ricciardo,8,2021,R
+France,34,6,Norris,Stroll,8,2021,R
+France,36,8,Gasly,Sainz,8,2021,R
+France,37,8,Alonso,Sainz,1,2021,R
+France,44,2,Verstappen,Bottas,10,2021,R
+France,49,3,Perez,Bottas,10,2021,R
+France,50,12,Russell,Tsunoda,8,2021,R
+France,52,1,Verstappen,Hamilton,8,2021,R
+Styria,10,3,Perez,Norris,3,2021,R
+Styria,11,4,Bottas,Norris,3,2021,R
+Styria,14,16,Leclerc,Mazepin,3,2021,R
+Styria,22,15,Leclerc,Giovinazzi,3,2021,R
+Styria,24,14,Leclerc,Ocon,4,2021,R
+Styria,32,6,Norris,Raikkonen,4,2021,R
+Styria,41,13,Leclerc,Raikkonen,4,2021,R
+Styria,44,6,Sainz,Stroll,4,2021,R
+Styria,45,11,Leclerc,Giovinazzi,3,2021,R
+Styria,49,10,Leclerc,Vettel,4,2021,R
+Styria,54,9,Leclerc,Tsunoda,4,2021,R
+Styria,55,8,Leclerc,Alonso,4,2021,R
+Styria,59,7,Leclerc,Stroll,3,2021,R
+Styria,67,11,Raikkonen,Vettel,4,2021,R
+Austria,4,3,Hamilton,Bottas,6,2021,R
+Austria,4,4,Bottas,Hamilton,3,2021,R
+Austria,4,8,Vettel,Perez,6,2021,R
+Austria,4,9,Ricciardo,Perez,6,2021,R
+Austria,4,10,Ricciardo,Leclerc,3,2021,R
+Austria,4,18,Giovinazzi,Mazepin,4,2021,R
+Austria,5,14,Alonso,Raikkonen,1,2021,R
+Austria,5,14,Raikkonen,Alonso,6,2021,R
+Austria,5,16,Latifi,Schumacher,3,2021,R
+Austria,6,17,Giovinazzi,Schumacher,3,2021,R
+Austria,14,7,Leclerc,Perez,5,2021,R
+Austria,17,5,Ricciardo,Vettel,4,2021,R
+Austria,20,2,Hamilton,Norris,5,2021,R
+Austria,25,12,Gasly,Latifi,4,2021,R
+Austria,33,11,Tsunoda,Latifi,4,2021,R
+Austria,37,13,Russell,Stroll,3,2021,R
+Austria,49,8,Sainz,Tsunoda,4,2021,R
+Austria,53,3,Norris,Hamilton,6,2021,R
+Austria,67,10,Alonso,Russell,4,2021,R
+Austria,70,6,Sainz,Ricciardo,4,2021,R
+Austria,70,12,Vettel,Raikkonen,5,2021,R
+GB,2,17,Sainz,Tsunoda,5,2021,S
+GB,5,17,Tsunoda,Latifi,7,2021,S
+GB,6,5,Norris,Alonso,3,2021,S
+GB,9,6,Ricciardo,Alonso,4,2021,S
+GB,9,12,Sainz,Raikkonen,9,2021,S
+GB,13,11,Sainz,Gasly,17,2021,S
+Britain,5,6,Sainz,Alonso,6,2021,R
+Britain,5,9,Ocon,Raikkonen,3,2021,R
+Britain,7,13,Perez,Russell,15,2021,R
+Britain,9,12,Perez,Giovinazzi,6,2021,R
+Britain,19,17,Vettel,Schumacher,6,2021,R
+Britain,20,14,Perez,Raikkonen,6,2021,R
+Britain,23,4,Bottas,Alonso,6,2021,R
+Britain,23,5,Norris,Alonso,16,2021,R
+Britain,25,9,Alonso,Stroll,6,2021,R
+Britain,31,3,Hamilton,Norris,9,2021,R
+Britain,39,16,Perez,Vettel,6,2021,R
+Britain,41,13,Perez,Russell,17,2021,R
+Britain,41,14,Perez,Giovinazzi,6,2021,R
+Britain,43,12,Perez,Tsunoda,6,2021,R
+Britain,46,11,Perez,Raikkonen,16,2021,R
+Britain,48,13,Gasly,Giovinazzi,6,2021,R
+Britain,50,1,Hamilton,Leclerc,9,2021,R
+Britain,50,11,Gasly,Russell,15,2021,R
+Hungary,10,13,Hamilton,Giovinazzi,1,2021,R
+Hungary,14,10,Verstappen,Schumacher,3,2021,R
+Hungary,15,11,Gasly,Schumacher,2,2021,R
+Hungary,16,11,Hamilton,Schumacher,1,2021,R
+Hungary,21,10,Hamilton,Ricciardo,1,2021,R
+Hungary,24,8,Hamilton,Schumacher,1,2021,R
+Hungary,27,7,Hamilton,Latifi,1,2021,R
+Hungary,32,5,Hamilton,Tsunoda,4,2021,R
+Hungary,33,9,Russell,Schumacher,3,2021,R
+Hungary,34,10,Ricciardo,Schumacher,2,2021,R
+Hungary,34,11,Verstappen,Schumacher,3,2021,R
+Hungary,40,7,Gasly,Latifi,1,2021,R
+Hungary,50,11,Verstappen,Raikkonen,1,2021,R
+Hungary,60,10,Verstappen,Ricciardo,2,2021,R
+Hungary,65,4,Hamilton,Alonso,2,2021,R
+Hungary,67,3,Hamilton,Sainz,1,2021,R
+Netherlands,13,16,Latifi,Mazepin,1,2021,R
+Netherlands,15,17,Perez,Mazepin,11,2021,R
+Netherlands,18,16,Perez,Latifi,11,2021,R
+Netherlands,20,15,Perez,Kubica,1,2021,R
+Netherlands,23,14,Perez,Tsunoda,11,2021,R
+Netherlands,28,6,Gasly,Alonso,1,2021,R
+Netherlands,32,13,Russell,Kubica,1,2021,R
+Netherlands,33,14,Stroll,Kubica,1,2021,R
+Netherlands,48,11,Perez,Russell,11,2021,R
+Netherlands,54,10,Perez,Ricciardo,1,2021,R
+Netherlands,65,9,Perez,Norris,2,2021,R
+Netherlands,69,8,Perez,Ocon,11,2021,R
+Netherlands,70,15,Kubica,Latifi,1,2021,R
+Netherlands,71,6,Alonso,Sainz,1,2021,R
+Italy,4,11,Alonso,Vettel,6,2021,S
+Italy,4,15,Mazepin,Schumacher,1,2021,S
+Italy,4,16,Russell,Schumacher,4,2021,S
+Italy,6,15,Russell,Mazepin,1,2021,S
+Italy,10,9,Perez,Stroll,1,2021,S
+Italy,3,14,Bottas,Kubica,1,2021,R
+Italy,5,13,Bottas,Russell,1,2021,R
+Italy,9,6,Perez,Sainz,4,2021,R
+Italy,11,11,Bottas,Ocon,1,2021,R
+Italy,13,10,Bottas,Latifi,1,2021,R
+Italy,17,9,Bottas,Alonso,1,2021,R
+Italy,22,8,Bottas,Stroll,1,2021,R
+Italy,24,1,Hamilton,Norris,4,2021,R
+Italy,25,4,Ricciardo,Sainz,1,2021,R
+Italy,31,2,Norris,Leclerc,3,2021,R
+Italy,31,14,Giovinazzi,Schumacher,2,2021,R
+Italy,32,5,Bottas,Sainz,1,2021,R
+Italy,32,10,Ocon,Latifi,1,2021,R
+Italy,33,4,Leclerc,Bottas,4,2021,R
+Italy,34,4,Bottas,Leclerc,1,2021,R
+Italy,43,3,Bottas,Perez,4,2021,R
+Italy,43,3,Perez,Bottas,6,2021,R
+Italy,45,12,Vettel,Kubica,4,2021,R
+Russia,2,6,Hamilton,Alonso,4,2021,R
+Russia,2,16,Verstappen,Latifi,13,2021,R
+Russia,6,14,Verstappen,Bottas,13,2021,R
+Russia,8,13,Verstappen,Gasly,13,2021,R
+Russia,8,17,Giovinazzi,Latifi,4,2021,R
+Russia,8,17,Latifi,Giovinazzi,5,2021,R
+Russia,10,11,Leclerc,Vettel,5,2021,R
+Russia,10,11,Vettel,Leclerc,6,2021,R
+Russia,10,12,Verstappen,Leclerc,7,2021,R
+Russia,13,1,Norris,Sainz,13,2021,R
+Russia,13,10,Verstappen,Vettel,13,2021,R
+Russia,27,6,Sainz,Bottas,2,2021,R
+Russia,28,11,Verstappen,Russell,2,2021,R
+Russia,30,5,Hamilton,Gasly,13,2021,R
+Russia,30,6,Hamilton,Sainz,2,2021,R
+Russia,31,8,Ricciardo,Stroll,13,2021,R
+Russia,32,9,Verstappen,Stroll,2,2021,R
+Russia,34,3,Norris,Leclerc,3,2021,R
+Russia,35,4,Hamilton,Leclerc,13,2021,R
+Russia,36,13,Leclerc,Bottas,2,2021,R
+Russia,38,6,Alonso,Verstappen,2,2021,R
+Russia,42,9,Leclerc,Russell,4,2021,R
+Russia,44,4,Perez,Ricciardo,13,2021,R
+Russia,44,8,Leclerc,Stroll,13,2021,R
+Russia,44,11,Vettel,Ocon,13,2021,R
+Russia,47,3,Perez,Sainz,13,2021,R
+Russia,47,5,Alonso,Ricciardo,13,2021,R
+Russia,47,9,Vettel,Stroll,10,2021,R
+Russia,47,16,Giovinazzi,Latifi,12,2021,R
+Russia,48,4,Alonso,Sainz,8,2021,R
+Russia,50,3,Leclerc,Alonso,8,2021,R
+Russia,50,4,Leclerc,Perez,17,2021,R
+Russia,50,5,Verstappen,Perez,16,2021,R
+Russia,50,6,Verstappen,Vettel,5,2021,R
+Russia,50,11,Bottas,Ocon,2,2021,R
+Russia,50,15,Stroll,Giovinazzi,3,2021,R
+Turkey,5,14,Sainz,Russell,13,2021,R
+Turkey,6,13,Sainz,Raikkonen,12,2021,R
+Turkey,7,12,Sainz,Giovinazzi,12,2021,R
+Turkey,8,8,Hamilton,Tsunoda,3,2021,R
+Turkey,8,11,Sainz,Ocon,12,2021,R
+Turkey,9,7,Hamilton,Stroll,4,2021,R
+Turkey,10,6,Hamilton,Norris,12,2021,R
+Turkey,13,10,Sainz,Vettel,12,2021,R
+Turkey,14,5,Hamilton,Gasly,12,2021,R
+Turkey,17,9,Sainz,Tsunoda,12,2021,R
+Turkey,33,16,Ricciardo,Latifi,1,2021,R
+Turkey,37,16,Alonso,Vettel,8,2021,R
+Turkey,46,8,Sainz,Ocon,1,2021,R
+Turkey,47,1,Bottas,Leclerc,1,2021,R
+Turkey,51,3,Perez,Leclerc,12,2021,R
+Turkey,53,9,Stroll,Ocon,1,2021,R
+Turkey,56,11,Giovinazzi,Ricciardo,14,2021,R
+Austin,2,17,Stroll,Schumacher,1,2021,R
+Austin,6,19,Latifi,Ocon,1,2021,R
+Austin,11,4,Verstappen,Ricciardo,12,2021,R
+Austin,12,8,Sainz,Vettel,12,2021,R
+Austin,12,10,Norris,Stroll,1,2021,R
+Austin,13,8,Norris,Vettel,1,2021,R
+Austin,16,13,Raikkonen,Alonso,1,2021,R
+Austin,18,8,Tsunoda,Stroll,12,2021,R
+Austin,18,9,Bottas,Stroll,12,2021,R
+Austin,19,8,Bottas,Tsunoda,13,2021,R
+Austin,25,13,Vettel,Russell,19,2021,R
+Austin,26,12,Vettel,Giovinazzi,12,2021,R
+Austin,26,12,Giovinazzi,Vettel,13,2021,R
+Austin,34,10,Tsunoda,Stroll,12,2021,R
+Austin,34,11,Raikkonen,Stroll,12,2021,R
+Austin,50,11,Vettel,Giovinazzi,12,2021,R
+Austin,55,6,Bottas,Sainz,12,2021,R
+Mexico,5,6,Sainz,Giovinazzi,1,2021,R
+Mexico,5,11,Alonso,Mazepin,1,2021,R
+Mexico,9,9,Raikkonen,Russell,1,2021,R
+Mexico,9,13,Norris,Latifi,1,2021,R
+Mexico,10,10,Alonso,Russell,2,2021,R
+Mexico,11,12,Norris,Mazepin,1,2021,R
+Mexico,12,13,Ocon,Mazepin,5,2021,R
+Mexico,15,11,Norris,Russell,1,2021,R
+Mexico,30,4,Leclerc,Hamilton,1,2021,R
+Mexico,32,8,Leclerc,Alonso,1,2021,R
+Mexico,39,14,Ocon,Russell,4,2021,R
+Mexico,46,13,Bottas,Ocon,1,2021,R
+Mexico,55,15,Stroll,Russell,2,2021,R
+Brazil,2,11,Giovinazzi,Alonso,1,2021,S
+Brazil,2,12,Raikkonen,Alonso,1,2021,S
+Brazil,4,2,Verstappen,Sainz,1,2021,S
+Brazil,4,11,Alonso,Giovinazzi,1,2021,S
+Brazil,4,13,Hamilton,Tsunoda,1,2021,S
+Brazil,8,11,Hamilton,Alonso,1,2021,S
+Brazil,9,5,Norris,Leclerc,4,2021,S
+Brazil,13,10,Hamilton,Ricciardo,1,2021,S
+Brazil,15,9,Hamilton,Vettel,1,2021,S
+Brazil,17,7,Hamilton,Gasly,1,2021,S
+Brazil,20,6,Hamilton,Leclerc,4,2021,S
+Brazil,24,5,Hamilton,Norris,1,2021,S
+Brazil,2,9,Ocon,Ricciardo,2,2021,R
+Brazil,3,5,Hamilton,Sainz,1,2021,R
+Brazil,3,13,Tsunoda,Giovinazzi,1,2021,R
+Brazil,3,15,Mazepin,Schumacher,1,2021,R
+Brazil,3,17,Latifi,Russell,1,2021,R
+Brazil,10,19,Norris,Tsunoda,1,2021,R
+Brazil,10,18,Tsunoda,Latifi,11,2021,R
+Brazil,11,15,Raikkonen,Schumacher,1,2021,R
+Brazil,16,14,Norris,Mazepin,1,2021,R
+Brazil,17,16,Tsunoda,Raikkonen,2,2021,R
+Brazil,18,2,Hamilton,Perez,1,2021,R
+Brazil,18,2,Perez,Hamilton,4,2021,R
+Brazil,19,2,Hamilton,Perez,1,2021,R
+Brazil,20,8,Vettel,Ricciardo,4,2021,R
+Brazil,21,11,Alonso,Stroll,1,2021,R
+Brazil,28,4,Hamilton,Ricciardo,4,2021,R
+Brazil,28,11,Sainz,Giovinazzi,9,2021,R
+Brazil,28,18,Stroll,Latifi,1,2021,R
+Brazil,29,9,Sainz,Norris,1,2021,R
+Brazil,30,10,Gasly,Norris,1,2021,R
+Brazil,32,12,Ocon,Russell,1,2021,R
+Brazil,33,17,Raikkonen,Latifi,1,2021,R
+Brazil,34,13,Vettel,Russell,1,2021,R
+Brazil,36,13,Alonso,Russell,4,2021,R
+Brazil,37,10,Ocon,Tsunoda,1,2021,R
+Brazil,39,10,Alonso,Tsunoda,1,2021,R
+Brazil,40,10,Alonso,Vettel,1,2021,R
+Brazil,41,12,Stroll,Russell,1,2021,R
+Brazil,45,4,Perez,Leclerc,1,2021,R
+Brazil,45,12,Raikkonen,Stroll,1,2021,R
+Brazil,45,13,Norris,Stroll,4,2021,R
+Brazil,47,12,Norris,Raikkonen,4,2021,R
+Brazil,59,1,Hamilton,Verstappen,4,2021,R
+Brazil,60,8,Gasly,Ocon,1,2021,R
+Brazil,61,7,Gasly,Alonso,4,2021,R
+Qatar,2,9,Stroll,Perez,1,2021,R
+Qatar,2,9,Perez,Stroll,2,2021,R
+Qatar,5,2,Verstappen,Alonso,1,2021,R
+Qatar,5,8,Perez,Tsunoda,1,2021,R
+Qatar,6,12,Leclerc,Raikkonen,1,2021,R
+Qatar,7,15,Ricciardo,Russell,1,2021,R
+Qatar,8,7,Perez,Sainz,1,2021,R
+Qatar,8,14,Ricciardo,Giovinazzi,1,2021,R
+Qatar,9,6,Perez,Ocon,1,2021,R
+Qatar,9,9,Stroll,Tsunoda,1,2021,R
+Qatar,9,10,Bottas,Tsunoda,1,2021,R
+Qatar,10,9,Bottas,Stroll,1,2021,R
+Qatar,12,4,Norris,Gasly,1,2021,R
+Qatar,13,5,Perez,Gasly,1,2021,R
+Qatar,14,13,Vettel,Russell,1,2021,R
+Qatar,15,7,Bottas,Sainz,1,2021,R
+Qatar,16,4,Perez,Norris,1,2021,R
+Qatar,16,16,Gasly,Mazepin,1,2021,R
+Qatar,17,6,Bottas,Ocon,1,2021,R
+Qatar,18,13,Gasly,Schumacher,1,2021,R
+Qatar,21,15,Tsunoda,Mazepin,1,2021,R
+Qatar,22,15,Raikkonen,Mazepin,1,2021,R
+Qatar,23,4,Bottas,Norris,1,2021,R
+Qatar,23,10,Perez,Vettel,1,2021,R
+Qatar,24,16,Giovinazzi,Mazepin,1,2021,R
+Qatar,25,7,Perez,Ricciardo,1,2021,R
+Qatar,27,5,Alonso,Leclerc,1,2021,R
+Qatar,27,6,Perez,Leclerc,7,2021,R
+Qatar,27,14,Giovinazzi,Ricciardo,1,2021,R
+Qatar,29,4,Perez,Alonso,2,2021,R
+Qatar,39,15,Tsunoda,Latifi,1,2021,R
+Qatar,40,18,Giovinazzi,Schumacher,1,2021,R
+Qatar,42,12,Bottas,Ricciardo,1,2021,R
+Qatar,42,16,Raikkonen,Latifi,2,2021,R
+Qatar,44,14,Tsunoda,Russell,2,2021,R
+Qatar,46,6,Perez,Stroll,1,2021,R
+Qatar,47,5,Perez,Ocon,1,2021,R
+Qatar,49,15,Raikkonen,Russell,1,2021,R
+Qatar,51,10,Norris,Gasly,1,2021,R
+Qatar,54,9,Norris,Vettel,1,2021,R
+Saudi Arabia,2,10,Alonso,Giovinazzi,1,2021,R
+Saudi Arabia,4,12,Sainz,Tsunoda,1,2021,R
+Saudi Arabia,7,10,Giovinazzi,Alonso,1,2021,R
+Saudi Arabia,8,8,Ricciardo,Gasly,1,2021,R
+Saudi Arabia,8,11,Sainz,Alonso,1,2021,R
+Saudi Arabia,10,10,Sainz,Giovinazzi,1,2021,R
+Saudi Arabia,18,2,Hamilton,Ocon,1,2021,R
+Saudi Arabia,26,11,Raikkonen,Vettel,1,2021,R
+Saudi Arabia,26,11,Vettel,Raikkonen,3,2021,R
+Saudi Arabia,26,11,Norris,Vettel,13,2021,R
+Saudi Arabia,26,12,Latifi,Vettel,14,2021,R
+Saudi Arabia,34,13,Alonso,Vettel,1,2021,R
+Saudi Arabia,37,10,Norris,Stroll,1,2021,R
+Saudi Arabia,38,4,Bottas,Ricciardo,27,2021,R
+Saudi Arabia,40,4,Bottas,Ricciardo,1,2021,R
+Saudi Arabia,42,1,Verstappen,Hamilton,27,2021,R
+Saudi Arabia,43,1,Hamilton,Verstappen,27,2021,R
+Abu Dhabi,5,14,Vettel,Stroll,6,2021,R
+Abu Dhabi,14,4,Verstappen,Norris,6,2021,R
+Abu Dhabi,14,6,Tsunoda,Leclerc,5,2021,R
+Abu Dhabi,14,6,Leclerc,Tsunoda,9,2021,R
+Abu Dhabi,17,15,Leclerc,Latifi,6,2021,R
+Abu Dhabi,18,3,Verstappen,Sainz,6,2021,R
+Abu Dhabi,20,1,Hamilton,Perez,6,2021,R
+Abu Dhabi,20,1,Perez,Hamilton,6,2021,R
+Abu Dhabi,20,1,Hamilton,Perez,7,2021,R
+Abu Dhabi,20,1,Perez,Hamilton,9,2021,R
+Abu Dhabi,21,1,Hamilton,Perez,6,2021,R
+Abu Dhabi,25,15,Vettel,Russell,9,2021,R
+Abu Dhabi,25,14,Giovinazzi,Russell,6,2021,R
+Abu Dhabi,27,13,Giovinazzi,Latifi,9,2021,R
+Abu Dhabi,28,14,Vettel,Latifi,6,2021,R
+Abu Dhabi,34,8,Bottas,Leclerc,6,2021,R
+Abu Dhabi,37,7,Alonso,Tsunoda,12,2021,R
+Abu Dhabi,38,7,Tsunoda,Alonso,9,2021,R
+Abu Dhabi,39,8,Gasly,Alonso,6,2021,R
+Abu Dhabi,39,8,Alonso,Gasly,9,2021,R
+Abu Dhabi,41,8,Gasly,Alonso,6,2021,R
+Abu Dhabi,49,9,Norris,Ocon,6,2021,R
+Abu Dhabi,50,8,Norris,Alonso,6,2021,R
+Abu Dhabi,58,1,Verstappen,Hamilton,5,2021,R
+Bahrain,2,16,Stroll,Norris,1,2022,R
+Bahrain,2,18,Zhou,Latifi,4,2022,R
+Bahrain,3,5,Perez,Magnussen,4,2022,R
+Bahrain,3,17,Zhou,Norris,1,2022,R
+Bahrain,4,16,Zhou,Stroll,5,2022,R
+Bahrain,5,6,Russell,Magnussen,1,2022,R
+Bahrain,5,11,Tsunoda,Albon,1,2022,R
+Bahrain,5,15,Zhou,Hulkenberg,14,2022,R
+Bahrain,6,13,Bottas,Schumacher,1,2022,R
+Bahrain,6,19,Ricciardo,Latifi,13,2022,R
+Bahrain,7,14,Zhou,Schumacher,1,2022,R
+Bahrain,7,19,Latifi,Ricciardo,4,2022,R
+Bahrain,8,9,Ocon,Alonso,1,2022,R
+Bahrain,8,12,Bottas,Albon,11,2022,R
+Bahrain,9,16,Stroll,Hulkenberg,1,2022,R
+Bahrain,10,4,Perez,Hamilton,4,2022,R
+Bahrain,10,13,Zhou,Albon,4,2022,R
+Bahrain,10,15,Stroll,Schumacher,4,2022,R
+Bahrain,12,11,Zhou,Hamilton,3,2022,R
+Bahrain,12,18,Ricciardo,Latifi,8,2022,R
+Bahrain,13,11,Hamilton,Zhou,1,2022,R
+Bahrain,13,17,Alonso,Ricciardo,4,2022,R
+Bahrain,13,18,Alonso,Latifi,11,2022,R
+Bahrain,14,14,Alonso,Hulkenberg,4,2022,R
+Bahrain,14,15,Alonso,Norris,1,2022,R
+Bahrain,14,19,Schumacher,Albon,8,2022,R
+Bahrain,15,9,Magnussen,Stroll,4,2022,R
+Bahrain,15,11,Alonso,Gasly,8,2022,R
+Bahrain,16,8,Gasly,Alonso,1,2022,R
+Bahrain,16,9,Gasly,Stroll,1,2022,R
+Bahrain,16,9,Alonso,Stroll,4,2022,R
+Bahrain,16,11,Ocon,Hulkenberg,1,2022,R
+Bahrain,16,12,Ocon,Norris,4,2022,R
+Bahrain,16,13,Ocon,Ricciardo,11,2022,R
+Bahrain,16,14,Tsunoda,Ricciardo,1,2022,R
+Bahrain,16,17,Schumacher,Zhou,4,2022,R
+Bahrain,17,1,Verstappen,Leclerc,1,2022,R
+Bahrain,17,1,Leclerc,Verstappen,4,2022,R
+Bahrain,17,13,Tsunoda,Hulkenberg,1,2022,R
+Bahrain,17,12,Tsunoda,Norris,1,2022,R
+Bahrain,17,13,Bottas,Norris,4,2022,R
+Bahrain,17,12,Norris,Hulkenberg,8,2022,R
+Bahrain,17,14,Bottas,Hulkenberg,9,2022,R
+Bahrain,17,15,Bottas,Ricciardo,9,2022,R
+Bahrain,17,17,Zhou,Schumacher,1,2022,R
+Bahrain,18,1,Verstappen,Leclerc,1,2022,R
+Bahrain,18,1,Leclerc,Verstappen,4,2022,R
+Bahrain,18,15,Zhou,Hulkenberg,4,2022,R
+Bahrain,18,16,Schumacher,Hulkenberg,1,2022,R
+Bahrain,19,1,Verstappen,Leclerc,1,2022,R
+Bahrain,19,1,Leclerc,Verstappen,1,2022,R
+Bahrain,19,13,Zhou,Norris,1,2022,R
+Bahrain,19,14,Schumacher,Norris,11,2022,R
+Bahrain,21,17,Stroll,Latifi,4,2022,R
+Bahrain,22,15,Albon,Norris,1,2022,R
+Bahrain,24,16,Stroll,Norris,4,2022,R
+Bahrain,26,14,Alonso,Albon,11,2022,R
+Bahrain,27,15,Stroll,Albon,10,2022,R
+Bahrain,28,17,Ricciardo,Latifi,8,2022,R
+Bahrain,30,12,Alonso,Schumacher,4,2022,R
+Bahrain,30,14,Tsunoda,Stroll,11,2022,R
+Bahrain,31,7,Hamilton,Gasly,1,2022,R
+Bahrain,32,12,Ocon,Schumacher,1,2022,R
+Bahrain,33,6,Hamilton,Magnussen,14,2022,R
+Bahrain,33,13,Tsunoda,Schumacher,11,2022,R
+Bahrain,34,17,Norris,Hulkenberg,4,2022,R
+Bahrain,35,9,Gasly,Magnussen,4,2022,R
+Bahrain,36,9,Magnussen,Gasly,4,2022,R
+Bahrain,37,7,Magnussen,Zhou,1,2022,R
+Bahrain,38,9,Ocon,Alonso,1,2022,R
+Bahrain,40,10,Tsunoda,Alonso,1,2022,R
+Bahrain,42,11,Bottas,Alonso,1,2022,R
+Bahrain,42,19,Norris,Hulkenberg,11,2022,R
+Bahrain,43,18,Norris,Latifi,9,2022,R
+Bahrain,51,10,Tsunoda,Schumacher,4,2022,R
+Bahrain,51,11,Alonso,Schumacher,11,2022,R
+Bahrain,52,12,Zhou,Schumacher,11,2022,R
+Bahrain,54,2,Sainz,Verstappen,11,2022,R
+Saudi Arabia,2,10,Norris,Gasly,1,2022,R
+Saudi Arabia,2,17,Zhou,Latifi,1,2022,R
+Saudi Arabia,3,5,Russell,Ocon,27,2022,R
+Saudi Arabia,3,16,Zhou,Hulkenberg,27,2022,R
+Saudi Arabia,4,10,Gasly,Norris,27,2022,R
+Saudi Arabia,7,6,Alonso,Ocon,1,2022,R
+Saudi Arabia,7,16,Hulkenberg,Albon,1,2022,R
+Saudi Arabia,9,12,Hamilton,Stroll,27,2022,R
+Saudi Arabia,11,11,Hamilton,Norris,27,2022,R
+Saudi Arabia,11,13,Zhou,Stroll,1,2022,R
+Saudi Arabia,12,14,Hulkenberg,Stroll,27,2022,R
+Saudi Arabia,14,7,Bottas,Ocon,1,2022,R
+Saudi Arabia,14,10,Hamilton,Gasly,1,2022,R
+Saudi Arabia,15,15,Ricciardo,Latifi,1,2022,R
+Saudi Arabia,23,6,Hamilton,Magnussen,27,2022,R
+Saudi Arabia,24,6,Magnussen,Hamilton,1,2022,R
+Saudi Arabia,24,9,Bottas,Hulkenberg,1,2022,R
+Saudi Arabia,25,6,Hamilton,Magnussen,1,2022,R
+Saudi Arabia,25,10,Ocon,Hulkenberg,1,2022,R
+Saudi Arabia,25,11,Ricciardo,Hulkenberg,27,2022,R
+Saudi Arabia,28,12,Norris,Hulkenberg,1,2022,R
+Saudi Arabia,29,13,Gasly,Hulkenberg,1,2022,R
+Saudi Arabia,35,7,Alonso,Magnussen,1,2022,R
+Saudi Arabia,41,10,Magnussen,Albon,27,2022,R
+Saudi Arabia,42,1,Verstappen,Leclerc,27,2022,R
+Saudi Arabia,43,1,Leclerc,Verstappen,1,2022,R
+Saudi Arabia,43,9,Magnussen,Stroll,1,2022,R
+Saudi Arabia,43,11,Hamilton,Albon,1,2022,R
+Saudi Arabia,45,10,Hamilton,Stroll,1,2022,R
+Saudi Arabia,48,6,Norris,Ocon,27,2022,R
+Saudi Arabia,50,6,Ocon,Norris,1,2022,R
+Australia,10,3,Perez,Hamilton,3,2022,R
+Australia,11,14,Magnussen,Zhou,11,2022,R
+Australia,12,13,Magnussen,Schumacher,10,2022,R
+Australia,12,14,Zhou,Schumacher,12,2022,R
+Australia,13,16,Albon,Latifi,1,2022,R
+Australia,13,17,Stroll,Latifi,3,2022,R
+Australia,16,11,Bottas,Tsunoda,1,2022,R
+Australia,19,8,Alonso,Gasly,3,2022,R
+Australia,19,11,Magnussen,Zhou,11,2022,R
+Australia,22,10,Stroll,Albon,3,2022,R
+Australia,23,5,Perez,Hamilton,9,2022,R
+Australia,28,12,Stroll,Bottas,11,2022,R
+Australia,30,4,Perez,Alonso,3,2022,R
+Australia,31,5,Hamilton,Alonso,1,2022,R
+Australia,31,15,Schumacher,Tsunoda,11,2022,R
+Australia,34,7,Norris,Magnussen,1,2022,R
+Australia,34,16,Zhou,Tsunoda,1,2022,R
+Australia,35,8,Ricciardo,Magnussen,1,2022,R
+Australia,36,3,Perez,Russell,11,2022,R
+Australia,39,9,Bottas,Stroll,1,2022,R
+Australia,40,9,Stroll,Bottas,3,2022,R
+Australia,40,10,Gasly,Bottas,3,2022,R
+Australia,40,13,Alonso,Zhou,3,2022,R
+Australia,42,16,Magnussen,Latifi,3,2022,R
+Australia,45,12,Alonso,Schumacher,3,2022,R
+Australia,45,15,Magnussen,Tsunoda,11,2022,R
+Australia,50,9,Gasly,Stroll,1,2022,R
+Australia,50,14,Magnussen,Schumacher,3,2022,R
+Australia,51,10,Bottas,Stroll,1,2022,R
+Australia,52,12,Zhou,Alonso,1,2022,R
+Australia,52,13,Magnussen,Alonso,3,2022,R
+Australia,53,14,Schumacher,Alonso,1,2022,R
+Australia,56,11,Zhou,Stroll,1,2022,R
+Australia,56,13,Schumacher,Magnussen,3,2022,R
+Emilia-Romagna S,5,17,Albon,Latifi,1,2022,R
+Emilia-Romagna S,7,7,Sainz,Alonso,1,2022,R
+Emilia-Romagna S,8,4,Perez,Magnussen,1,2022,R
+Emilia-Romagna S,8,14,Hamilton,Stroll,1,2022,R
+Emilia-Romagna S,9,9,Bottas,Vettel,1,2022,R
+Emilia-Romagna S,9,18,Gasly,Latifi,1,2022,R
+Emilia-Romagna S,11,3,Perez,Norris,1,2022,R
+Emilia-Romagna S,11,5,Ricciardo,Magnussen,1,2022,R
+Emilia-Romagna S,12,6,Sainz,Magnussen,1,2022,R
+Emilia-Romagna S,14,5,Sainz,Ricciardo,1,2022,R
+Emilia-Romagna S,15,10,Schumacher,Vettel,1,2022,R
+Emilia-Romagna S,16,8,Bottas,Alonso,1,2022,R
+Emilia-Romagna S,17,17,Gasly,Albon,1,2022,R
+Emilia-Romagna S,19,4,Sainz,Norris,1,2022,R
+Emilia-Romagna S,19,7,Bottas,Magnussen,1,2022,R
+Emilia-Romagna S,19,11,Russell,Vettel,1,2022,R
+Emilia-Romagna S,20,1,Verstappen,Leclerc,1,2022,R
+Emilia-Romagna S,20,12,Tsunoda,Vettel,1,2022,R
+Emilia Romagna,5,8,Vettel,Alonso,1,2022,R
+Emilia Romagna,5,9,Tsunoda,Alonso,7,2022,R
+Emilia Romagna,5,10,Stroll,Alonso,12,2022,R
+Emilia Romagna,6,11,Hamilton,Alonso,1,2022,R
+Emilia Romagna,8,3,Leclerc,Norris,1,2022,R
+Emilia Romagna,12,5,Russell,Magnussen,1,2022,R
+Emilia Romagna,12,5,Russell,Magnussen,1,2022,R
+Emilia Romagna,12,5,Magnussen,Russell,14,2022,R
+Emilia Romagna,14,16,Zhou,Schumacher,1,2022,R
+Emilia Romagna,19,12,Gasly,Hamilton,1,2022,R
+Emilia Romagna,19,13,Albon,Hamilton,5,2022,R
+Emilia Romagna,20,2,Perez,Leclerc,5,2022,R
+Emilia Romagna,20,12,Albon,Gasly,1,2022,R
+Emilia Romagna,41,15,Zhou,Latifi,1,2022,R
+Emilia Romagna,47,8,Tsunoda,Magnussen,1,2022,R
+Emilia Romagna,50,3,Norris,Leclerc,1,2022,R
+Emilia Romagna,51,3,Leclerc,Norris,1,2022,R
+Emilia Romagna,53,6,Tsunoda,Vettel,1,2022,R
+Emilia Romagna,55,17,Schumacher,Ricciardo,1,2022,R
+Emilia Romagna,56,8,Leclerc,Magnussen,1,2022,R
+Emilia Romagna,59,7,Leclerc,Vettel,1,2022,R
+Emilia Romagna,62,6,Leclerc,Tsunoda,1,2022,R
+Miami,2,11,Schumacher,Ricciardo,12,2022,R
+Miami,2,17,Ocon,Latifi,1,2022,R
+Miami,3,7,Hamilton,Alonso,11,2022,R
+Miami,3,12,Magnussen,Ricciardo,11,2022,R
+Miami,6,6,Hamilton,Gasly,1,2022,R
+Miami,6,10,Schumacher,Tsunoda,1,2022,R
+Miami,6,11,Magnussen,Tsunoda,7,2022,R
+Miami,7,14,Albon,Russell,17,2022,R
+Miami,8,14,Russell,Albon,2,2022,R
+Miami,9,1,Verstappen,Leclerc,1,2022,R
+Miami,10,12,Ricciardo,Tsunoda,1,2022,R
+Miami,13,11,Russell,Ricciardo,17,2022,R
+Miami,15,14,Stroll,Latifi,11,2022,R
+Miami,16,16,Magnussen,Latifi,17,2022,R
+Miami,16,15,Vettel,Latifi,13,2022,R
+Miami,17,16,Schumacher,Latifi,11,2022,R
+Miami,19,13,Vettel,Norris,4,2022,R
+Miami,19,14,Magnussen,Norris,7,2022,R
+Miami,19,15,Schumacher,Norris,17,2022,R
+Miami,19,18,Albon,Tsunoda,11,2022,R
+Miami,24,18,Tsunoda,Latifi,11,2022,R
+Miami,27,13,Magnussen,Vettel,7,2022,R
+Miami,30,13,Vettel,Magnussen,17,2022,R
+Miami,31,12,Magnussen,Vettel,11,2022,R
+Miami,31,13,Schumacher,Vettel,11,2022,R
+Miami,34,12,Schumacher,Magnussen,17,2022,R
+Miami,35,14,Norris,Vettel,8,2022,R
+Miami,39,10,Stroll,Gasly,3,2022,R
+Miami,40,11,Schumacher,Gasly,8,2022,R
+Miami,40,12,Magnussen,Gasly,8,2022,R
+Miami,40,13,Norris,Gasly,8,2022,R
+Miami,47,12,Vettel,Stroll,2,2022,R
+Miami,47,13,Ricciardo,Stroll,3,2022,R
+Miami,47,13,Vettel,Magnussen,2,2022,R
+Miami,47,14,Magnussen,Stroll,1,2022,R
+Miami,47,14,Ricciardo,Magnussen,3,2022,R
+Miami,49,5,Hamilton,Bottas,17,2022,R
+Miami,49,6,Russell,Bottas,17,2022,R
+Miami,49,11,Vettel,Albon,17,2022,R
+Miami,49,13,Magnussen,Ricciardo,11,2022,R
+Miami,49,14,Stroll,Magnussen,17,2022,R
+Miami,49,16,Tsunoda,Latifi,11,2022,R
+Miami,50,14,Magnussen,Stroll,3,2022,R
+Miami,52,3,Perez,Sainz,1,2022,R
+Miami,52,3,Sainz,Perez,1,2022,R
+Miami,53,9,Vettel,Ocon,17,2022,R
+Miami,53,10,Vettel,Schumacher,17,2022,R
+Miami,54,5,Russell,Hamilton,11,2022,R
+Miami,54,11,Magnussen,Ricciardo,7,2022,R
+Miami,54,12,Stroll,Ricciardo,11,2022,R
+Miami,56,12,Stroll,Magnussen,11,2022,R
+Miami,57,13,Tsunoda,Magnussen,6,2022,R
+Spain,3,16,Zhou,Albon,7,2022,R
+Spain,4,6,Bottas,Schumacher,1,2022,R
+Spain,5,8,Ocon,Ricciardo,1,2022,R
+Spain,5,14,Alonso,Stroll,1,2022,R
+Spain,6,7,Ocon,Schumacher,1,2022,R
+Spain,6,15,Zhou,Stroll,1,2022,R
+Spain,7,10,Tsunoda,Sainz,5,2022,R
+Spain,7,13,Alonso,Vettel,1,2022,R
+Spain,9,8,Norris,Ricciardo,1,2022,R
+Spain,9,12,Alonso,Gasly,1,2022,R
+Spain,10,7,Norris,Schumacher,1,2022,R
+Spain,11,9,Tsunoda,Ricciardo,1,2022,R
+Spain,14,9,Sainz,Norris,1,2022,R
+Spain,14,11,Tsunoda,Alonso,1,2022,R
+Spain,15,5,Bottas,Vettel,10,2022,R
+Spain,16,17,Stroll,Albon,1,2022,R
+Spain,17,6,Ocon,Vettel,1,2022,R
+Spain,18,7,Sainz,Vettel,1,2022,R
+Spain,19,12,Schumacher,Ricciardo,1,2022,R
+Spain,21,18,Latifi,Albon,1,2022,R
+Spain,22,13,Zhou,Gasly,1,2022,R
+Spain,24,5,Sainz,Ocon,1,2022,R
+Spain,24,18,Hamilton,Albon,5,2022,R
+Spain,25,17,Hamilton,Latifi,4,2022,R
+Spain,27,14,Stroll,Gasly,1,2022,R
+Spain,27,16,Hamilton,Stroll,4,2022,R
+Spain,29,15,Stroll,Magnussen,10,2022,R
+Spain,30,12,Hamilton,Vettel,1,2022,R
+Spain,31,1,Perez,Russell,1,2022,R
+Spain,31,3,Verstappen,Bottas,12,2022,R
+Spain,34,10,Alonso,Tsunoda,1,2022,R
+Spain,39,8,Norris,Vettel,1,2022,R
+Spain,40,17,Magnussen,Albon,1,2022,R
+Spain,45,13,Vettel,Gasly,1,2022,R
+Spain,47,6,Sainz,Ocon,1,2022,R
+Spain,51,6,Hamilton,Ocon,1,2022,R
+Spain,51,16,Stroll,Magnussen,1,2022,R
+Spain,53,3,Russell,Bottas,1,2022,R
+Spain,55,9,Alonso,Schumacher,1,2022,R
+Spain,56,10,Tsunoda,Schumacher,1,2022,R
+Spain,58,4,Sainz,Bottas,1,2022,R
+Spain,58,5,Hamilton,Bottas,3,2022,R
+Spain,59,11,Vettel,Schumacher,1,2022,R
+Spain,60,4,Hamilton,Sainz,1,2022,R
+Spain,62,16,Latifi,Magnussen,1,2022,R
+Spain,64,12,Ricciardo,Schumacher,1,2022,R
+Spain,65,4,Sainz,Hamilton,1,2022,R
+Spain,65,13,Gasly,Schumacher,1,2022,R
+Monaco,12,13,Gasly,Zhou,5,2022,R
+Monaco,13,12,Gasly,Ricciardo,13,2022,R
+Monaco,17,14,Vettel,Zhou,18,2022,R
+Monaco,17,17,Tsunoda,Schumacher,5,2022,R
+Monaco,17,18,Stroll,Schumacher,5,2022,R
+Monaco,19,11,Gasly,Magnussen,9,2022,R
+Monaco,19,13,Vettel,Ricciardo,5,2022,R
+Monaco,19,16,Stroll,Tsunoda,17,2022,R
+Monaco,20,19,Schumacher,Latifi,5,2022,R
+Monaco,21,16,Albon,Zhou,18,2022,R
+Monaco,22,9,Vettel,Gasly,17,2022,R
+Monaco,23,5,Russell,Norris,2,2022,R
+Monaco,49,16,Latifi,Zhou,13,2022,R
+Azerbaijan,2,17,Magnussen,Stroll,1,2022,R
+Azerbaijan,3,16,Magnussen,Bottas,1,2022,R
+Azerbaijan,6,15,Magnussen,Albon,1,2022,R
+Azerbaijan,15,1,Verstappen,Perez,1,2022,R
+Azerbaijan,15,15,Magnussen,Stroll,1,2022,R
+Azerbaijan,17,14,Magnussen,Bottas,1,2022,R
+Azerbaijan,18,9,Hamilton,Ocon,3,2022,R
+Azerbaijan,21,15,Albon,Norris,3,2022,R
+Azerbaijan,22,7,Tsunoda,Ocon,3,2022,R
+Azerbaijan,25,8,Vettel,Ocon,3,2022,R
+Azerbaijan,26,5,Hamilton,Ricciardo,3,2022,R
+Azerbaijan,26,10,Alonso,Magnussen,1,2022,R
+Azerbaijan,27,9,Alonso,Ocon,1,2022,R
+Azerbaijan,27,14,Norris,Albon,3,2022,R
+Azerbaijan,28,13,Norris,Stroll,3,2022,R
+Azerbaijan,31,12,Norris,Bottas,3,2022,R
+Azerbaijan,36,5,Hamilton,Tsunoda,1,2022,R
+Azerbaijan,44,4,Hamilton,Gasly,3,2022,R
+Canada,2,17,Leclerc,Gasly,1,2022,R
+Canada,3,2,Sainz,Alonso,13,2022,R
+Canada,3,6,Russell,Ocon,10,2022,R
+Canada,3,16,Leclerc,Stroll,13,2022,R
+Canada,4,9,Zhou,Ricciardo,13,2022,R
+Canada,5,5,Russell,Magnussen,10,2022,R
+Canada,12,5,Hamilton,Ocon,1,2022,R
+Canada,13,12,Leclerc,Norris,13,2022,R
+Canada,15,2,Verstappen,Alonso,13,2022,R
+Canada,15,18,Magnussen,Latifi,6,2022,R
+Canada,17,10,Bottas,Albon,13,2022,R
+Canada,19,7,Zhou,Schumacher,8,2022,R
+Canada,21,7,Leclerc,Bottas,13,2022,R
+Canada,21,17,Norris,Latifi,13,2022,R
+Canada,22,2,Sainz,Alonso,13,2022,R
+Canada,23,3,Hamilton,Alonso,13,2022,R
+Canada,30,13,Vettel,Gasly,13,2022,R
+Canada,43,11,Leclerc,Ricciardo,8,2022,R
+Canada,44,2,Verstappen,Hamilton,13,2022,R
+Canada,44,10,Leclerc,Tsunoda,13,2022,R
+Canada,46,11,Ricciardo,Tsunoda,13,2022,R
+Canada,47,7,Leclerc,Stroll,13,2022,R
+Canada,47,8,Leclerc,Zhou,1,2022,R
+Canada,57,9,Zhou,Vettel,1,2022,R
+Canada,57,10,Ricciardo,Vettel,13,2022,R
+Canada,57,12,Stroll,Magnussen,1,2022,R
+Canada,57,13,Albon,Magnussen,13,2022,R
+Canada,57,14,Albon,Gasly,1,2022,R
+Canada,58,6,Leclerc,Alonso,10,2022,R
+Canada,58,14,Gasly,Magnussen,1,2022,R
+Canada,58,15,Norris,Magnussen,12,2022,R
+Canada,59,16,Latifi,Magnussen,13,2022,R
+Canada,60,5,Leclerc,Ocon,10,2022,R
+Canada,63,10,Stroll,Ricciardo,13,2022,R
+Great Britain,4,10,Ocon,Latifi,3,2022,R
+Great Britain,4,12,Bottas,Ricciardo,6,2022,R
+Great Britain,4,16,Schumacher,Stroll,9,2022,R
+Great Britain,5,7,Alonso,Gasly,15,2022,R
+Great Britain,6,4,Hamilton,Norris,6,2022,R
+Great Britain,7,16,Perez,Vettel,3,2022,R
+Great Britain,12,1,Sainz,Verstappen,15,2022,R
+Great Britain,13,15,Perez,Tsunoda,15,2022,R
+Great Britain,15,11,Schumacher,Magnussen,6,2022,R
+Great Britain,18,12,Perez,Magnussen,15,2022,R
+Great Britain,20,8,Perez,Ricciardo,15,2022,R
+Great Britain,24,7,Vettel,Verstappen,4,2022,R
+Great Britain,29,9,Ocon,Latifi,6,2022,R
+Great Britain,32,10,Schumacher,Latifi,6,2022,R
+Great Britain,33,11,Magnussen,Latifi,6,2022,R
+Great Britain,36,8,Ocon,Verstappen,15,2022,R
+Great Britain,43,1,Sainz,Leclerc,5,2022,R
+Great Britain,43,3,Perez,Hamilton,5,2022,R
+Great Britain,43,8,Verstappen,Magnussen,6,2022,R
+Great Britain,43,9,Schumacher,Magnussen,9,2022,R
+Great Britain,44,7,Verstappen,Vettel,4,2022,R
+Great Britain,45,2,Hamilton,Perez,17,2022,R
+Great Britain,45,3,Hamilton,Leclerc,17,2022,R
+Great Britain,45,3,Perez,Leclerc,17,2022,R
+Great Britain,45,8,Schumacher,Vettel,6,2022,R
+Great Britain,46,2,Perez,Hamilton,3,2022,R
+Great Britain,46,3,Leclerc,Hamilton,4,2022,R
+Great Britain,48,3,Hamilton,Leclerc,7,2022,R
+Great Britain,48,3,Leclerc,Hamilton,9,2022,R
+Great Britain,48,3,Hamilton,Leclerc,15,2022,R
+Great Britain,49,11,Stroll,Latifi,15,2022,R
+Austria,3,16,Latifi,Tsunoda,3,2022,S
+Austria,4,10,Hamilton,Albon,1,2022,S
+Austria,5,5,Magnussen,Ocon,3,2022,S
+Austria,5,5,Ocon,Magnussen,3,2022,S
+Austria,6,11,Norris,Albon,3,2022,S
+Austria,6,11,Albon,Norris,4,2022,S
+Austria,6,11,Norris,Albon,9,2022,S
+Austria,6,16,Tsunoda,Latifi,4,2022,S
+Austria,7,2,Sainz,Leclerc,3,2022,S
+Austria,7,2,Leclerc,Sainz,3,2022,S
+Austria,7,12,Ricciardo,Albon,3,2022,S
+Austria,8,9,Hamilton,Bottas,3,2022,S
+Austria,8,17,Gasly,Latifi,3,2022,S
+Austria,9,7,Perez,Schumacher,3,2022,S
+Austria,9,18,Zhou,Latifi,3,2022,S
+Austria,10,6,Perez,Magnussen,3,2022,S
+Austria,12,5,Perez,Ocon,3,2022,S
+Austria,15,15,Gasly,Tsunoda,3,2022,S
+Austria,15,15,Tsunoda,Gasly,4,2022,S
+Austria,16,16,Zhou,Tsunoda,3,2022,S
+Austria,21,8,Hamilton,Schumacher,3,2022,S
+Austria,21,15,Zhou,Gasly,3,2022,S
+Austria,2,14,Tsunoda,Zhou,3,2022,R
+Austria,2,17,Alonso,Vettel,6,2022,R
+Austria,4,7,Schumacher,Hamilton,3,2022,R
+Austria,5,9,Norris,Ricciardo,3,2022,R
+Austria,12,1,Leclerc,Verstappen,4,2022,R
+Austria,14,5,Hamilton,Schumacher,7,2022,R
+Austria,15,4,Hamilton,Magnussen,4,2022,R
+Austria,15,16,Gasly,Bottas,4,2022,R
+Austria,15,18,Russell,Latifi,3,2022,R
+Austria,16,5,Verstappen,Schumacher,3,2022,R
+Austria,17,17,Russell,Bottas,4,2022,R
+Austria,18,3,Verstappen,Hamilton,4,2022,R
+Austria,19,13,Schumacher,Ricciardo,3,2022,R
+Austria,20,9,Ocon,Vettel,3,2022,R
+Austria,21,15,Russell,Gasly,3,2022,R
+Austria,22,7,Ocon,Zhou,4,2022,R
+Austria,23,6,Ocon,Tsunoda,3,2022,R
+Austria,24,8,Magnussen,Zhou,1,2022,R
+Austria,24,8,Alonso,Zhou,1,2022,R
+Austria,24,9,Zhou,Alonso,1,2022,R
+Austria,24,9,Alonso,Zhou,3,2022,R
+Austria,24,9,Magnussen,Alonso,1,2022,R
+Austria,24,9,Norris,Alonso,3,2022,R
+Austria,24,10,Norris,Zhou,3,2022,R
+Austria,24,11,Schumacher,Zhou,3,2022,R
+Austria,24,13,Russell,Albon,4,2022,R
+Austria,25,10,Schumacher,Alonso,4,2022,R
+Austria,26,7,Magnussen,Tsunoda,4,2022,R
+Austria,27,8,Schumacher,Norris,3,2022,R
+Austria,29,10,Russell,Ricciardo,3,2022,R
+Austria,30,4,Hamilton,Ocon,3,2022,R
+Austria,30,15,Vettel,Latifi,4,2022,R
+Austria,32,6,Schumacher,Magnussen,9,2022,R
+Austria,32,16,Tsunoda,Latifi,3,2022,R
+Austria,32,17,Alonso,Latifi,3,2022,R
+Austria,32,18,Zhou,Latifi,6,2022,R
+Austria,33,1,Leclerc,Verstappen,1,2022,R
+Austria,33,16,Alonso,Tsunoda,4,2022,R
+Austria,37,13,Vettel,Bottas,6,2022,R
+Austria,37,17,Zhou,Tsunoda,3,2022,R
+Austria,39,12,Vettel,Gasly,4,2022,R
+Austria,40,12,Alonso,Stroll,3,2022,R
+Austria,41,7,Norris,Magnussen,3,2022,R
+Austria,42,11,Russell,Zhou,3,2022,R
+Austria,44,8,Russell,Stroll,7,2022,R
+Austria,44,9,Russell,Schumacher,3,2022,R
+Austria,44,11,Magnussen,Zhou,6,2022,R
+Austria,44,15,Albon,Vettel,3,2022,R
+Austria,45,8,Schumacher,Stroll,1,2022,R
+Austria,45,8,Stroll,Schumacher,3,2022,R
+Austria,46,12,Norris,Tsunoda,4,2022,R
+Austria,47,8,Schumacher,Stroll,3,2022,R
+Austria,47,9,Magnussen,Stroll,3,2022,R
+Austria,50,17,Zhou,Vettel,4,2022,R
+Austria,53,1,Leclerc,Verstappen,3,2022,R
+Austria,54,6,Russell,Alonso,3,2022,R
+Austria,54,16,Zhou,Tsunoda,4,2022,R
+Austria,61,4,Russell,Ocon,3,2022,R
+Austria,61,13,Alonso,Stroll,3,2022,R
+Austria,62,7,Norris,Magnussen,4,2022,R
+Austria,62,12,Alonso,Gasly,2,2022,R
+Austria,64,10,Bottas,Albon,4,2022,R
+Austria,64,13,Stroll,Gasly,4,2022,R
+Austria,67,11,Alonso,Albon,3,2022,R
+Austria,67,14,Zhou,Gasly,4,2022,R
+Austria,67,16,Vettel,Tsunoda,3,2022,R
+Austria,70,10,Alonso,Bottas,3,2022,R
+France,2,12,Magnussen,Albon,11,2022,R
+France,2,16,Sainz,Bottas,8,2022,R
+France,2,17,Sainz,Latifi,1,2022,R
+France,3,5,Russell,Alonso,8,2022,R
+France,3,15,Sainz,Gasly,1,2022,R
+France,4,14,Sainz,Schumacher,11,2022,R
+France,5,13,Sainz,Albon,8,2022,R
+France,7,8,Ocon,Ricciardo,8,2022,R
+France,8,12,Sainz,Magnussen,8,2022,R
+France,12,11,Sainz,Vettel,1,2022,R
+France,13,12,Sainz,Stroll,8,2022,R
+France,14,15,Latifi,Bottas,8,2022,R
+France,17,6,Verstappen,Norris,11,2022,R
+France,17,9,Sainz,Ricciardo,8,2022,R
+France,21,6,Sainz,Norris,8,2022,R
+France,21,7,Sainz,Ricciardo,1,2022,R
+France,22,5,Sainz,Alonso,8,2022,R
+France,22,16,Magnussen,Zhou,1,2022,R
+France,23,15,Magnussen,Latifi,11,2022,R
+France,30,4,Sainz,Russell,10,2022,R
+France,36,13,Gasly,Magnussen,8,2022,R
+France,37,14,Latifi,Magnussen,10,2022,R
+France,37,14,Magnussen,Latifi,11,2022,R
+France,39,11,Vettel,Albon,1,2022,R
+France,41,3,Sainz,Perez,14,2022,R
+France,43,8,Sainz,Ocon,12,2022,R
+France,44,7,Sainz,Ricciardo,1,2022,R
+France,45,6,Sainz,Norris,11,2022,R
+France,45,8,Ocon,Ricciardo,10,2022,R
+France,47,5,Sainz,Alonso,11,2022,R
+France,47,12,Gasly,Albon,1,2022,R
+France,50,3,Russell,Perez,13,2022,R
+France,52,14,Bottas,Schumacher,1,2022,R
+Hungary,3,16,Vettel,Zhou,1,2022,R
+Hungary,5,7,Verstappen,Alonso,4,2022,R
+Hungary,7,6,Verstappen,Ocon,1,2022,R
+Hungary,7,8,Perez,Alonso,3,2022,R
+Hungary,9,7,Perez,Ocon,1,2022,R
+Hungary,9,17,Gasly,Latifi,1,2022,R
+Hungary,10,14,Vettel,Tsunoda,1,2022,R
+Hungary,12,4,Hamilton,Norris,1,2022,R
+Hungary,12,5,Verstappen,Norris,2,2022,R
+Hungary,13,6,Perez,Norris,1,2022,R
+Hungary,13,15,Zhou,Tsunoda,1,2022,R
+Hungary,14,19,Magnussen,Tsunoda,2,2022,R
+Hungary,15,19,Tsunoda,Magnussen,1,2022,R
+Hungary,16,12,Norris,Latifi,1,2022,R
+Hungary,16,17,Stroll,Vettel,1,2022,R
+Hungary,17,14,Ricciardo,Albon,2,2022,R
+Hungary,18,4,Russell,Ocon,1,2022,R
+Hungary,18,15,Stroll,Albon,2,2022,R
+Hungary,19,4,Sainz,Ocon,1,2022,R
+Hungary,19,15,Vettel,Albon,1,2022,R
+Hungary,20,5,Verstappen,Alonso,1,2022,R
+Hungary,20,9,Perez,Bottas,1,2022,R
+Hungary,20,11,Norris,Zhou,1,2022,R
+Hungary,20,18,Gasly,Magnussen,1,2022,R
+Hungary,21,4,Verstappen,Ocon,1,2022,R
+Hungary,21,8,Perez,Schumacher,1,2022,R
+Hungary,21,9,Norris,Bottas,1,2022,R
+Hungary,21,16,Tsunoda,Albon,2,2022,R
+Hungary,23,15,Tsunoda,Schumacher,1,2022,R
+Hungary,24,10,Ricciardo,Ocon,3,2022,R
+Hungary,24,11,Ricciardo,Alonso,2,2022,R
+Hungary,24,16,Gasly,Schumacher,1,2022,R
+Hungary,27,11,Stroll,Alonso,1,2022,R
+Hungary,28,16,Schumacher,Zhou,1,2022,R
+Hungary,28,18,Latifi,Magnussen,3,2022,R
+Hungary,29,9,Stroll,Ocon,1,2022,R
+Hungary,31,1,Leclerc,Russell,1,2022,R
+Hungary,31,11,Vettel,Alonso,1,2022,R
+Hungary,38,10,Vettel,Ocon,1,2022,R
+Hungary,38,15,Zhou,Schumacher,1,2022,R
+Hungary,40,18,Magnussen,Latifi,2,2022,R
+Hungary,41,3,Verstappen,Leclerc,1,2022,R
+Hungary,42,5,Russell,Perez,1,2022,R
+Hungary,45,3,Verstappen,Leclerc,1,2022,R
+Hungary,45,19,Albon,Tsunoda,4,2022,R
+Hungary,48,12,Stroll,Zhou,2,2022,R
+Hungary,49,11,Stroll,Ricciardo,1,2022,R
+Hungary,49,13,Vettel,Zhou,1,2022,R
+Hungary,51,12,Vettel,Ricciardo,1,2022,R
+Hungary,51,14,Gasly,Zhou,1,2022,R
+Hungary,54,2,Russell,Leclerc,1,2022,R
+Hungary,55,13,Gasly,Ricciardo,2,2022,R
+Hungary,56,17,Albon,Latifi,1,2022,R
+Hungary,58,17,Zhou,Albon,1,2022,R
+Hungary,62,10,Stroll,Bottas,1,2022,R
+Hungary,62,11,Vettel,Bottas,2,2022,R
+Hungary,62,16,Zhou,Magnussen,1,2022,R
+Hungary,63,3,Hamilton,Sainz,1,2022,R
+Hungary,65,2,Hamilton,Russell,1,2022,R
+Hungary,69,14,Zhou,Schumacher,14,2022,R
+Hungary,69,16,Magnussen,Albon,13,2022,R
+Belgium,2,9,Leclerc,Stroll,5,2022,R
+Belgium,5,6,Verstappen,Ricciardo,18,2022,R
+Belgium,5,15,Tsunoda,Schumacher,5,2022,R
+Belgium,5,15,Gasly,Schumacher,18,2022,R
+Belgium,6,5,Verstappen,Vettel,18,2022,R
+Belgium,6,7,Albon,Ricciardo,5,2022,R
+Belgium,6,16,Leclerc,Schumacher,1,2022,R
+Belgium,6,17,Latifi,Schumacher,5,2022,R
+Belgium,7,4,Verstappen,Alonso,5,2022,R
+Belgium,7,10,Ocon,Magnussen,5,2022,R
+Belgium,8,3,Verstappen,Russell,5,2022,R
+Belgium,8,14,Leclerc,Tsunoda,18,2022,R
+Belgium,8,15,Leclerc,Gasly,12,2022,R
+Belgium,9,11,Norris,Magnussen,5,2022,R
+Belgium,9,13,Leclerc,Zhou,12,2022,R
+Belgium,10,12,Leclerc,Magnussen,5,2022,R
+Belgium,11,12,Zhou,Magnussen,5,2022,R
+Belgium,12,1,Verstappen,Perez,5,2022,R
+Belgium,12,5,Sainz,Ricciardo,10,2022,R
+Belgium,12,7,Leclerc,Norris,5,2022,R
+Belgium,12,13,Alonso,Latifi,18,2022,R
+Belgium,12,14,Schumacher,Alonso,2,2022,R
+Belgium,12,14,Alonso,Schumacher,7,2022,R
+Belgium,13,4,Sainz,Vettel,18,2022,R
+Belgium,14,5,Leclerc,Stroll,5,2022,R
+Belgium,14,6,Russell,Stroll,18,2022,R
+Belgium,14,9,Alonso,Tsunoda,1,2022,R
+Belgium,14,9,Tsunoda,Alonso,5,2022,R
+Belgium,14,12,Albon,Schumacher,2,2022,R
+Belgium,14,13,Ricciardo,Schumacher,15,2022,R
+Belgium,14,14,Ocon,Schumacher,17,2022,R
+Belgium,15,9,Albon,Vettel,5,2022,R
+Belgium,15,11,Ocon,Latifi,18,2022,R
+Belgium,15,12,Ocon,Ricciardo,18,2022,R
+Belgium,16,4,Russell,Leclerc,5,2022,R
+Belgium,16,6,Alonso,Tsunoda,5,2022,R
+Belgium,16,15,Zhou,Magnussen,5,2022,R
+Belgium,16,17,Schumacher,Latifi,2,2022,R
+Belgium,17,8,Vettel,Albon,5,2022,R
+Belgium,18,1,Verstappen,Sainz,5,2022,R
+Belgium,18,13,Stroll,Norris,5,2022,R
+Belgium,20,8,Ocon,Albon,1,2022,R
+Belgium,20,11,Stroll,Gasly,1,2022,R
+Belgium,20,11,Gasly,Stroll,5,2022,R
+Belgium,20,16,Tsunoda,Schumacher,5,2022,R
+Belgium,21,2,Perez,Sainz,5,2022,R
+Belgium,21,11,Stroll,Gasly,5,2022,R
+Belgium,24,16,Gasly,Schumacher,5,2022,R
+Belgium,26,14,Tsunoda,Magnussen,5,2022,R
+Belgium,27,10,Alonso,Zhou,8,2022,R
+Belgium,27,13,Gasly,Magnussen,5,2022,R
+Belgium,27,17,Latifi,Stroll,2,2022,R
+Belgium,27,17,Stroll,Latifi,18,2022,R
+Belgium,28,9,Alonso,Norris,5,2022,R
+Belgium,28,14,Albon,Schumacher,5,2022,R
+Belgium,29,6,Leclerc,Ocon,5,2022,R
+Belgium,29,8,Alonso,Ricciardo,5,2022,R
+Belgium,29,14,Stroll,Schumacher,5,2022,R
+Belgium,29,16,Zhou,Latifi,17,2022,R
+Belgium,30,15,Zhou,Norris,5,2022,R
+Belgium,31,5,Leclerc,Vettel,5,2022,R
+Belgium,31,13,Norris,Zhou,5,2022,R
+Belgium,31,16,Magnussen,Latifi,5,2022,R
+Belgium,35,7,Vettel,Gasly,1,2022,R
+Belgium,35,7,Ocon,Vettel,5,2022,R
+Belgium,35,8,Ocon,Gasly,5,2022,R
+Belgium,35,8,Gasly,Vettel,5,2022,R
+Belgium,35,8,Vettel,Gasly,5,2022,R
+Belgium,41,13,Tsunoda,Zhou,18,2022,R
+Belgium,42,13,Zhou,Tsunoda,5,2022,R
+Belgium,43,5,Alonso,Leclerc,5,2022,R
+Belgium,44,5,Leclerc,Alonso,5,2022,R
+Belgium,44,13,Tsunoda,Zhou,5,2022,R
+Netherlands,4,6,Russell,Norris,1,2022,R
+Netherlands,10,12,Alonso,Gasly,1,2022,R
+Netherlands,10,18,Magnussen,Latifi,1,2022,R
+Netherlands,10,18,Latifi,Magnussen,1,2022,R
+Netherlands,11,18,Magnussen,Latifi,1,2022,R
+Netherlands,12,11,Alonso,Tsunoda,1,2022,R
+Netherlands,15,16,Schumacher,Vettel,11,2022,R
+Netherlands,19,16,Bottas,Vettel,1,2022,R
+Netherlands,20,6,Sainz,Albon,1,2022,R
+Netherlands,28,2,Verstappen,Russell,1,2022,R
+Netherlands,33,13,Bottas,Schumacher,1,2022,R
+Netherlands,37,3,Hamilton,Perez,1,2022,R
+Netherlands,39,4,Russell,Perez,1,2022,R
+Netherlands,40,17,Schumacher,Ricciardo,11,2022,R
+Netherlands,41,18,Magnussen,Ricciardo,1,2022,R
+Netherlands,44,5,Perez,Norris,1,2022,R
+Netherlands,55,6,Sainz,Ocon,1,2022,R
+Netherlands,61,1,Verstappen,Hamilton,1,2022,R
+Netherlands,61,5,Sainz,Perez,1,2022,R
+Netherlands,64,2,Russell,Hamilton,1,2022,R
+Netherlands,66,3,Leclerc,Hamilton,1,2022,R
+Netherlands,70,13,Vettel,Schumacher,1,2022,R
+Italy,2,3,Verstappen,Ricciardo,1,2022,R
+Italy,2,10,Stroll,Vettel,1,2022,R
+Italy,2,12,Ocon,Magnussen,9,2022,R
+Italy,2,14,Sainz,Latifi,11,2022,R
+Italy,2,15,Sainz,Perez,1,2022,R
+Italy,2,17,Tsunoda,Schumacher,1,2022,R
+Italy,3,15,Perez,Latifi,1,2022,R
+Italy,4,13,Sainz,Magnussen,1,2022,R
+Italy,4,14,Perez,Magnussen,1,2022,R
+Italy,4,16,Tsunoda,Latifi,1,2022,R
+Italy,4,16,Latifi,Tsunoda,2,2022,R
+Italy,4,18,Schumacher,Hamilton,3,2022,R
+Italy,4,18,Hamilton,Schumacher,9,2022,R
+Italy,5,2,Verstappen,Russell,1,2022,R
+Italy,5,11,Sainz,Vettel,11,2022,R
+Italy,5,12,Sainz,Ocon,1,2022,R
+Italy,6,10,Sainz,Stroll,1,2022,R
+Italy,6,13,Perez,Ocon,9,2022,R
+Italy,7,15,Tsunoda,Latifi,1,2022,R
+Italy,8,9,Sainz,Zhou,1,2022,R
+Italy,8,14,Tsunoda,Magnussen,9,2022,R
+Italy,8,16,Hamilton,Latifi,1,2022,R
+Italy,9,8,Sainz,De Vries,1,2022,R
+Italy,9,15,Hamilton,Magnussen,1,2022,R
+Italy,10,7,Sainz,Alonso,1,2022,R
+Italy,11,6,Sainz,Norris,1,2022,R
+Italy,11,13,Hamilton,Tsunoda,9,2022,R
+Italy,12,5,Sainz,Gasly,1,2022,R
+Italy,13,4,Sainz,Ricciardo,8,2022,R
+Italy,13,7,Alonso,Norris,3,2022,R
+Italy,13,15,Latifi,Magnussen,1,2022,R
+Italy,16,12,Hamilton,Ocon,1,2022,R
+Italy,16,15,Schumacher,Magnussen,1,2022,R
+Italy,17,11,Hamilton,Stroll,1,2022,R
+Italy,18,6,Norris,Alonso,1,2022,R
+Italy,18,16,Bottas,Magnussen,1,2022,R
+Italy,20,10,Perez,Magnussen,1,2022,R
+Italy,21,17,Tsunoda,Stroll,1,2022,R
+Italy,22,9,Perez,Bottas,1,2022,R
+Italy,24,8,Perez,Schumacher,1,2022,R
+Italy,24,18,Latifi,Stroll,1,2022,R
+Italy,27,6,Hamilton,Alonso,1,2022,R
+Italy,33,5,Sainz,Perez,9,2022,R
+Italy,35,9,Hamilton,De Vries,8,2022,R
+Italy,35,10,Hamilton,Zhou,1,2022,R
+Italy,35,16,Schumacher,Stroll,8,2022,R
+Italy,36,7,Gasly,Norris,1,2022,R
+Italy,36,7,Hamilton,Gasly,2,2022,R
+Italy,36,8,Hamilton,Norris,2,2022,R
+Italy,37,6,Hamilton,Ricciardo,1,2022,R
+Italy,37,8,Norris,Gasly,1,2022,R
+Italy,37,16,Bottas,Stroll,8,2022,R
+Italy,41,14,Schumacher,Latifi,1,2022,R
+Italy,41,14,Latifi,Schumacher,9,2022,R
+Italy,41,14,Schumacher,Latifi,6,2022,R
+Italy,42,15,Bottas,Latifi,1,2022,R
+Italy,45,13,Schumacher,Tsunoda,8,2022,R
+Italy,47,13,Bottas,Tsunoda,1,2022,R
+Singapore,2,10,Verstappen,Stroll,7,2022,R
+Singapore,2,11,Verstappen,Magnussen,5,2022,R
+Singapore,2,18,Russell,Zhou,5,2022,R
+Singapore,3,9,Verstappen,Tsunoda,14,2022,R
+Singapore,4,17,Russell,Latifi,14,2022,R
+Singapore,11,7,Verstappen,Gasly,13,2022,R
+Singapore,11,8,Verstappen,Vettel,5,2022,R
+Singapore,22,15,Magnussen,Albon,14,2022,R
+Singapore,40,11,Russell,Magnussen,1,2022,R
+Singapore,40,12,Russell,Bottas,7,2022,R
+Singapore,46,13,Russell,Schumacher,14,2022,R
+Singapore,47,11,Verstappen,Magnussen,7,2022,R
+Singapore,50,10,Verstappen,Bottas,14,2022,R
+Singapore,51,9,Verstappen,Gasly,7,2022,R
+Singapore,57,8,Verstappen,Hamilton,8,2022,R
+Singapore,59,7,Verstappen,Vettel,7,2022,R
+Japan,6,11,Magnussen,Stroll,8,2022,R
+Japan,8,5,Leclerc,Zhou,15,2022,R
+Japan,9,1,Verstappen,Schumacher,1,2022,R
+Japan,9,2,Leclerc,Schumacher,11,2022,R
+Japan,9,4,Perez,Zhou,10,2022,R
+Japan,9,8,Vettel,Alonso,1,2022,R
+Japan,9,16,Magnussen,Bottas,13,2022,R
+Japan,10,3,Perez,Schumacher,11,2022,R
+Japan,10,4,Ocon,Schumacher,13,2022,R
+Japan,11,6,Vettel,Schumacher,10,2022,R
+Japan,11,7,Alonso,Schumacher,10,2022,R
+Japan,11,8,Latifi,Schumacher,13,2022,R
+Japan,11,9,Norris,Schumacher,13,2022,R
+Japan,15,9,Russell,Norris,15,2022,R
+Japan,15,10,Russell,Tsunoda,11,2022,R
+Japan,20,8,Russell,Latifi,11,2022,R
+Japan,22,14,Stroll,Schumacher,10,2022,R
+Japan,23,9,Alonso,Norris,15,2022,R
+Japan,23,13,Stroll,Bottas,13,2022,R
+Japan,23,15,Tsunoda,Schumacher,15,2022,R
+Japan,24,8,Alonso,Latifi,11,2022,R
+Japan,24,12,Stroll,Magnussen,3,2022,R
+Japan,24,16,Zhou,Schumacher,15,2022,R
+Japan,25,13,Tsunoda,Magnussen,15,2022,R
+Japan,25,14,Tsunoda,Bottas,1,2022,R
+Japan,28,7,Alonso,Russell,1,2022,R
+Austin,2,6,Perez,Norris,12,2022,R
+Austin,2,9,Leclerc,Albon,12,2022,R
+Austin,2,15,Latifi,Schumacher,1,2022,R
+Austin,2,16,Zhou,Schumacher,12,2022,R
+Austin,3,18,Ocon,Magnussen,12,2022,R
+Austin,4,5,Perez,Vettel,12,2022,R
+Austin,4,7,Gasly,Norris,12,2022,R
+Austin,4,10,Bottas,Albon,1,2022,R
+Austin,5,3,Russell,Stroll,12,2022,R
+Austin,5,7,Leclerc,Norris,15,2022,R
+Austin,5,8,Leclerc,Gasly,12,2022,R
+Austin,5,7,Norris,Gasly,12,2022,R
+Austin,5,11,Alonso,Albon,12,2022,R
+Austin,5,13,Tsunoda,Ricciardo,12,2022,R
+Austin,6,4,Perez,Stroll,12,2022,R
+Austin,6,14,Zhou,Ricciardo,12,2022,R
+Austin,7,8,Gasly,Norris,12,2022,R
+Austin,10,14,Ocon,Schumacher,20,2022,R
+Austin,11,17,Zhou,Ricciardo,1,2022,R
+Austin,12,6,Leclerc,Vettel,12,2022,R
+Austin,13,10,Schumacher,Ocon,12,2022,R
+Austin,14,3,Leclerc,Stroll,12,2022,R
+Austin,16,3,Hamilton,Vettel,1,2022,R
+Austin,16,6,Russell,Alonso,1,2022,R
+Austin,16,8,Stroll,Schumacher,1,2022,R
+Austin,16,9,Ocon,Schumacher,12,2022,R
+Austin,16,15,Tsunoda,Albon,1,2022,R
+Austin,17,11,Gasly,Magnussen,12,2022,R
+Austin,22,8,Alonso,Gasly,2,2022,R
+Austin,22,10,Tsunoda,Norris,1,2022,R
+Austin,22,12,Schumacher,Ocon,11,2022,R
+Austin,22,14,Magnussen,Zhou,1,2022,R
+Austin,26,11,Magnussen,Ocon,3,2022,R
+Austin,28,15,Alonso,Latifi,12,2022,R
+Austin,29,16,Zhou,Latifi,15,2022,R
+Austin,29,16,Latifi,Zhou,15,2022,R
+Austin,30,3,Leclerc,Perez,12,2022,R
+Austin,30,13,Albon,Ricciardo,12,2022,R
+Austin,31,14,Alonso,Ricciardo,12,2022,R
+Austin,33,12,Alonso,Albon,12,2022,R
+Austin,33,15,Zhou,Latifi,12,2022,R
+Austin,36,12,Tsunoda,Latifi,12,2022,R
+Austin,37,6,Magnussen,Russell,1,2022,R
+Austin,37,6,Russell,Magnussen,12,2022,R
+Austin,37,14,Norris,Latifi,1,2022,R
+Austin,38,15,Schumacher,Latifi,12,2022,R
+Austin,38,15,Gasly,Latifi,15,2022,R
+Austin,39,3,Verstappen,Leclerc,1,2022,R
+Austin,39,3,Leclerc,Verstappen,1,2022,R
+Austin,39,3,Verstappen,Leclerc,12,2022,R
+Austin,39,5,Russell,Perez,2,2022,R
+Austin,39,5,Perez,Russell,3,2022,R
+Austin,40,14,Gasly,Schumacher,12,2022,R
+Austin,41,1,Hamilton,Vettel,1,2022,R
+Austin,42,11,Norris,Tsunoda,1,2022,R
+Austin,43,10,Norris,Zhou,1,2022,R
+Austin,44,9,Norris,Albon,1,2022,R
+Austin,45,8,Norris,Ocon,12,2022,R
+Austin,47,15,Ocon,Latifi,12,2022,R
+Austin,48,6,Alonso,Magnussen,12,2022,R
+Austin,48,11,Vettel,Tsunoda,15,2022,R
+Austin,49,8,Norris,Magnussen,12,2022,R
+Austin,49,10,Vettel,Zhou,19,2022,R
+Austin,50,1,Verstappen,Hamilton,12,2022,R
+Austin,51,9,Vettel,Albon,1,2022,R
+Austin,51,9,Albon,Vettel,1,2022,R
+Austin,51,9,Vettel,Albon,12,2022,R
+Austin,51,9,Albon,Vettel,13,2022,R
+Austin,51,9,Vettel,Albon,19,2022,R
+Austin,51,11,Tsunoda,Zhou,13,2022,R
+Austin,51,16,Ricciardo,Latifi,1,2022,R
+Austin,51,16,Latifi,Ricciardo,3,2022,R
+Austin,51,16,Ricciardo,Latifi,7,2022,R
+Austin,52,14,Ocon,Schumacher,12,2022,R
+Austin,53,10,Tsunoda,Albon,12,2022,R
+Austin,53,10,Albon,Tsunoda,13,2022,R
+Austin,53,11,Zhou,Tsunoda,13,2022,R
+Austin,53,11,Tsunoda,Zhou,15,2022,R
+Austin,53,12,Gasly,Zhou,16,2022,R
+Austin,54,10,Tsunoda,Albon,1,2022,R
+Austin,55,6,Norris,Alonso,12,2022,R
+Austin,55,11,Gasly,Albon,1,2022,R
+Austin,55,13,Ocon,Zhou,12,2022,R
+Austin,56,8,Vettel,Magnussen,19,2022,R
+Austin,56,12,Ocon,Albon,1,2022,R
+Mexico,5,18,Albon,Magnussen,5,2022,R
+Mexico,7,19,Latifi,Magnussen,1,2022,R
+Mexico,9,12,Ricciardo,Zhou,1,2022,R
+Mexico,9,17,Albon,Schumacher,1,2022,R
+Mexico,27,5,Perez,Leclerc,1,2022,R
+Mexico,31,10,Leclerc,Ricciardo,1,2022,R
+Mexico,33,17,Stroll,Magnussen,1,2022,R
+Mexico,38,6,Sainz,Bottas,1,2022,R
+Mexico,38,11,Ocon,Gasly,1,2022,R
+Mexico,38,14,Norris,Albon,1,2022,R
+Mexico,40,5,Sainz,Alonso,4,2022,R
+Mexico,41,10,Ocon,Bottas,1,2022,R
+Mexico,45,8,Ocon,Zhou,1,2022,R
+Mexico,45,9,Bottas,Zhou,1,2022,R
+Mexico,51,11,Albon,Vettel,1,2022,R
+Mexico,51,16,Stroll,Schumacher,1,2022,R
+Mexico,53,13,Gasly,Vettel,4,2022,R
+Mexico,57,9,Ricciardo,Bottas,1,2022,R
+Mexico,57,14,Zhou,Vettel,2,2022,R
+Mexico,60,7,Ocon,Alonso,1,2022,R
+Mexico,60,8,Ricciardo,Alonso,1,2022,R
+Mexico,61,7,Ricciardo,Ocon,1,2022,R
+Mexico,64,9,Norris,Bottas,1,2022,R
+Mexico,68,11,Gasly,Albon,1,2022,R
+Brazil,2,4,Sainz,Norris,2,2022,S
+Brazil,2,13,Ricciardo,Vettel,1,2022,S
+Brazil,2,13,Vettel,Ricciardo,4,2022,S
+Brazil,3,1,Verstappen,Magnussen,1,2022,S
+Brazil,3,6,Hamilton,Ocon,1,2022,S
+Brazil,4,3,Sainz,Magnussen,4,2022,S
+Brazil,4,7,Perez,Ocon,1,2022,S
+Brazil,5,5,Hamilton,Norris,1,2022,S
+Brazil,5,14,Schumacher,Albon,1,2022,S
+Brazil,6,4,Hamilton,Magnussen,1,2022,S
+Brazil,6,8,Leclerc,Ocon,1,2022,S
+Brazil,6,16,Tsunoda,Latifi,1,2022,S
+Brazil,7,9,Gasly,Ocon,1,2022,S
+Brazil,7,17,Zhou,Latifi,1,2022,S
+Brazil,7,18,Bottas,Latifi,10,2022,S
+Brazil,8,6,Perez,Norris,1,2022,S
+Brazil,9,5,Perez,Magnussen,1,2022,S
+Brazil,11,10,Vettel,Ocon,1,2022,S
+Brazil,11,17,Bottas,Tsunoda,1,2022,S
+Brazil,12,7,Leclerc,Norris,1,2022,S
+Brazil,15,1,Russell,Verstappen,4,2022,S
+Brazil,15,6,Leclerc,Magnussen,1,2022,S
+Brazil,15,12,Stroll,Ocon,1,2022,S
+Brazil,15,13,Schumacher,Ocon,4,2022,S
+Brazil,15,18,Alonso,Latifi,1,2022,S
+Brazil,16,14,Zhou,Ocon,1,2022,S
+Brazil,17,15,Bottas,Ocon,1,2022,S
+Brazil,19,2,Sainz,Verstappen,1,2022,S
+Brazil,20,7,Norris,Magnussen,4,2022,S
+Brazil,21,9,Vettel,Gasly,1,2022,S
+Brazil,22,16,Tsunoda,Ocon,4,2022,S
+Brazil,23,17,Alonso,Ocon,4,2022,S
+Brazil,24,16,Alonso,Tsunoda,6,2022,S
+Brazil,7,8,Gasly,Hamilton,3,2022,R
+Brazil,7,9,Schumacher,Hamilton,3,2022,R
+Brazil,7,8,Verstappen,Hamilton,4,2022,R
+Brazil,7,9,Stroll,Bottas,4,2022,R
+Brazil,7,9,Bottas,Stroll,5,2022,R
+Brazil,7,9,Stroll,Bottas,6,2022,R
+Brazil,7,11,Ocon,Zhou,1,2022,R
+Brazil,7,12,Alonso,Zhou,9,2022,R
+Brazil,8,12,Zhou,Alonso,1,2022,R
+Brazil,8,12,Alonso,Zhou,6,2022,R
+Brazil,9,3,Sainz,Norris,1,2022,R
+Brazil,9,7,Hamilton,Schumacher,1,2022,R
+Brazil,12,9,Bottas,Stroll,1,2022,R
+Brazil,12,14,Tsunoda,Latifi,1,2022,R
+Brazil,12,15,Albon,Latifi,4,2022,R
+Brazil,13,10,Ocon,Stroll,2,2022,R
+Brazil,13,14,Albon,Tsunoda,4,2022,R
+Brazil,14,5,Hamilton,Vettel,1,2022,R
+Brazil,14,11,Alonso,Stroll,4,2022,R
+Brazil,15,4,Hamilton,Norris,1,2022,R
+Brazil,16,11,Zhou,Stroll,1,2022,R
+Brazil,17,5,Vettel,Norris,1,2022,R
+Brazil,17,8,Bottas,Schumacher,1,2022,R
+Brazil,18,8,Ocon,Schumacher,1,2022,R
+Brazil,18,11,Sainz,Albon,9,2022,R
+Brazil,20,9,Sainz,Stroll,10,2022,R
+Brazil,21,8,Sainz,Schumacher,10,2022,R
+Brazil,24,5,Perez,Bottas,11,2022,R
+Brazil,24,7,Sainz,Ocon,1,2022,R
+Brazil,25,7,Alonso,Albon,1,2022,R
+Brazil,27,10,Ocon,Zhou,10,2022,R
+Brazil,28,7,Bottas,Gasly,1,2022,R
+Brazil,29,8,Vettel,Gasly,1,2022,R
+Brazil,29,14,Leclerc,Tsunoda,1,2022,R
+Brazil,30,8,Ocon,Gasly,1,2022,R
+Brazil,30,10,Norris,Zhou,1,2022,R
+Brazil,30,16,Verstappen,Albon,1,2022,R
+Brazil,33,14,Stroll,Tsunoda,1,2022,R
+Brazil,35,12,Leclerc,Schumacher,1,2022,R
+Brazil,36,9,Leclerc,Zhou,1,2022,R
+Brazil,36,12,Verstappen,Stroll,1,2022,R
+Brazil,36,15,Alonso,Albon,9,2022,R
+Brazil,40,14,Gasly,Albon,1,2022,R
+Brazil,41,10,Verstappen,Schumacher,1,2022,R
+Brazil,43,8,Leclerc,Norris,1,2022,R
+Brazil,44,11,Alonso,Schumacher,1,2022,R
+Brazil,45,2,Hamilton,Perez,1,2022,R
+Brazil,47,11,Leclerc,Gasly,1,2022,R
+Brazil,48,13,Norris,Zhou,4,2022,R
+Brazil,51,7,Leclerc,Vettel,1,2022,R
+Brazil,60,5,Leclerc,Bottas,1,2022,R
+Brazil,60,7,Alonso,Ocon,10,2022,R
+Brazil,60,7,Ocon,Vettel,1,2022,R
+Brazil,60,8,Alonso,Vettel,4,2022,R
+Brazil,60,9,Verstappen,Vettel,11,2022,R
+Brazil,60,12,Stroll,Schumacher,6,2022,R
+Brazil,61,6,Alonso,Bottas,6,2022,R
+Brazil,61,13,Gasly,Schumacher,2,2022,R
+Brazil,61,13,Schumacher,Gasly,3,2022,R
+Brazil,63,3,Sainz,Perez,4,2022,R
+Brazil,63,7,Verstappen,Ocon,1,2022,R
+Brazil,63,8,Ocon,Bottas,4,2022,R
+Brazil,63,8,Verstappen,Bottas,1,2022,R
+Brazil,63,11,Stroll,Zhou,1,2022,R
+Brazil,64,4,Leclerc,Perez,1,2022,R
+Brazil,65,5,Alonso,Perez,4,2022,R
+Brazil,66,13,Gasly,Schumacher,1,2022,R
+Brazil,66,13,Schumacher,Gasly,2,2022,R
+Brazil,66,13,Gasly,Schumacher,4,2022,R
+Brazil,68,12,Gasly,Zhou,1,2022,R
+Abu Dhabi,2,13,Ricciardo,Schumacher,6,2022,R
+Abu Dhabi,2,16,Albon,Magnussen,9,2022,R
+Abu Dhabi,3,17,Gasly,Magnussen,9,2022,R
+Abu Dhabi,4,14,Zhou,Schumacher,9,2022,R
+Abu Dhabi,5,4,Hamilton,Sainz,9,2022,R
+Abu Dhabi,5,6,Russell,Norris,9,2022,R
+Abu Dhabi,5,15,Albon,Schumacher,9,2022,R
+Abu Dhabi,6,16,Gasly,Schumacher,6,2022,R
+Abu Dhabi,6,16,Schumacher,Gasly,9,2022,R
+Abu Dhabi,8,4,Sainz,Hamilton,9,2022,R
+Abu Dhabi,8,8,Vettel,Ocon,9,2022,R
+Abu Dhabi,8,8,Ocon,Vettel,9,2022,R
+Abu Dhabi,9,5,Russell,Hamilton,9,2022,R
+Abu Dhabi,9,19,Bottas,Latifi,6,2022,R
+Abu Dhabi,14,15,Magnussen,Gasly,12,2022,R
+Abu Dhabi,15,14,Ocon,Latifi,6,2022,R
+Abu Dhabi,16,5,Perez,Vettel,6,2022,R
+Abu Dhabi,16,5,Vettel,Perez,9,2022,R
+Abu Dhabi,16,6,Perez,Alonso,5,2022,R
+Abu Dhabi,17,5,Perez,Vettel,6,2022,R
+Abu Dhabi,17,11,Norris,Bottas,6,2022,R
+Abu Dhabi,18,8,Russell,Ricciardo,6,2022,R
+Abu Dhabi,18,10,Norris,Magnussen,6,2022,R
+Abu Dhabi,19,5,Sainz,Alonso,6,2022,R
+Abu Dhabi,19,11,Ocon,Bottas,9,2022,R
+Abu Dhabi,19,12,Ocon,Magnussen,6,2022,R
+Abu Dhabi,20,4,Sainz,Vettel,6,2022,R
+Abu Dhabi,20,10,Bottas,Magnussen,6,2022,R
+Abu Dhabi,20,11,Stroll,Magnussen,9,2022,R
+Abu Dhabi,20,18,Gasly,Ricciardo,6,2022,R
+Abu Dhabi,20,18,Ricciardo,Gasly,9,2022,R
+Abu Dhabi,21,5,Russell,Vettel,6,2022,R
+Abu Dhabi,21,10,Stroll,Bottas,6,2022,R
+Abu Dhabi,21,12,Tsunoda,Magnussen,6,2022,R
+Abu Dhabi,22,13,Alonso,Magnussen,5,2022,R
+Abu Dhabi,23,6,Hamilton,Vettel,6,2022,R
+Abu Dhabi,23,11,Alonso,Tsunoda,6,2022,R
+Abu Dhabi,23,11,Tsunoda,Alonso,9,2022,R
+Abu Dhabi,23,11,Tsunoda,Bottas,6,2022,R
+Abu Dhabi,23,12,Alonso,Bottas,6,2022,R
+Abu Dhabi,23,14,Albon,Magnussen,9,2022,R
+Abu Dhabi,23,17,Ricciardo,Schumacher,9,2022,R
+Abu Dhabi,24,7,Norris,Vettel,6,2022,R
+Abu Dhabi,24,11,Alonso,Tsunoda,6,2022,R
+Abu Dhabi,24,15,Zhou,Magnussen,6,2022,R
+Abu Dhabi,25,13,Albon,Bottas,9,2022,R
+Abu Dhabi,25,16,Ricciardo,Magnussen,6,2022,R
+Abu Dhabi,25,17,Schumacher,Magnussen,9,2022,R
+Abu Dhabi,26,17,Gasly,Magnussen,6,2022,R
+Abu Dhabi,27,14,Ricciardo,Bottas,6,2022,R
+Abu Dhabi,27,18,Vettel,Magnussen,5,2022,R
+Abu Dhabi,28,14,Schumacher,Bottas,9,2022,R
+Abu Dhabi,28,16,Vettel,Gasly,6,2022,R
+Abu Dhabi,30,12,Ricciardo,Zhou,9,2022,R
+Abu Dhabi,30,15,Vettel,Bottas,6,2022,R
+Abu Dhabi,30,16,Gasly,Bottas,9,2022,R
+Abu Dhabi,39,16,Schumacher,Bottas,6,2022,R
+Abu Dhabi,40,5,Sainz,Norris,6,2022,R
+Abu Dhabi,40,8,Russell,Stroll,6,2022,R
+Abu Dhabi,43,8,Ocon,Ricciardo,6,2022,R
+Abu Dhabi,43,10,Vettel,Zhou,9,2022,R
+Abu Dhabi,44,11,Stroll,Zhou,6,2022,R
+Abu Dhabi,44,11,Zhou,Stroll,7,2022,R
+Abu Dhabi,44,11,Stroll,Zhou,9,2022,R
+Abu Dhabi,45,3,Perez,Hamilton,6,2022,R
+Abu Dhabi,45,3,Hamilton,Perez,9,2022,R
+Abu Dhabi,46,3,Perez,Hamilton,9,2022,R
+Abu Dhabi,46,13,Albon,Gasly,6,2022,R
+Abu Dhabi,46,15,Zhou,Schumacher,6,2022,R
+Abu Dhabi,46,15,Schumacher,Zhou,9,2022,R
+Abu Dhabi,48,15,Zhou,Schumacher,6,2022,R
+Abu Dhabi,49,9,Stroll,Ricciardo,6,2022,R
+Abu Dhabi,49,9,Ricciardo,Stroll,9,2022,R
+Abu Dhabi,50,9,Stroll,Ricciardo,6,2022,R
+Abu Dhabi,53,16,Bottas,Schumacher,6,2022,R
+Abu Dhabi,56,13,Zhou,Gasly,6,2022,R
+Abu Dhabi,57,12,Zhou,Albon,6,2022,R
+Abu Dhabi,57,12,Albon,Zhou,9,2022,R
+Abu Dhabi,57,12,Zhou,Albon,9,2022,R
