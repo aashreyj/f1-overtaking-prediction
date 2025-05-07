@@ -34,3 +34,5 @@ tzdata==2025.1
 url-normalize==1.4.3
 urllib3==2.3.0
 websockets==13.1
+xgboost==1.7.5
+scikit-learn==1.2.2
