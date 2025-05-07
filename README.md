@@ -1,4 +1,6 @@
-# F1 Overtake Prediction Model
+<H1 style="text-align: center;"> CS7.403b: Statistical Methods in AI </H1>
+<H3 style="text-align: center;"> Final Project: AI For Formula One </H3>
+
 
 This machine learning project predicts overtakes in Formula 1 races by analyzing telemetry and event data. Using an XGBoost classifier, we can predict whether an overtake will occur based on various race conditions and car performance metrics.
 
@@ -13,6 +15,10 @@ Formula 1 overtaking is influenced by numerous factors including car performance
 - **Model Training**: Train and optimize an XGBoost classifier for overtake prediction
 - **Performance Evaluation**: Comprehensive metrics including accuracy, precision, recall, and F1-score
 - **Prediction System**: Make predictions on new race scenarios
+
+## Model Weights and Dataset
+Download the model weights and datasets from:
+[Google Drive - F1 Overtake Prediction Files](https://drive.google.com/drive/folders/1Lq3HhjN9XMZBNVjsL7g6xNIYtB4iHR0g?usp=sharing)
 
 ## Installation
 
@@ -87,13 +93,6 @@ You can make predictions in this ways:
 ```bash
 python infer.py --input your_input_data.csv --output predictions.csv
 ```
-
-
-## Model Performance
-
-The XGBoost classifier achieves the following performance metrics:
-
-- Accuracy: 79%
 
 ## Dataset Description
 
