@@ -1,18 +1,16 @@
-import pandas as pd
 import joblib
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import classification_report, confusion_matrix
-import seaborn as sns
 import matplotlib.pyplot as plt
-import os
+import pandas as pd
+import seaborn as sns
+from sklearn.metrics import classification_report, confusion_matrix
+from sklearn.model_selection import train_test_split
 
-from google.colab import drive
-drive.mount('/content/drive')
-
-os.makedirs("/content/drive/MyDrive/F1/models/", exist_ok=True)
+DATA_FILE_PATH = "smai/data/merged_normalized_data.csv"
+MODEL_WEIGHTS_PATH = "smai/models/xgboost.pkl"
+SCALER_WEIGHTS_PATH = "smai/models/scaler.pkl"
 
 # Load data
-df = pd.read_csv("merged_normalized_data.csv")
+df = pd.read_csv(DATA_FILE_PATH)
 drop_cols = ['Race', 'Overtaker', 'Overtaken', 'Turn', 'Session', 'Lap', 'Position',
              'Year', 'OvertakerNumber', 'OvertakenNumber', 'X', 'Y']
 df.drop(columns=drop_cols, inplace=True)
@@ -21,14 +19,14 @@ df.dropna(inplace=True)
 X = df.drop("OvertakeHappened", axis=1)
 y = df["OvertakeHappened"]
 
-scaler = joblib.load('/content/drive/MyDrive/F1/models/scaler.pkl')
+scaler = joblib.load(SCALER_WEIGHTS_PATH)
 
 X_scaled = scaler.transform(X)
 
 _, X_test, _, y_test = train_test_split(X_scaled, y, test_size=0.2, random_state=42, stratify=y)
 
 # Load model
-xgb = joblib.load('/content/drive/MyDrive/F1/models/xgboost.pkl')
+xgb = joblib.load(MODEL_WEIGHTS_PATH)
 
 # Evaluate
 y_pred = xgb.predict(X_test)

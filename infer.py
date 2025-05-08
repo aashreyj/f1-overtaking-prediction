@@ -1,16 +1,14 @@
 import joblib
 import pandas as pd
-import os
 
-from google.colab import drive
-drive.mount('/content/drive')
-
-os.makedirs("/content/drive/MyDrive/F1/models/", exist_ok=True)
+INPUT_FILE_PATH = "smai/data/overtake_test_data.csv"
+MODEL_WEIGHTS_PATH = "smai/models/xgboost.pkl"
+SCALER_WEIGHTS_PATH = "smai/models/scaler.pkl"
 
 # Load model and scaler
 
-xgb = joblib.load('/content/drive/MyDrive/F1/models/xgboost.pkl')
-scaler = joblib.load('/content/drive/MyDrive/F1/models/scaler.pkl')
+xgb = joblib.load(MODEL_WEIGHTS_PATH)
+scaler = joblib.load(SCALER_WEIGHTS_PATH)
 
 # Full list of features used for prediction (including NormalizedPosition)
 feature_columns = [
@@ -24,8 +22,7 @@ feature_columns = [
 ]
 
 # Load CSV
-input_file = "/content/overtake_test_data.csv"
-df = pd.read_csv(input_file)
+df = pd.read_csv(INPUT_FILE_PATH)
 
 # Select only the necessary feature columns
 X = df[feature_columns]
@@ -38,5 +35,5 @@ predictions = xgb.predict(X_scaled)
 
 # Print human-readable predictions
 for idx, pred in enumerate(predictions):
-    message = "Yes, overtake happened" if pred == 1 else "No, overtake did not happen"
+    message = "Overtake happened!" if pred == 1 else "Overtake did not happen..."
     print(f"Row {idx + 1}: {message}")

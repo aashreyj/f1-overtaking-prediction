@@ -13,7 +13,7 @@ joblib==1.4.2
 kiwisolver==1.4.8
 matplotlib==3.10.1
 mypy-extensions==1.0.0
-numpy==2.2.4
+numpy==2.2.5
 packaging==24.2
 pandas==2.2.3
 pathspec==0.12.1
@@ -25,6 +25,7 @@ pytz==2025.1
 RapidFuzz==3.12.2
 requests==2.32.3
 requests-cache==1.2.1
+scikit-learn==1.6.1
 scipy==1.15.2
 seaborn==0.13.2
 six==1.17.0
@@ -35,4 +36,3 @@ url-normalize==1.4.3
 urllib3==2.3.0
 websockets==13.1
 xgboost==1.7.5
-scikit-learn==1.2.2
